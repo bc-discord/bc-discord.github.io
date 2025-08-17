@@ -1,11 +1,10 @@
 ---
 layout: default
 title: Directory
-permalink: /pages/
 nav_exlude: true
-# nav_order: 5
+nav_order: 5
 ---
-<!-- <h1>{{ page.title }}</h1>
+<h1>{{ page.title }}</h1>
 
 {%- assign all = site.pages
   | where_exp: "p", "p.path contains 'pages/'"
@@ -33,4 +32,4 @@ nav_exlude: true
       {%- endunless -%}
     {%- endfor -%}
   </ul>
-{%- endfor -%} -->
+{%- endfor -%}

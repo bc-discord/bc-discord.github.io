@@ -2,7 +2,6 @@
 layout: page
 title: Events
 nav_order: 3
-permalink: /events/
 ---
 
 # Blade Show

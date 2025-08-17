@@ -2,7 +2,6 @@
 layout: page
 title: Replicant
 nav_exclude: true
-permalink: /balisongs/brs/replicant/
 ---
 
 - Status: Active
