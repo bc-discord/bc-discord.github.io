@@ -5,7 +5,7 @@ nav_exclude: true
 ---
 
 Balisongs
-- [Replicant](/pages/balisongs/brs/replicant.html)
+- [Replicant]({% link pages/balisongs/brs/replicant.md %})
 
 Links
 - [Homepage](https://www.bladerunnerssystems.com/)

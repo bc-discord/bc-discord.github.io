@@ -1,13 +1,17 @@
 ---
 layout: page
 title: Lubricants
-nav_exclude: true
+parent: Sales
+nav_order: 3
 ---
+Thickness: Very Thin, Thin, Moderate, Thick, Very Thick
+
 {: .warning }
 > - Do not use WD-40 or organic oils (e.g., olive oil)
 > - Do not mix lubricants - clean your pivots when using switching to a different oil
 
 # Manufacturer
+---
 - Hoppes No. 9
     - [Amazon](https://www.amazon.com/Hoppes-No-Lubricating-Oil-Bottle/dp/B000PW64JY/ref=sr_1_2?dchild=1&keywords=Hopps+9+oil&qid=1633654767&sr=8-2)
     - Description: Very simple oil. Most likely plain mineral oil. If you are confused on what to get, get this.
@@ -26,6 +30,7 @@ nav_exclude: true
 
 
 # Community
+---
 - lōōb  
     - [Homepage](https://wavemeow.xyz/loob)
     - Description: Questionable origins. Made by community member [wavemeow](https://www.instagram.com/kurochow/reels/).
@@ -35,6 +40,3 @@ nav_exclude: true
     - Scents: Donut
 - CANTOGROUP
     - [Instagram](https://www.instagram.com/canto.group/?hl=en), [Etsy](https://www.etsy.com/shop/cantogroup?ref=nla_listing_details&dd_referrer=https%3A%2F%2Fwww.etsy.com%2Flisting%2F1778915643%2Fcantogroup-balisong-oil%3Fref%3Dshop_home_active_1%26crt%3D1%26logging_key%3D566ee48f4d719f1a33d2fdfd00c6550592a08353%253A1778915643%26load_webview%3D1%26bid%3D51EWTV4HOG16r-EO38SuxMcTKFCP)
-
-# Scales
-Thickness: Very Thin, Thin, Moderate, Thick, Very Thick

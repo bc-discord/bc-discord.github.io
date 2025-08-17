@@ -4,6 +4,7 @@ title: Terminology
 nav_order: 2
 ---
 # "Balisong"
+---
 - Butterfly Knife: The American way of referring to a balisong, originating from the iconic Benchmade logo of a butterfly as well as symbolically referring to the way the handles fly.
 - Batangas Knife: The Traditional way of referring to a balisong, referencing the City of Batangas
 - Fan Knife: The Filipino way of referring to a balisong, referencing the fanning motion of the knife
@@ -11,6 +12,7 @@ nav_order: 2
 - Balisong: The most common way of referring to a balisong
 
 # Balisong Classification
+---
 - Live Blade: A balisong with a sharp edge.
 - Trainer: An unsharpened balisong designed for practice. May have either a sdedicated trainer blade or unsharpened live blade.
 - Clone: A copy of an original design made with every corner cut imaginable.
@@ -25,6 +27,7 @@ nav_order: 2
 - Handmade: Entirely made without CNC machining.
 
 # Misc
+---
 - Balance/Bias: A term referring to the balance of a knife during flipping (Blade, Neutral, Handle) - this is predominantly preference and many feel balance differently.
 - Ring of Shame: Refers to an injury that occurs after a bite handle chaplin.
 - Kisses/Bites: Any cut from a balisong.

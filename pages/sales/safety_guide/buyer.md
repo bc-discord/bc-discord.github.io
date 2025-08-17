@@ -2,7 +2,7 @@
 layout: default
 title: For the Buyer
 parent: Sales
-permalink: /sales/buyer/
+nav_order: 1
 ---
 # Anatomy of a Sale
 Here's a guide on how to navigate the balisong secondhand market with etiquette and safety tips.

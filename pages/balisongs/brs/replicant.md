@@ -9,6 +9,14 @@ permalink: /balisongs/brs/replicant/
 - Drop schedule: Sporadic
 - Maker: [Bladerunners Systems](/pages/balisongs/brs/maker.html)
 
+{: .no_toc }
+
+# Table of contents
+{: .no_toc .text-delta }
+
+- TOC
+{:toc}
+
 # Specification
 ---
 ## Material and Construction

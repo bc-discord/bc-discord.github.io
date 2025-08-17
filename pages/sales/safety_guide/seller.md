@@ -2,7 +2,7 @@
 layout: default
 title: For the Seller
 parent: Sales
-permalink: /sales/seller/
+nav_order: 2
 ---
 # Anatomy of a Sale
 
