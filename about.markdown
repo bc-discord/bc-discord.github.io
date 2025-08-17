@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-permalink: /about/
+nav_order: 6
 ---
 This is a small wiki for the Balisong Community discord server. This website serves most text and a few images. If you would like to contribute:
 
