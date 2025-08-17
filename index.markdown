@@ -10,6 +10,13 @@ permalink: /
 
 # Frequently Asked Questions
 ---
-- [Where do I go to meet other flippers?](/events/)
-- [What are replicant hardware specs?](/balisongs/brs/replicant/#hardware-measurements)
-- [What countries are safe to ship whole balisongs to?](/sales/seller/#international-shipping)
+
+### What
+- [What are replicant hardware specs?]({% link pages/balisongs/brs/replicant.md %}#hardware-measurements)
+- [What countries are safe to ship whole balisongs to?]({% link pages/sales/safety_guide/seller.md %}#international-shipping)
+
+### Where
+- [Where do I go to meet other flippers?]({% link pages/events.md %})
+
+### Why
+- [Why are balisongs expensive?]({% link pages/questions/why_expensive.md %})

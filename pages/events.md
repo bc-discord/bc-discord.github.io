@@ -6,6 +6,7 @@ permalink: /events/
 ---
 
 # Blade Show
+---
 - [Homepage](https://bladeshow.com/home/)
 
 The biggest event in the United States for all knives.
