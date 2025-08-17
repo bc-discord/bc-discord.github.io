@@ -2,22 +2,48 @@
 layout: page
 title: Replicant
 nav_exclude: true
+permalink: /balisongs/brs/replicant/
 ---
 
 - Status: Active
 - Drop schedule: Sporadic
 - Maker: [Bladerunners Systems](/pages/balisongs/brs/maker.html)
 
-### Specification
+# Specification
+---
+## Material and Construction
 - Handles construction: Sandwich (liners and scales)
 - Material:
-    - Scales: G10/Carbon Fiber
+    - Scales: G10
     - Liners: Titanium
+    - Liner finish: Stonewashed
 - Blade shape: Tanto
-- Blade material: CPM 154
+- Blade material: 154CM
+- Blade finish: Stonewashed
 
+## Numerical Specifications
+- Overall length: 10.00 in
+- Blade 
+    - length: 4.50 in
+    - thickness: 0.125 in
+- Handle 
+    - length: 5.50 in
+    - thickness: 0.55 in
+- Weight: 4.90 oz
 
-### Measurements
+## Variants
+The Replicant comes with a wide variety of offical variants from BRS.
+- Killer Bee 
+    - [Homepage](https://www.bladerunnerssystems.com/collections/bladerunners-systems-alpha-beast-series/products/killer-bee-replicant)
+    - Liner finish: Black PVD Coating
+    - Scale material: Black and yellow G-10
+- Tigher Replicant
+    - [Homepage](https://www.bladerunnerssystems.com/collections/bladerunners-systems-alpha-beast-series/products/tiger-replicant)
+    - Blade shape: Alt (Spearpoint/Scorpion Tip Tanto)
+    - Scale material: Black, orange, and white G-10
+
+# Hardware Measurements
+---
 
 | Component     | Specs                                                                                                                                                 | Purchase                                                                                                                                                                                                                   |
 |---------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|

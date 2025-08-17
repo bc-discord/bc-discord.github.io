@@ -1,10 +1,12 @@
 ---
 layout: page
 title: Sales
-nav_order: 2
+nav_order: 4
 has_children: true
+permalink: /sales/
 ---
 # Terminology
+---
 
 | Abbreviation | Full Name              | Description                                                                 |
 |--------------|------------------------|-----------------------------------------------------------------------------|
@@ -15,3 +17,16 @@ has_children: true
 | OBO          | Or Best Offer          | Indicates the price is negotiable, and the seller is open to considering other offers. |
 | ISO          | In Search Of           | A post where the user is trying to find and acquire a particular knife or gear. |
 | CONUS        | Continental United States | Specifies that the seller is only willing to ship within the continental US. |
+
+# Platforms
+---
+A few platforms exist to sell.
+
+- Reddit
+    - [r/BalisongSale](https://www.reddit.com/r/BalisongSale/)
+- Facebook
+    - [Balisong Sales Sell Your Knives Here]()
+- Instagram
+    - [#balisongsale](): Defunct. Hashtags no longer sort by date or include every post. 
+    - [BalisongMarket](https://www.instagram.com/balisongmarket/): Operated by community members.
+        - [BalisongMarketV2](https://www.instagram.com/balisongmarketv2/)

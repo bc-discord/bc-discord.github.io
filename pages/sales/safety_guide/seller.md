@@ -2,9 +2,20 @@
 layout: default
 title: For the Seller
 parent: Sales
+permalink: /sales/seller/
 ---
 # Anatomy of a Sale
+
+{: .no_toc }
+
+# Table of contents
+{: .no_toc .text-delta }
+
+- TOC
+{:toc}
+
 ## Shipping
+---
 ### Logistics
 
 USPS is the easiest shipping service to use in the States. They provide shipping material for Priority and more expensive shipping options. They offers 3 main types of shipping. 
@@ -30,6 +41,7 @@ If you can't find packing material like bubble wrap, paper towels work well. You
 If you use USPS, **do not** get the insurance they offer; the price of insurance is marked on the package and has lead to theft by USPS workers in the past. Shipsurance from Pirateship works well and hides the price from the shipping company. If you are the first time owner and have a receipt, you will be much more successful when claiming the insurance.
 
 ## International Concerns
+---
 ### Proxy Shipping
 If you are not capable of shipping internationally, you can find an international proxy to handle shipping for you. They essentially act as a middleman except the buyer must pay first before shipment begins. International proxies usually charge shipping cost and a fee.
 
@@ -37,9 +49,17 @@ If you are not capable of shipping internationally, you can find an internationa
 
 When using USPS for international needs, they will hand off the package to the local shipping company in that country. If the country has good local mailing services, USPS is fine. If not, UPS is a good option, UPS will handle the delivery throughout the entire process. DHS works exceptionally well for Asian and EU countries too, but have limited availability in the U.S.
 
-Here's a table of known countries that are safe to ship a whole balisong to.
-
 As a general rule of thumb, most of the EU is not safe to ship whole besides eastern EU countries. Most of Asia and Oceania is not safe.
+
+Here's a table of known countries that are safe to ship a whole balisong (live or trainer) to.
+
+#### North America
+
+| Status   | Countries                          |
+|----------|------------------------------------|
+| Not Safe |  Canada  |
+| Safe     | United States (CONUS)    |
+
 
 #### Europe
 
@@ -52,8 +72,8 @@ As a general rule of thumb, most of the EU is not safe to ship whole besides eas
 
 | Status   | Countries      |
 |----------|----------------|
-| Not Safe | Singapore      |
-| Safe     | Taiwan         |
+| Not Safe | Singapore, South Korea      |
+| Safe     | Taiwan, Vietnam        |
 
 #### Oceania
 

@@ -2,7 +2,7 @@
 layout: default
 title: Directory
 permalink: /pages/
-nav_order: 3
+nav_order: 5
 ---
 <h1>{{ page.title }}</h1>
 
