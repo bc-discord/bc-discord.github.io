@@ -1,4 +1,8 @@
-### Why are balisongs expensive?
+---
+layout: default
+title: Why are balisongs expensive?
+nav_exclude: true
+---
 
 - **Hobby**: Balisong flipping is quite a niche hobby. Due to this, there are not very many companies making them, and those who do tend to use batch production. This means that they cannot take advantage of the cost savings from mass production as they would likely end up with stock they cannot sell.
 - **Costs**: A lot of work goes into making one. When thinking of production costs, people generally like to only think of material cost and say things like “it's only 3 pieces of metal”. This is far from the only cost involved: rent, utilities, wages, insurance and machine costs (the average cost of a CNC is $75,000) are all factors that go into the end cost of a balisong.
