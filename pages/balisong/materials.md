@@ -13,18 +13,24 @@ parent: Balisong
  - **Aluminum**: Either 6061 or 7075; makes no difference in flipping unless heavily beaten to show difference between durability.
  - **Carbon Fiber**: Typically used as scale materials.
  - **G-10**: Typically used as scale materials.
+ - **Micarta**: Typically used as scale materials.
 
 ### Fancy Material
 
 #### Titanium ONLY
 
-- Timascus
+- Timascus (trademark by Alpha Knife Supply)
 - MokuTi
-- Damatanium
+- Damatanium (trademark by VegasForge)
+- Crystalized Titanium
 
 #### Titanium + Zirconium
 
+- **Zircuti**: A damascus style material made by layering titanium and zirconium, then heat treated to create colors and patterns
+
 #### Mokume
+
+- **Mokume-Gane**: A damascus style material made by layering nonreactive materials, typically nickel, silver, copper, and brass.
 
 ## Blade
 ---
@@ -40,11 +46,13 @@ A majority of modern balisongs are stainless steel; a few are commonly used for 
 
 **Damascus** is considered a laminate of two or more steels that is manipulated to produce a pattern during the fabrication process. As with regular steel, they come in carbon steel or stainless steel.
 
-- [Chad Nichols](https://nicholsdamascus.com/collections/all-damascus)
+- [Nichols Damascus](https://nicholsdamascus.com/collections/all-damascus)
 - [Vegas Forge](https://vegasforge.com/collections/stainless-carbon-damascus)
 - [Damasteel](https://damasteel.se/steel-and-patterns/all-patterns)
-
+- [Bakerforge](https://www.bakerforge.com/productionsteel)
+- [Mike Norris Damascus](https://ssdamascus.net/patterns/) (Not as common on balis, but well known in the custom folder community)
+- 
 Few makers have experience with machining this material:
-- Stitched Steel, Sycoblade Works, Mantis Bladeworks, Squid Industries
+- Stitched Steel, Sycoblade Works, Mantis Bladeworks, Squid Industries, Eldon Talley
 
 Some steels have a **core**, meaning two steels are sandwich together; one steel being the 'bread', another steel being the 'meat'. Most damascus makers also make cored steel as well. Damascus makers can even combine both, meaning damascus steel for the 'bread' then a simpler steel for the 'meat'.
