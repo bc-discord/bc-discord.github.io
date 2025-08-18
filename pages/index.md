@@ -4,6 +4,7 @@ title: Directory
 nav_exlude: true
 nav_order: 5
 ---
+
 <h1>{{ page.title }}</h1>
 
 {%- assign all = site.pages
