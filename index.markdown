@@ -23,3 +23,4 @@ nav_order: 1
 
 ### How
 - [How do I keep myself safe when buying?]({% link pages/sales/safety_guide/buyer.md %}#the-scammer)
+- [How do I stop my body screws from spinning?]({% link pages/questions/spinning_pivots/spinning_pivots.md %})

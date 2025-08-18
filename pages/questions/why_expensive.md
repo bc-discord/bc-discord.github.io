@@ -1,7 +1,9 @@
 ---
 layout: default
-title: Why are balisongs expensive?
 nav_exclude: true
+---
+
+# Why are balisongs expensive?
 ---
 
 - **Hobby**: Balisong flipping is quite a niche hobby. Due to this, there are not very many companies making them, and those who do tend to use batch production. This means that they cannot take advantage of the cost savings from mass production as they would likely end up with stock they cannot sell.
@@ -12,5 +14,5 @@ nav_exclude: true
 
 
 Here are a couple of videos that go through the manufacturing and assembly process of Squid Industries (bearing in mind they're one of the largest companies with one of, if not the highest output):
-- https://www.youtube.com/watch?v=aSMf0Us8yqA
-- https://www.youtube.com/watch?v=kQbhgPf_R-0
+- [Will Hirsch, How BALISONGS Are Made!](https://www.youtube.com/watch?v=aSMf0Us8yqA)
+- [Will Hirsch, The Balisong Assembly Process](https://www.youtube.com/watch?v=kQbhgPf_R-0)
