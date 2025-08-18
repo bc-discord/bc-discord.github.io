@@ -13,14 +13,15 @@ Thickness: Very Thin, Thin, Moderate, Thick, Very Thick
 # Manufacturer
 ---
 
-| Product              | Link                                                                                                                   | Description                                   | Consistency | Scents |
-|----------------------|------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|-------------|--------|
-| Hoppes No. 9         | [Amazon](https://www.amazon.com/Hoppes-No-Lubricating-Oil-Bottle/dp/B000PW64JY/ref=sr_1_2?dchild=1&keywords=Hopps+9+oil&qid=1633654767&sr=8-2) | Very simple oil. Most likely plain mineral oil. If you are confused on what to get, get this. | Thin        | –      |
-| KPL Pivot Lube (Original) | [Squid Industries](https://www.squidindustries.co/products/kpl-knife-lube)                                         | –                                             | –           | Cherry |
-| Benchmade Blue       | [Benchmade](https://www.benchmade.com/bluelubetm-ae08c3cc7daf0d5fe2214110d86e4890.html)                                | –                                             | –           | –      |
-| Super Lube           | [Amazon](https://www.amazon.com/gp/product/B000UKUHXK/ref=ox_sc_rp_title_rp_5?smid=&psc=1&pf_rd_p=bf2283c9-4698-4113-8444-26b82a8b2c6f&pd_rd_wg=c2L1A&pd_rd_i=B000UKUHXK&pd_rd_w=Fewb2&pd_rd_r=4dd578e3-58f9-4fd9-bdca-a9c4400518a5) | –                                             | –           | –      |
-| Lucas Gun Oil        | [Amazon](https://www.amazon.com/Lucas-Oil-10877-Extreme-Duty/dp/B07656VLLG/ref=sr_1_2?keywords=lucas+gun+oil+extreme+duty&qid=1661808600&sprefix=lucas+gun+oil+extreme%2Caps%2C781&sr=8-2) | –                                             | –           | –      |
-| Krytox GPL 106       | [Squid Industries](https://www.squidindustries.co/products/krytox-106-lubricating-oil)                                 | –                                             | –           | –      |
+| Product | Link | Description | Consistency |
+|-|----|-----------|-------------|
+| Mineral Oil | -- | The simplest oil to get. If you are confused on what to get, get this. You can find this anywhere in bulk; check your general store or pharmacy. | Very Thin |
+| Hoppes No. 9 | [Amazon](https://www.amazon.com/Hoppes-No-Lubricating-Oil-Bottle/dp/B000PW64JY/ref=sr_1_2?dchild=1&keywords=Hopps+9+oil&qid=1633654767&sr=8-2) | Very simple oil. Most likely plain mineral oil. | Very Thin  |
+| KPL Pivot Lube (Original) | [Squid Industries](https://www.squidindustries.co/products/kpl-knife-lube)                                         | –                                             | –           |
+| Benchmade Blue       | [Benchmade](https://www.benchmade.com/bluelubetm-ae08c3cc7daf0d5fe2214110d86e4890.html)                                | –                                             | –           |
+| Super Lube           | [Amazon](https://www.amazon.com/gp/product/B000UKUHXK/ref=ox_sc_rp_title_rp_5?smid=&psc=1&pf_rd_p=bf2283c9-4698-4113-8444-26b82a8b2c6f&pd_rd_wg=c2L1A&pd_rd_i=B000UKUHXK&pd_rd_w=Fewb2&pd_rd_r=4dd578e3-58f9-4fd9-bdca-a9c4400518a5) | –                                             | –           |
+| Lucas Gun Oil        | [Amazon](https://www.amazon.com/Lucas-Oil-10877-Extreme-Duty/dp/B07656VLLG/ref=sr_1_2?keywords=lucas+gun+oil+extreme+duty&qid=1661808600&sprefix=lucas+gun+oil+extreme%2Caps%2C781&sr=8-2) | –                                             | –           |
+| Krytox GPL 106       | [Squid Industries](https://www.squidindustries.co/products/krytox-106-lubricating-oil)                                 | –                                             | –           |
 
 # Community
 ---
