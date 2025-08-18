@@ -15,7 +15,11 @@ nav_order: 1
 - [What countries are safe to ship whole balisongs to?]({% link pages/sales/safety_guide/seller.md %}#international-shipping)
 
 ### Where
+- [Where do I sell my balisongs?]({% link pages/sales/sales.md %}#platforms)
 - [Where do I go to meet other flippers?]({% link pages/events.md %})
 
 ### Why
 - [Why are balisongs expensive?]({% link pages/questions/why_expensive.md %})
+
+### How
+- [How do I keep myself safe when buying?]({% link pages/sales/safety_guide/buyer.md %}#the-scammer)

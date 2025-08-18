@@ -45,6 +45,7 @@ Sometimes you'll run across sellers that seem shady and have little references. 
 - [ ] Request a video with a timestamp in view to check if they actually own the item.
 - [ ] Ask for names of previous buyers to verify their selling history.
 - [ ] Discuss relevant topics on balisongs, scammers tend to be unknowledgable on the hobby.
+- [ ] Opt to use PayPal Goods and Services (G&S) to have leverage during scammer confrontation.
 
 ## Buyer-Seller Handoff
 ---

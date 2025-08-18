@@ -38,17 +38,6 @@ nav_exclude: true
     - thickness: 0.55 in
 - Weight: 4.90 oz
 
-## Variants
-The Replicant comes with a wide variety of offical variants from BRS.
-- Killer Bee 
-    - [Homepage](https://www.bladerunnerssystems.com/collections/bladerunners-systems-alpha-beast-series/products/killer-bee-replicant)
-    - Liner finish: Black PVD Coating
-    - Scale material: Black and yellow G-10
-- Tigher Replicant
-    - [Homepage](https://www.bladerunnerssystems.com/collections/bladerunners-systems-alpha-beast-series/products/tiger-replicant)
-    - Blade shape: Alt (Spearpoint/Scorpion Tip Tanto)
-    - Scale material: Black, orange, and white G-10
-
 # Hardware Measurements
 ---
 
@@ -59,3 +48,15 @@ The Replicant comes with a wide variety of offical variants from BRS.
 | Shoulder pins | Threading: 5-32<br>Length: .1565 in                                                                                                                   | [TRUE~LINK](https://thetruelink.com/products/5-32-shoulder-pin)                                                                                                                                                           |
 | Bushings      | .250 in (OD) x .188 in (ID)                                                                                                                           | [TRUE~LINK](https://thetruelink.com/products/250-od-x-188-id-bushing-xp)                                                                                                                                                  |
 | Washers       | .375 in (OD) x .188 in (ID)<br>Thickness: .016 in                                                                                                     | [TRUE~LINK](https://thetruelink.com/products/375-x-188-phosphorus-bronze-washers)                                                                                                                                         |
+
+# Variants
+---
+The Replicant comes with a wide variety of offical variants from BRS.
+- Killer Bee 
+    - [Homepage](https://www.bladerunnerssystems.com/collections/bladerunners-systems-alpha-beast-series/products/killer-bee-replicant)
+    - Liner finish: Black PVD Coating
+    - Scale material: Black and yellow G-10
+- Tiger Replicant
+    - [Homepage](https://www.bladerunnerssystems.com/collections/bladerunners-systems-alpha-beast-series/products/tiger-replicant)
+    - Blade shape: Alt (Spearpoint/Scorpion Tip Tanto)
+    - Scale material: Black, orange, and white G-10
