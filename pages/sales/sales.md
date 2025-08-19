@@ -28,7 +28,6 @@ A few platforms exist to sell.
     - [Balisong Sales Sell Your Knives Here](https://www.facebook.com/groups/BalisongSales/)
 - Instagram
     - [#balisongsale](): Defunct. Hashtags no longer sort by date or include every post. 
-    - [BalisongMarket](https://www.instagram.com/balisongmarket/): Operated by community members.
-        - [BalisongMarketV2](https://www.instagram.com/balisongmarketv2/)
+    - [BalisongMarket](https://www.instagram.com/balisongmarket/), [BalisongMarketV2](https://www.instagram.com/balisongmarketv2/): Operated by community members.
 - Discord
     - [Balisong Community](https://discord.com/invite/balisong-community-471299608203493377)

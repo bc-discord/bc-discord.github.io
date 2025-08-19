@@ -33,6 +33,6 @@ Thickness: Very Thin, Thin, Moderate, Thick, Very Thick
 
 | Product | Link | Description | Scents |
 |---|---|---|---|
-| lōōb | [Homepage](https://wavemeow.xyz/loob) | Questionable origins. Made by community member [wavemeow](https://www.instagram.com/kurochow/reels/). <ins>Very Thick</ins> | - |
 | Carbon Honey | [Etsy](https://www.etsy.com/uk/shop/CarbonHoneyOil?ref=nla_listing_details), [Squid Industries](https://www.squidindustries.co/products/carbon-honey) | - | Donut |
 | CANTOGROUP | [Instagram](https://www.instagram.com/canto.group/?hl=en), [Etsy](https://www.etsy.com/shop/cantogroup?ref=nla_listing_details&dd_referrer=https%3A%2F%2Fwww.etsy.com%2Flisting%2F1778915643%2Fcantogroup-balisong-oil%3Fref%3Dshop_home_active_1%26crt%3D1%26logging_key%3D566ee48f4d719f1a33d2fdfd00c6550592a08353%253A1778915643%26load_webview%3D1%26bid%3D51EWTV4HOG16r-EO38SuxMcTKFCP) | - | - |
+| lōōb | [Homepage](https://wavemeow.xyz/loob) | Questionable origins. Made by community member [wavemeow](https://www.instagram.com/kurochow/reels/). <ins>Very Thick</ins> | - |
