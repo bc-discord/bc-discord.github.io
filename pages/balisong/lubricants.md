@@ -1,16 +1,20 @@
 ---
 layout: page
-title: Lubricants
-parent: Sales
+title: Lubricant
+parent: Balisong
 nav_order: 3
 ---
-Thickness: Very Thin, Thin, Moderate, Thick, Very Thick
+
+# Lubricant
+Generally oil or materials that goes into your pivot system to enable smooth action and minimizes wear-and-tear.
 
 {: .warning }
 > - Do not use WD-40 or organic oils (e.g., olive oil)
 > - Do not mix lubricants - clean your pivots when using switching to a different oil
 
-# Manufacturer
+Thickness: Very Thin, Thin, Moderate, Thick, Very Thick
+
+## Manufacturer
 ---
 
 | Product | Link | Description |
@@ -23,7 +27,7 @@ Thickness: Very Thin, Thin, Moderate, Thick, Very Thick
 | Lucas Gun Oil  | [Amazon](https://www.amazon.com/Lucas-Oil-10877-Extreme-Duty/dp/B07656VLLG/ref=sr_1_2?keywords=lucas+gun+oil+extreme+duty&qid=1661808600&sprefix=lucas+gun+oil+extreme%2Caps%2C781&sr=8-2) | – |
 | Krytox GPL 106 | [Squid Industries](https://www.squidindustries.co/products/krytox-106-lubricating-oil) | – | 
 
-# Community
+## Community
 ---
 
 | Product | Link | Description | Scents |

@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Materials
-nav_order: 3
 parent: Balisong
+nav_order: 5
 ---
 
 # Materials
