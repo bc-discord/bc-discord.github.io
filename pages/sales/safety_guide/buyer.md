@@ -7,11 +7,7 @@ nav_order: 1
 # Anatomy of a Sale
 Here's a guide on how to navigate the balisong secondhand market with etiquette and safety tips.
 
-{: .no_toc }
-
-# Table of contents
-{: .no_toc .text-delta }
-
+#### Table of contents
 - TOC
 {:toc}
 

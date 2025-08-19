@@ -5,12 +5,7 @@ parent: Sales
 nav_order: 2
 ---
 # Anatomy of a Sale
-
-{: .no_toc }
-
-# Table of contents
-{: .no_toc .text-delta }
-
+#### Table of contents
 - TOC
 {:toc}
 
