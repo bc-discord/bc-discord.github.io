@@ -23,7 +23,7 @@ Product line made by Henkel. [Loctite SF 770](https://next.henkel-adhesives.com/
 | Blue 242 | [Loctite](https://next.henkel-adhesives.com/us/en/products/industrial-adhesives/central-pdp.html/loctite-243/BP000000316211.html) | The most commonly used. Breaks easily by hand; will come undone often if you vibriate your balisong often. |
 |Blue 243 | [Loctite](https://www.loctiteproducts.com/products/central-pdp.html/loctite-threadlocker-blue/SAP_0201OHL029W4.html) | You bought the wrong one. **Needs a primer.** |
 | Red 262 | [Loctite](https://next.henkel-adhesives.com/us/en/products/industrial-adhesives/central-pdp.html/loctite-263/BP000000347828.html) | High strength loctite. Most likely can't break away by hand, unless a minimal amount was applie. Requires an applied **heat** to unscrew; boiling your pivots for a minute does the trick. |
-| Red 263 | [Loctite](https://next.henkel-adhesives.com/us/en/products/industrial-adhesives/central-pdp.html/loctite-262/BP000000153483.html) | Same as Red 262 but without a primer. This may still work, even without a primer. |
+| Red 263 | [Loctite](https://next.henkel-adhesives.com/us/en/products/industrial-adhesives/central-pdp.html/loctite-262/BP000000153483.html) | Same as Red 262 but without a primer. This loctite may be strong enough without a primer. |
 
 ## Solid
 ---
