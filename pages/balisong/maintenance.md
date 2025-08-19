@@ -6,7 +6,11 @@ nav_order: 4
 ---
 
 # Maintenance
-Two main parts on the balisong wear down: the stop system and pivot system, assuming you don't beat your balisong.
+Two main parts on the balisong wear down: the stop system and pivot system, assuming you don't beat your balisong. 
+
+
+{: .note }
+> If you are looking for hardware and can't find it on the website, check out [Ben Parli's Googlesheet](https://docs.google.com/spreadsheets/u/2/d/1cYnDv67BTD9H8wd7D-R_URGXYq3AGT3MotrVE4OX6Js/htmlview#gid=0).
 
 {: .no_toc }
 
@@ -18,7 +22,7 @@ Two main parts on the balisong wear down: the stop system and pivot system, assu
 
 ## Pivot System
 ---
-Visit the [lubricant]({% link pages/balisong/lubricants.md %}) page for a list of lubricants to use for your pivot system.
+To stop the handles from directly rubbing against the blade when constructed, a <ins>pivot system</ins> is required. Visit the [lubricant]({% link pages/balisong/lubricants.md %}) page for a list of lubricants to use for your pivot system.
 
 ### Washers only
 
@@ -66,20 +70,22 @@ This a barebone description of how you can tune bushings. Get a measurement tool
 
 ## Stop System
 ---
+Your <ins>stop system</ins> prevents the handles and blade from slapping into each other; typically small, metal dowels are put into either the blade or handles to accomplish this.
+
 ### Zen pins
 When the stop pins lie in the handles, that is a <ins>zen pin</ins> system. The HRC of the zen pins should match with the blade's so they last long. There are 3 variants of them:
-- Pressed: When the pins are <ins>pressed</ins> into the handles with tooling. Requires an extra set of zen pins to replace. You will most likely request the manufacturer to replace the pins when the handles and blade start to slap.
-- Screwed: When the pins are <ins>screws</ins> that go into one/two-sided sexbolts, possibly with a lip. Will require [threadlocking]({% link pages/balisong/threadlocking.md %}) to stay in place.
-- Hidden: When the top of the pins are <ins>hidden</ins> from the top of the handles, easily by sandwich/chandwich construction or cleverly using channel construction (link Zentinel). These are the easiest to service as they only require screw-less hardware.
+- Pressed: When the pins are <ins>pressed</ins> into the handles with tooling. Requires an extra set of zen pins to replace and an arbor press. You will most likely pay the maker to replace the pins.
+- Screwed: When the pins are <ins>screws</ins> that go into one/two-sided sexbolts (possibly with a lip). Will require [threadlocking]({% link pages/balisong/threadlocking.md %}) to stay in place.
+- Hidden: When the top of the pins are <ins>hidden</ins> from the top of the handles, easily by sandwich/chandwich construction or cleverly alongside channel construction (link Zentinel). These are the easiest to service as they only require screw-less hardware.
 
 ### Tang pins
 
-When the stop pins lie in the blade, that is a <ins>tang pin</ins> system. This system outperforms zen pins on longevity (of a single charge) when the pins match the HRC of the handles; soft-on-soft interaction wears down the least material compared to hard-on-hard (gigiddy) interaction. Two varaints exist for tang pins:
+When the stop pins lie in the blade, that is a <ins>tang pin</ins> system. This system outperforms zen pins on longevity (on a single charge) when the pins match the HRC of the handles; soft-on-soft interaction wears down the least material compared to hard-on-hard interaction. Two variants exist for tang pins:
 
 - Pressed: When the pins are <ins>pressed</ins> into the blade. You must have pins and an arbor press. Typically, you will pay the manufacturer to replace them.
-- Screwed: The most annoying varaint, when the tang pins are <ins>screwed</ins> in place. [Threadlocking]({% link pages/balisong/threadlocking.md %}) is required. Buy many backups.
+- Screwed: The least desired variant, when the tang pins are <ins>screwed</ins> in place. [Threadlocking]({% link pages/balisong/threadlocking.md %}) is required.
 
 ### Pinless
-When the handles and blade are designed in such a way that their contact points align, that is called a <ins>pinless</ins> system. There is no intermediate-part maintenance, but be wary as the blade contacting the handles will wear them down if the materials do not match HRC. You must replace either the handles or blade, there are no cheap intermediate parts to replace; typically blade replacements are done.
+When the handles and blade are designed to contact on the blade tang without pins, it is called a <ins>pinless</ins> system. There is no intermediate-part maintenance, but be wary as the blade contacting the handles will wear them down if the materials do not match HRC. You must replace either the handles or blade.
 
-There are some pinsless designs (link Fiori design) replace the contact point of the handles with a stronger material to handle the force of the blade. One can argue it is no longer pinless as the 'pin' is designed into the handles.
+There are some pinless designs (link Fiori design) replace the contact point of the handles with a stronger material to handle the force of the blade. One can argue it is no longer pinless as the 'pin' is designed into the handles.

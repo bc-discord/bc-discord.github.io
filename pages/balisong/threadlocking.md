@@ -5,6 +5,8 @@ nav_order: 2
 parent: Balisong
 ---
 # Threadlocking
+To fasten the screw to the sexbolts, you need a <ins>threadlocker</ins>.
+
 ## Liquid
 ---
 
@@ -23,14 +25,14 @@ Product line made by Henkel. [Loctite SF 770](https://next.henkel-adhesives.com/
 | Red 262 | [Loctite](https://next.henkel-adhesives.com/us/en/products/industrial-adhesives/central-pdp.html/loctite-263/BP000000347828.html) | High strength loctite. Most likely can't break away by hand, unless a minimal amount was applie. Requires an applied **heat** to unscrew; boiling your pivots for a minute does the trick. |
 | Red 263 | [Loctite](https://next.henkel-adhesives.com/us/en/products/industrial-adhesives/central-pdp.html/loctite-262/BP000000153483.html) | Same as Red 262 but without a primer. This may still work, even without a primer. |
 
-## Physical
+## Solid
 ---
-These methods use physical objects to keep the screw and sexbolt secure. Be warned, you are jamming your threads and incur damage to your hardware. Do this as least often as you can.
+These methods use solid objects to keep the screw and sexbolt secure. Be warned, you are jamming your threads and incur damage to your hardware. Do this the least frequently as you can.
 
 ### Teflon tape
 Also called plumbers tape. 
 
-Instructions: Wind the tape along the screws of the balisong, wraping in the direction that screws turn so the tape doesn't unwind when screwing in.
+Instructions: Wind the tape along the screws of the balisong, wrapping in the direction that screws turn so the tape doesn't unwind when screwing in.
 
 ### Paracord
 ...

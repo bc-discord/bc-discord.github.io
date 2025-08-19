@@ -41,6 +41,9 @@ callouts:
   important:
     title: Important
     color: blue
+  note:
+    title: Note
+    color: purple
 
 back_to_top: true
 back_to_top_text: "Back to Top"
