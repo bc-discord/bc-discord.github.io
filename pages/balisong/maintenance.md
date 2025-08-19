@@ -50,7 +50,7 @@ The bushing itself maintains tolerances for a long ass time, you don't need to s
 Your bushings are considered <ins>undersized</ins> if a full crank of your screws causes the motion of your balisong to seize, to any degree. To fix this, you need to tune a new set of bushings that over thicker than your blade thickness. 
 
 {: .important }
-> You are better off sending it back to the maker for a retune if tolerances are not up to standard. Undersized bushings are considered a manufacturering defect; most manufacturers will charge you for a bushing retune if you tamper with the bushings.
+> You are better off sending it back to the maker for a retune if tolerances are not up to standard; most makers will charge you for a bushing retune if you tamper with the bushings. Undersized bushings are considered a manufacturering defect; most will retune free-of-charge.
 
 To tune your bushings, you need 
 - a flat surface
