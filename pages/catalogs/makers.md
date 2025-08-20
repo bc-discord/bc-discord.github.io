@@ -95,6 +95,7 @@ Makers that CNC machine both blades and handles, typically finishes their parts 
 - Omeme, Setsuna, GA, Konohishi (Shinogi, Kogarasu, Osoraku)
 
 #### [Squiggle](https://squiggle-scales.com/)
+- 
 
 ## Outsource CNC Makers
 ---
@@ -126,7 +127,7 @@ Makers that outsources there CNC machining of both blades and handles. May or ma
 - Incept, Abyss, Lazarus, Judas, Itzpapalotl, Zika
 
 #### [Arthurgoins](https://www.instagram.com/arthurgoins/)
- - Goose
+- Goose
 
 #### [B.A. Balis](https://www.instagram.com/b.a.modworks/)
 - Nakiri, Atlus
@@ -175,6 +176,7 @@ Makers that outsources there CNC machining of both blades and handles. May or ma
 Makers that contribute a signficant portion of the manual machining of their balisongs. Some may waterjet cut blades/handles and grind/machine the rest. Some may only make the handles or blades fully from stratch. But they always finish and tune their own balisongs.
 
 ### [Balibalistic](https://www.instagram.com/balibalisticknives/)
+- 
 
 ### [Bensonblades](https://bensonblades.com/)
 - Planarian
