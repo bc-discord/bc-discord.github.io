@@ -21,11 +21,6 @@ nav_order: 6
 - Beaters/Loved: Refers to a balisong that has wear or extreme amounts of wear through intentional abuse or accidental - often has a lot of tap and cosmetic damage.
 - CCC (cheap chinese crap): usually refers to extremely cheap balisongs made with terrible materials, terrible QC and little to no thought put into the design other than to make it look cool.
 
-## Production
-- Production: CNC machined. May have hand-done finish.
-- Midtech: A Knife that is made with both CNC and hand made techniques.
-- Handmade: Entirely made without CNC machining.
-
 # Misc
 ---
 - Balance/Bias: A term referring to the balance of a knife during flipping (Blade, Neutral, Handle) - this is predominantly preference and many feel balance differently.
