@@ -6,6 +6,7 @@ start_year:
 end_year: 
 active_status: Available
 retail: 350
+production: CNC
 handle_construction: Liners and Scales
 handle_material: Mixed
 liner_material: Titanium

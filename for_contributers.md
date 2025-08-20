@@ -28,6 +28,7 @@ start_year:
 end_year: 
 active_status: Available
 retail: 350
+production: CNC
 handle_construction: Liners and Scales
 handle_material: Mixed
 liner_material: Titanium
@@ -37,12 +38,13 @@ weight_oz: 4.90
 does_ring: false
 ```
 
-| Variable           | Description                                      | Range / Possible Values                                                                 |
-|--------------------|--------------------------------------------------|-----------------------------------------------------------------------------------------|
+| Variable| Description | Range / Possible Values |
+|-|-|-|
 | start_year | Release year | Non-negative whole number |
 | end_year| Discontinuation year | Non-negative whole number  |
 | active_status| Current availability | Available · Discontinued · Hiatus |
 | retail| Price in USD | Non-negative whole number |
+| production | How it was made | CNC · Midtech · Handmade |
 | handle_construction | Handle build type | Liners and Scales · Sandwich · Channel · Chanwich |
 | handle_material| Handle material | Titanium · Steel · G10 · CF · Mixed |
 | liner_material | Material for liners (blank if not Liners/Scales) | Titanium · Steel · G10 · CF |
