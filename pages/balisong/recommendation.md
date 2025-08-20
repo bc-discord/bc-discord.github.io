@@ -17,9 +17,9 @@ These recommendations are all close to a neutral balance, well-tolerated balance
 
 ### 101 - 200
 - LDY Sirius V4.5 (125$)
-- Squid Industries Kraken (265$)
 
 ### 201 - 300
+- Squid Industries Kraken (265$)
 
 ### 300 - 500
 
