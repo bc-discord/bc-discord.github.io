@@ -121,6 +121,7 @@ Makers that contribute a signficant portion of the manual machining of their bal
 ## Handmade Makers
 ---
 These makers manually machine their handles and blades completely on their own; they also finish and tune as well.
+
 ### D.C. Bladeworks
 - Genesis
 
