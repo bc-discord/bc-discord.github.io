@@ -34,15 +34,6 @@ There are a few aspects to the condition of a balisong to be aware of before pur
 - Bushing tune: Some makers and enthusiast owners are poor/lazy tuners. You may ask the seller to crank on the screws to get an assessment. But, because of variability with hand cranking, your seller may not able to confirm if their balisong is truly binding. How bouncy a balisong is may help determine if a has undersized bushings. If they seem flat and weak in a video, they are probably undersized. Bushings can be bought from [TrueLink](https://thetruelink.com/collections/all/bushing-xp) or [USAKnifemaker](https://usaknifemaker.com/shop-categories/folding-knife-parts/washers-and-bushings.html).
 - Tolerances: Most sellers will not be able to acertain how well surfaced the blade or handles are (unless they have calipers/micrometers), usually you can infer by who made it and during what time period.
 
-## The Scammer
----
-Sometimes you'll run across sellers that seem shady and have little references. Here's a few things you can do to protect yourself.
-
-- [ ] Request a video with a timestamp in view to check if they actually own the item.
-- [ ] Ask for names of previous buyers to verify their selling history.
-- [ ] Discuss relevant topics on balisongs, scammers tend to be unknowledgable on the hobby.
-- [ ] Opt to use PayPal Goods and Services (G&S) to have leverage during scammer confrontation.
-
 ## Buyer-Seller Handoff
 ---
 Typically, you the buyer must pay before the seller will ship a balisong. In cases where the seller has little or no reputation, you are afforded a couple of options.
@@ -59,8 +50,15 @@ Typically, you the buyer must pay before the seller will ship a balisong. In cas
 
  If a package has gone missing, it is upright for the seller to compensate you; but, **do not** count on them doing so. A reasonable ask is to go 50/50 on the cost of the item.
 
-## Trading
----
+### Scammers
+Sometimes you'll run across sellers that seem shady and have little references. Here's a few things you can do to protect yourself.
+
+- [ ] Request a video with a timestamp in view to check if they actually own the item.
+- [ ] Ask for names of previous buyers to verify their selling history.
+- [ ] Discuss relevant topics on balisongs, scammers tend to be unknowledgable on the hobby.
+- [ ] Opt to use PayPal Goods and Services (G&S) to have leverage during scammer confrontation.
+
+### Trading
 In the case of trading, it is inherently riskier than buying since there are no feasible recourses to recoup lost value. It is highly advised to get a middleman to facilitate the trade. Without a middleman, you would ship at the same time as the other person. Sometimes you can recall a package if the trader seems to be delaying shipment.
 
 ## Payment
@@ -76,7 +74,7 @@ and whatever else your bank requires to send a wire. [Wise](https://wise.com/inv
 
 ## Aftercare
 ---
-When a sale has completed, a seller may request you to affirm their credibility. On Instagram, you can leave a comment on their reference post if they have one. On Facebook, a seller may ask for a 'vouch' when dealing with a buyer. The balisong community is small, relative to other secondhand markets, be nice and help a human out.
+When a sale has completed, a seller may request you to affirm their credibility. On Instagram, you can leave a comment on their reference post if they have one. On Facebook or Reddit, a seller may ask for a 'vouch' when dealing with a buyer. The balisong community is small, relative to other secondhand markets; be nice and help a human out.
 
 ## Conflict Resolution
 ---
