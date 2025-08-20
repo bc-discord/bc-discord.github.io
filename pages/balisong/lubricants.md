@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Lubricant
-parent: Balisong
-nav_order: 3
+parent: Maintenance
+nav_order: 2
 ---
 
 # Lubricant
