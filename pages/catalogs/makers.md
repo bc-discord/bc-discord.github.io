@@ -20,16 +20,39 @@ Makers that CNC machine both blades and handles, typically finishes their parts 
 - Orion, Sirius
 
 #### Machinewise
-- Prysma, Maryn, Slift, Serif, Opus
+- Maryn, Slift, Serif, Prysma, Opus, Tottori, Sassori
 
 #### Squid Idustries
 - Squiddy, Mako, Triton, Squiddy, Kraken, Madko, Hydro, Tsunami
 
+#### Flytanium
+- Talisong Z, Fly One, Tatersong
+
+#### JK Designs
+- Emissary, Litetech, Orca, Monarch, Embargo, Regime
+
+#### Fellowship Blades
+- Medusa, Empusa, Hognose, Gaboon
+
+#### BBBarfly
+- BBfirefly, Bar-racuda, BBSuperFly
+
+#### Glider
+- Pacific, Moab x Meridian, Artic
+
+#### Black Balisong
+- 
+
 ### Smaller
+
+#### Fiore Knives
+-
+
 #### Ceroni Knives
+- Baliviper, Balireaper, Trinidad Scropion, Ti Tracker, Integralis, Gladius
 
 #### Eldon Talley
-- Talisong, Talisong Z
+- Talisong
 
 #### FLS Balisongs
 - Liminal
@@ -38,19 +61,31 @@ Makers that CNC machine both blades and handles, typically finishes their parts 
 - EX
 
 #### Heibel Knives
-- Menace, Invictus
-
-#### JK Designs
-- Emissary, Litetech, Orca, Monarch, Embargo
+- Valor, Sapient, Menace, Invictus
 
 #### Ryworx
-- Omeme, Ga, Kono
+- Omeme, Setsuna, GA, Konohishi (Shinogi, Kogarasu, Osoraku)
 
 #### Squiggle
 
-#### Fellowship Blades
-- Medusa, Empusa, Hognose
+#### Andrew Myers
+- Aeon
+  
+#### Clark Custom
+- Evo, Lyra
 
+#### Emmanuel Le Brun
+- Proflipper, Mamba
+
+#### Revenge of the Blades
+- Arsenal, X1
+
+#### Franken Forge
+- Ion, Static, Voltaic, Galvanis
+
+#### Hazetac
+- DMC, Jesus Devil, Jigsaw, Carlo
+  
 ## Outsource CNC Makers
 ---
 Makers that outsources there CNC machining of both blades and handles. May or may not finish their parts. Typically sharpens their blades. Always tune their balisongs.
@@ -58,15 +93,27 @@ Makers that outsources there CNC machining of both blades and handles. May or ma
 ### Bigger
 
 #### Bladerunners Systems (BRS)
-- [Replicant]({% link pages/balisongs/brs/replicant.md %}), AB/CHAB
+- [Replicant]({% link pages/balisongs/brs/replicant.md %}), AB/CHAB, 
 
 #### Hom Design
-- Basilisk
+- Rhapsody, G10st, Prodigy, Specter, Basilisk, Chimera, Arashi, Tempest
+
+#### EPS Knives
+- Atlas, Wraith, 101
+
+#### Svix
+- Terra, Gale, Zephyr
+
+#### Jimpy Designs
+- Sentinel/Zentinel
 
 ### Smaller
 
+#### Bxndxge Knives
+- Stitch
+
 #### A51 Projects 
- - Pluto
+ - Pluto, Phobos, Apollo
 
 #### Arthurgoins
  - Goose
@@ -74,19 +121,13 @@ Makers that outsources there CNC machining of both blades and handles. May or ma
 #### B.A. Balis
 
 #### Hansen Metals
- - Solo
+- Solo
 
 #### Henninger Designs
 - Telesto
 
 #### NRB Knives
 - Vortex, Ultralight
-
-#### Jimpy Designs
-- Sentinel/Zentinel
-
-#### Revenge of the Blades
-- Arsenal
 
 #### Static Knives
 
@@ -99,7 +140,22 @@ Makers that outsources there CNC machining of both blades and handles. May or ma
 - PDN, Sycolope
 
 #### WB Concepts
- - Gigas
+- Gigas
+
+#### Frost Howe Balisong
+- Pirouette
+
+#### XK Knives
+- Tracer
+
+#### Tormentum Knives
+- Azoth
+
+#### Perennial Concepts
+- Kronos
+
+#### Acidwrx
+- Incept, Abyss, Lazarus, Judas, Itzpapalotl, Zika
 
 ## Midtech Makers
 ---
@@ -111,29 +167,55 @@ Makers that contribute a signficant portion of the manual machining of their bal
 - Planarian
 
 ### JW Knives
+- Magnet
 
 ### Mantis Bladeworks
-- Idolo
+- Thistle, Idolo, Iris
 
 ### Syco
 - 5150, Sycolope, Hysteria
+
+### D.C. Bladeworks
+- Genesis
 
 ## Handmade Makers
 ---
 These makers manually machine their handles and blades completely on their own; they also finish and tune as well.
 
-### D.C. Bladeworks
-- Genesis
-
 ### GP Blades
+- Jawbones
 
 ### Hammer Designs
-
+- Chaos, Chaos lite
+  
 ### JLyons Knives
+- Hellcat, Slimeline
 
 ### Lanier Knives
-
+- SL, Script
+  
 ### Palethius
 
 ### Stitched Steel
 - Alien, Paradigm, Railgun
+
+### Wanderpaim
+- Lockhead
+
+### Lovins Customs
+- Strix
+
+### Taylormania Knives
+- Solidsong
+
+### Terry Guinn Knives
+- Goblin, Typhoon
+
+### Dlarson Knives
+- LST
+
+### Wilfred Richards
+- Polecat
+
+### Indiana John
+- Oldtech
