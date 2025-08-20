@@ -6,7 +6,13 @@ nav_order: 3
 ---
 
 # Price Recommendations
-These recommendations are all close to a neutral balance, well-tolerated balances by any flipper. we only recommend balisongs with consistently good build quality and design. All prices are in retail USD.
+These recommended balisongs are 
+
+- all close to a neutral balance, well-tolerated balances by any flipper
+- made by makers with consistently good build quality and design
+- purchasable directly from the maker or easy to find second-hand
+
+All prices are in retail USD; you can expect these to be chaper second-hand.
 
 ## Live Blades
 ---
