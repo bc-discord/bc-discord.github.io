@@ -17,7 +17,7 @@ Two main parts on the balisong wear down: the stop system and pivot system, assu
 
 ## Pivot System
 ---
-To stop the handles from directly rubbing against the blade when constructed, a <ins>pivot system</ins> is required. Visit the [lubricant]({% link pages/balisong/lubricants.md %}) page for a list of lubricants to use for your pivot system.
+To stop the handles from directly rubbing against the blade when constructed, a <ins>pivot system</ins> is required. Visit the [lubricant]({% link pages/balisong/maintenance/lubricants.md %}) page for a list of lubricants to use for your pivot system.
 
 ### Washers only
 
@@ -70,7 +70,7 @@ Your <ins>stop system</ins> prevents the handles and blade from slapping into ea
 ### Zen pins
 When the stop pins lie in the handles, that is a <ins>zen pin</ins> system. The HRC of the zen pins should match with the blade's so they last long. There are 3 variants of them:
 - Pressed: When the pins are <ins>pressed</ins> into the handles with tooling. Requires an extra set of zen pins to replace and an arbor press. You will most likely pay the maker to replace the pins.
-- Screwed: When the pins are <ins>screws</ins> that go into one/two-sided sexbolts (possibly with a lip). Will require [threadlocking]({% link pages/balisong/threadlocking.md %}) to stay in place.
+- Screwed: When the pins are <ins>screws</ins> that go into one/two-sided sexbolts (possibly with a lip). Will require [threadlocking]({% link pages/balisong/maintenance/threadlocking.md %}) to stay in place.
 - Hidden: When the top of the pins are <ins>hidden</ins> from the top of the handles, easily by sandwich/chandwich construction or cleverly alongside channel construction (link Zentinel). These are the easiest to service as they only require screw-less hardware.
 
 ### Tang pins
@@ -78,7 +78,7 @@ When the stop pins lie in the handles, that is a <ins>zen pin</ins> system. The 
 When the stop pins lie in the blade, that is a <ins>tang pin</ins> system. This system outperforms zen pins on longevity (on a single charge) when the pins match the HRC of the handles; soft-on-soft interaction wears down the least material compared to hard-on-hard interaction. Two variants exist for tang pins:
 
 - Pressed: When the pins are <ins>pressed</ins> into the blade. You must have pins and an arbor press. Typically, you will pay the manufacturer to replace them.
-- Screwed: The least desired variant, when the tang pins are <ins>screwed</ins> in place. [Threadlocking]({% link pages/balisong/threadlocking.md %}) is required.
+- Screwed: The least desired variant, when the tang pins are <ins>screwed</ins> in place. [Threadlocking]({% link pages/balisong/maintenance/threadlocking.md %}) is required.
 
 ### Pinless
 When the handles and blade are designed to contact on the blade tang without pins, it is called a <ins>pinless</ins> system. There is no intermediate-part maintenance, but be wary as the blade contacting the handles will wear them down if the materials do not match HRC. You must replace either the handles or blade.
