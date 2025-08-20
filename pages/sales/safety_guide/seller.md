@@ -5,7 +5,12 @@ parent: Sales
 nav_order: 2
 ---
 # Anatomy of a Sale
+
 #### Table of contents
+{: .no_toc }
+
+{::options toc_levels="2..6" /}
+
 - TOC
 {:toc}
 

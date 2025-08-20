@@ -21,10 +21,11 @@ does_ring: false
 - Drop schedule: Sporadic
 - Maker: Bladerunners Systems
 
+
+#### Table of contents
 {: .no_toc }
 
-## Table of contents
-{: .no_toc .text-delta }
+{::options toc_levels="2..6" /}
 
 - TOC
 {:toc}

@@ -8,6 +8,10 @@ nav_order: 1
 Here's a guide on how to navigate the balisong secondhand market with etiquette and safety tips.
 
 #### Table of contents
+{: .no_toc }
+
+{::options toc_levels="2..6" /}
+
 - TOC
 {:toc}
 
