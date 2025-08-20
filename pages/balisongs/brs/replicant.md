@@ -2,23 +2,36 @@
 layout: page
 title: Replicant
 nav_exclude: true
+start_year: 
+end_year: 
+active_status: Available
+retail: 350
+handle_construction: Liners and Scales
+handle_material: Mixed
+liner_material: Titanium
+scale_material: G10
+stop_system: Screwed Zen Pins
+weight_oz: 4.90
+does_ring: false
 ---
+
+# Replicant
 
 - Status: Active
 - Drop schedule: Sporadic
-- Maker: [Bladerunners Systems](/pages/balisongs/brs/maker.html)
+- Maker: Bladerunners Systems
 
 {: .no_toc }
 
-# Table of contents
+## Table of contents
 {: .no_toc .text-delta }
 
 - TOC
 {:toc}
 
-# Specification
+## Specification
 ---
-## Material and Construction
+### Material and Construction
 - Handles construction: Sandwich (liners and scales)
 - Material:
     - Scales: G10
@@ -28,7 +41,7 @@ nav_exclude: true
 - Blade material: 154CM
 - Blade finish: Stonewashed
 
-## Numerical Specifications
+### Numerical Specifications
 - Overall length: 10.00 in
 - Blade 
     - length: 4.50 in
@@ -38,7 +51,7 @@ nav_exclude: true
     - thickness: 0.55 in
 - Weight: 4.90 oz
 
-# Hardware Measurements
+## Hardware Measurements
 ---
 
 | Component     | Specs                                                                                                                                                 | Purchase                                                                                                                                                                                                                   |
@@ -49,7 +62,7 @@ nav_exclude: true
 | Bushings      | .250 in (OD) x .188 in (ID)                                                                                                                           | [TRUE~LINK](https://thetruelink.com/products/250-od-x-188-id-bushing-xp)                                                                                                                                                  |
 | Washers       | .375 in (OD) x .188 in (ID)<br>Thickness: .016 in                                                                                                     | [TRUE~LINK](https://thetruelink.com/products/375-x-188-phosphorus-bronze-washers)                                                                                                                                         |
 
-# Variants
+## Variants
 ---
 The Replicant comes with a wide variety of offical variants from BRS.
 - Killer Bee 
