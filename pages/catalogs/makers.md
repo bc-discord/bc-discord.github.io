@@ -6,7 +6,7 @@ nav_order: 1
 ---
 # Makers
 
-Someone who has some involvement of producing their balisong, even if minimal such as tuning and assembly.
+Someone who has some involvement of producing their balisong, even if minimal such as tuning and assembly. These categorizations of makers are based their most popular and relevant balisongs; they are mostly true, but few execepts occur.
 
 Terms
 - CNC (computer numerical control): Computerized machining tool.
@@ -17,13 +17,13 @@ Makers that CNC machine both blades and handles, typically finishes their parts 
 
 ### Bigger
 #### LDY
-- Orion, Sirius
+- Kite, Orion, Corvus, Sirius, Frank, Cygnus, Vixen
 
 #### Machinewise
 - Maryn, Slift, Serif, Prysma, Opus, Tottori, Sassori
 
 #### Squid Idustries
-- Squiddy, Mako, Triton, Squiddy, Kraken, Madko, Hydro, Tsunami
+- Squiddy, Mako, Triton, Squiddy, Nautilus, Swordfish, Squidtrainer, Kraken, Madko, Hydro, Tsunami
 
 #### Flytanium
 - Talisong Z, Fly One, Tatersong

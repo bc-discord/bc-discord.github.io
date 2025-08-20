@@ -9,7 +9,7 @@ nav_order: 2
 Two main parts on the balisong wear down: the stop system and pivot system, assuming you don't beat your balisong. 
 
 {: .note }
-> If you are looking for hardware and can't find it on the website, check out [Ben Parli's Googlesheet](https://docs.google.com/spreadsheets/u/2/d/1cYnDv67BTD9H8wd7D-R_URGXYq3AGT3MotrVE4OX6Js/htmlview#gid=0).
+> If you are looking for hardware specifications and can't find it on the website, check out [Ben Parli's Googlesheet](https://docs.google.com/spreadsheets/u/2/d/1cYnDv67BTD9H8wd7D-R_URGXYq3AGT3MotrVE4OX6Js/htmlview#gid=0).
 
 #### Table of contents
 - TOC

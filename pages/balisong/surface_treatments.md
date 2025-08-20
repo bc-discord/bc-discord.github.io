@@ -2,8 +2,9 @@
 layout: page
 title: Surface Treatments
 parent: Balisong
-nav_order: 4
+nav_order: 5
 ---
+
 # Surface Treatments
 ## Finishes
 ---
