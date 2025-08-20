@@ -53,9 +53,9 @@ Typically, you the buyer must pay before the seller will ship a balisong. In cas
 ### Scammers
 Sometimes you'll run across sellers that seem shady and have little references. Here's a few things you can do to protect yourself.
 
-- [ ] Request a video with a timestamp in view to check if they actually own the item.
+- [ ] Request a video with a timestamp and username in view to check if they actually own the item.
 - [ ] Ask for names of previous buyers to verify their selling history.
-- [ ] Discuss relevant topics on balisongs, scammers tend to be unknowledgable on the hobby.
+- [ ] Discuss relevant and current topics on balisongs; scammers tend to be unknowledgable on the hobby.
 - [ ] Opt to use PayPal Goods and Services (G&S) to have leverage during scammer confrontation.
 
 ### Trading

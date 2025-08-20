@@ -13,6 +13,7 @@ nav_order: 1
 ### What
 - [What are replicant hardware specs?]({% link pages/balisongs/brs/replicant.md %}#hardware-measurements)
 - [What countries are safe to ship whole balisongs to?]({% link pages/sales/safety_guide/seller.md %}#international-shipping)
+- [What do I buy to stop my screwings from coming out after flipping?]({% link pages/balisong/maintenance/threadlocking.md %})
 
 ### Where
 - [Where do I sell my balisongs?]({% link pages/sales/sales.md %}#platforms)
@@ -22,5 +23,6 @@ nav_order: 1
 - [Why are balisongs expensive?]({% link pages/questions/why_expensive.md %})
 
 ### How
-- [How do I keep myself safe when buying?]({% link pages/sales/safety_guide/buyer.md %}#the-scammer)
+- [How do I maintain my balisong?]({% link pages/balisong/maintenance/maintenance.md %})
+- [How do I prevent myself from getting scammed?]({% link pages/sales/safety_guide/buyer.md %}#scammers)
 - [How do I stop my body screws from spinning?]({% link pages/questions/spinning_pivots/spinning_pivots.md %})
