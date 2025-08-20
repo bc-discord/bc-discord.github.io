@@ -48,5 +48,5 @@ does_ring: false
 | liner_material | Material for liners (blank if not Liners/Scales) | Titanium · Steel · G10 · CF |
 | scale_material | Material for scales (blank if not Liners/Scales) | Titanium · Steel · G10 · CF |
 | stop_system | Blade stop system | Pressed Tang Pins · Screwed Tang Pins · Pressed Zen Pins · Screwed Zen Pins · Hidden Zen Pins · Pinless |
-| weight_oz| Weight in ounces| Decimal, two decimal points |
+| weight_oz| Weight in ounces (if inconsistent, write 'Varies') | Decimal, two decimal points |
 | does_ring | Rings when flipping | true · false |
