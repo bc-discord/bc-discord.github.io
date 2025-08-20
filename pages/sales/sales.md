@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Sales
-nav_order: 4
+nav_order: 5
 has_children: true
 ---
 
@@ -20,7 +20,7 @@ has_children: true
 
 # Platforms
 ---
-A few platforms exist to sell.
+You can sell balisongs on a few platforms.
 
 - Reddit
     - [r/BalisongSale](https://www.reddit.com/r/BalisongSale/)
