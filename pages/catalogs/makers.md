@@ -4,133 +4,135 @@ title: Makers
 parent: Catalog
 nav_order: 1
 ---
+# Makers
+
+Someone who has some involvement of producing their balisong, even if minimal such as tuning and assembly.
+
 Terms
 - CNC (computer numerical control): Computerized machining tool.
 
-# In-house CNC Makers
+## In-house CNC Makers
 ---
 Makers that CNC machine both blades and handles, typically finishes their parts and sharpens their blades. Sometimes machine their own hardware.
 
-## Bigger
-### LDY
+### Bigger
+#### LDY
 - Orion, Sirius
 
-### Machinewise
+#### Machinewise
 - Prysma, Maryn, Slift, Serif, Opus
 
-### Squid Idustries
+#### Squid Idustries
 - Squiddy, Mako, Triton, Squiddy, Kraken, Madko, Hydro, Tsunami
 
-## Smaller
-### Ceroni Knives
+### Smaller
+#### Ceroni Knives
 
-### Eldon Talley
+#### Eldon Talley
 - Talisong, Talisong Z
 
-### FLS Balisongs
+#### FLS Balisongs
 - Liminal
 
-### Geof Dumas
+#### Geof Dumas
 - EX
 
-### Heibel Knives
+#### Heibel Knives
 - Menace, Invictus
 
-### JK Designs
+#### JK Designs
 - Emissary, Litetech, Orca, Monarch, Embargo
 
-### Ryworx
+#### Ryworx
 - Omeme, Ga, Kono
 
-### Squiggle
+#### Squiggle
 
-### Fellowship Blades
+#### Fellowship Blades
 - Medusa, Empusa, Hognose
 
-### 
-
-# Outsource CNC Makers
+## Outsource CNC Makers
 ---
 Makers that outsources there CNC machining of both blades and handles. May or may not finish their parts. Typically sharpens their blades. Always tune their balisongs.
 
-## Bigger
+### Bigger
 
-### Bladerunners Systems (BRS)
+#### Bladerunners Systems (BRS)
 - [Replicant]({% link pages/balisongs/brs/replicant.md %}), AB/CHAB
 
-### Hom Design
+#### Hom Design
 - Basilisk
 
-## Smaller
+### Smaller
 
-### A51 Projects 
+#### A51 Projects 
  - Pluto
 
-### Arthurgoins
+#### Arthurgoins
  - Goose
 
-### B.A. Balis
+#### B.A. Balis
 
-### Hansen Metals
+#### Hansen Metals
  - Solo
 
-### Henninger Designs
+#### Henninger Designs
 - Telesto
 
-### NRB Knives
+#### NRB Knives
 - Vortex, Ultralight
 
-### Jimpy Designs
+#### Jimpy Designs
 - Sentinel/Zentinel
 
-### Revenge of the Blades
+#### Revenge of the Blades
 - Arsenal
 
-### Static Knives
+#### Static Knives
 
-### Serum Velocity
+#### Serum Velocity
 
-### Thomas Balisong
+#### Thomas Balisong
 - Baikal
 
-### Turbojackelope
+#### Turbojackelope
 - PDN, Sycolope
 
-### WB Concepts
+#### WB Concepts
  - Gigas
 
-# Midtech Makers
+## Midtech Makers
 ---
 Makers that contribute a signficant portion of the manual machining of their balisongs. Some may waterjet cut blades/handles and grind/machine the rest. Some may only make the handles or blades fully from stratch. But they always finish and tune their own balisongs.
 
-## Balibalistic
+### Balibalistic
 
-## Bensonblades
+### Bensonblades
 - Planarian
 
-## JW Knives
+### JW Knives
 
-## Mantis Bladeworks
+### Mantis Bladeworks
 - Idolo
 
-## Syco
+### Syco
 - 5150, Sycolope, Hysteria
 
-# Handmade Makers
+## Handmade Makers
 ---
 These makers manually machine their handles and blades completely on their own; they also finish and tune as well.
-## D.C. Bladeworks
+### D.C. Bladeworks
 - Genesis
 
-## GP Blades
+### GP Blades
 
-## Hammer Designs
+### Hammer Designs
 
-## JLyons Knives
+### JLyons Knives
 
-## Lanier Knives
+### Lanier Knives
 
-## Palethius
+### Palethius
 
-## Stitched Steel
+### Stitched Steel
 - Alien, Paradigm, Railgun
