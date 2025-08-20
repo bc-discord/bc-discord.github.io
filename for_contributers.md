@@ -38,7 +38,7 @@ weight_oz: 4.90
 does_ring: false
 ```
 
-| Variable| Description | Range / Possible Values |
+| Tag| Description | Range / Possible Values |
 |-|-|-|
 | start_year | Release year | Non-negative whole number |
 | end_year| Discontinuation year | Non-negative whole number  |
