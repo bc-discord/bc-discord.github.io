@@ -16,13 +16,19 @@ Makers that CNC machine both blades and handles, typically finishes their parts 
 - Orion, Sirius
 
 ### Machinewise
-- Maryn, Slift, Serif, Opus
+- Prysma, Maryn, Slift, Serif, Opus
 
 ### Squid Idustries
 - Squiddy, Mako, Triton, Squiddy, Kraken, Madko, Hydro, Tsunami
 
 ## Smaller
+### Ceroni Knives
+
+### Eldon Talley
+- Talisong, Talisong Z
+
 ### FLS Balisongs
+- Liminal
 
 ### Geof Dumas
 - EX
@@ -31,12 +37,17 @@ Makers that CNC machine both blades and handles, typically finishes their parts 
 - Menace, Invictus
 
 ### JK Designs
-- Litetech, Monarch, Embargo
+- Emissary, Litetech, Orca, Monarch, Embargo
 
 ### Ryworx
-- Ga, Kono
+- Omeme, Ga, Kono
 
 ### Squiggle
+
+### Fellowship Blades
+- Medusa, Empusa, Hognose
+
+### 
 
 # Outsource CNC Makers
 ---
@@ -58,18 +69,32 @@ Makers that outsources there CNC machining of both blades and handles. May or ma
 ### Arthurgoins
  - Goose
 
+### B.A. Balis
+
 ### Hansen Metals
  - Solo
 
 ### Henninger Designs
 - Telesto
 
+### NRB Knives
+- Vortex, Ultralight
+
 ### Jimpy Designs
 - Sentinel/Zentinel
+
+### Revenge of the Blades
+- Arsenal
+
+### Static Knives
 
 ### Serum Velocity
 
 ### Thomas Balisong
+- Baikal
+
+### Turbojackelope
+- PDN, Sycolope
 
 ### WB Concepts
  - Gigas
@@ -89,14 +114,19 @@ Makers that contribute a signficant portion of the manual machining of their bal
 - Idolo
 
 ## Syco
-- 5150, Hysteria
+- 5150, Sycolope, Hysteria
 
 # Handmade Makers
 ---
 These makers manually machine their handles and blades completely on their own; they also finish and tune as well.
+## D.C. Bladeworks
+- Genesis
+
 ## GP Blades
 
 ## Hammer Designs
+
+## JLyons Knives
 
 ## Lanier Knives
 
