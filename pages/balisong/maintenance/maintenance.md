@@ -26,7 +26,7 @@ Washers are thin, circular, small pieces of metal with a hole that sits between 
 **Be careful** with these metal washers:
 
 - Titanium washers: Wear-and-tear will fuse the washers and into the handles.
-- Steel washers: Under-lubrication causes the washers to eat into the blade. But steel washers do hold their tune much longer than PB washers.
+- Steel washers: Steel washers do hold their tune much longer than PB washers, but under-lubrication causes the washers to eat into the blade.
 
 #### Tuning
 Tuning a washers-only balisong is simple.
@@ -61,7 +61,9 @@ To tune your bushings, you need
 4. Move the bushing slowly in a circle on the sandpaper to remove material.
 5. Constantly check if you have removed too much material by reconstructing your balisong.
 
-This a barebone description of how you can tune bushings. Get a measurement tool (e.g., micrometer) and bushing puck if you want consistent and accurate bushing tunes.
+This a barebone description of how you can tune bushings. If you want consistent and accurate bushing tunes, get a 
+- measurement tool (e.g., micrometer) to dial in the exact thickness
+- [bushing lap](https://usaknifemaker.com/pivot-lap-basic-knifedogs-5-bushing-model.html) or [bushing buddy](https://www.squidindustries.co/products/bushing-buddy) to sand your bushings parallel to your flat surface and perpendicular (thickness length is at a right angle to the width of circle)
 
 ## Stop System
 ---
