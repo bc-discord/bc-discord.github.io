@@ -1,8 +1,7 @@
 ---
-layout: default
+layout: page
 title: Directory
-nav_exlude: true
-nav_order: 5
+nav_exclude: true
 ---
 
 <h1>{{ page.title }}</h1>
