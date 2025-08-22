@@ -29,7 +29,7 @@ Info
 - Length: {% include round_float.html n=bali.overall.length d=2 %} in
 
 Purchase
-- Retail price: {{ bali.retail | default:'-' }}$
+- Retail price: ${{ bali.retail | default:'-' }}
 - Drop schedule: {{ bali.drop_schedule }}
 
 #### Table of contents
@@ -74,32 +74,6 @@ Purchase
 
 ## Handles
 ---
-
-<!-- Material calculation -->
- {%- assign mat = bali.handle.construction.material -%}
-{%- assign mat_type = mat.type | default: '' | downcase -%}
-
-{%- capture materials_str -%}
-  {%- if mat_type contains 'liner' and mat_type contains 'scale' -%}
-    {%- assign liner = mat.liner | default: '' | strip -%}
-    {%- assign scale = mat.scale | default: '' | strip -%}
-
-    {%- capture lines -%}
-      {%- if liner != '' -%}Liner: {{ liner }}{%- assign printed = true -%}{%- endif -%}
-      {%- if scale != '' -%}{% if printed %}<br>{% endif %}Scale: {{ scale }}{%- assign printed = true -%}{%- endif -%}
-    {%- endcapture -%}
-
-    {%- if lines != '' -%}
-      {{- lines -}}
-    {%- else -%}
-      {{- mat.whole | default: '-' -}}
-    {%- endif -%}
-  {%- else -%}
-    {{- mat.whole | default: '-' -}}
-  {%- endif -%}
-{%- endcapture -%}
-<!-- End -->
-
 <!-- Surface calculation -->
 {%- assign finish  = bali.handle.surface.finish  | default: "" -%}
 {%- assign media   = bali.handle.surface.media   | default: "" -%}
@@ -122,11 +96,19 @@ Purchase
 {%- endif -%}
 <!-- End -->
 
+<!-- Materials -->
+ {% assign mat_type = bali.handle.construction.type | default:'' | strip | downcase %}
+ <!-- End -->
+
 {% capture table_md -%}
 |Component | Spec | Details | Additional |
 | -- | -- | -- | -- |
-| Handles | Construction | {{ bali.handle.construction.type }} | Edge break: {{ bali.handle.construction.edge_break}} <br> Width taper: {{ bali.handle.construction.taper.width }} <br> Height taper: {{ bali.handle.construction.taper.height }} |
-| | Material | {{ materials_str | strip }} | {{ finish_str }} |
+| Handles | Construction | {{ bali.handle.construction.type }} | Face: {{ bali.handle.construction.face}} <br> Edge break: {{ bali.handle.construction.edge_break}} <br> Width taper: {{ bali.handle.construction.taper.width }} <br> Height taper: {{ bali.handle.construction.taper.height }} |
+{% if mat_type contains 'liner' and mat_type contains 'scale' -%}
+| | Material | Liner: {{ bali.handle.material.liner }} <br> Scale: {{ bali.handle.material.scale }} | {{ finish_str }} |
+{% else -%}
+| | Material | {{ bali.handle.material.whole }} | {{ finish_str }} |
+{% endif -%}
 | |Measurements | Thickness: {% include round_float.html n=bali.handle.measurement.thickness d=2 %} in <br> Length: {% include round_float.html n=bali.handle.measurement.length d=2 %} in |
 | | Has weight system? | {{ bali.handle.has_weight_system }} |
 {% if bali.handle.has_spacers -%}
@@ -168,10 +150,8 @@ Purchase
 | Stop System | {{ stop_name }} | Threading: {{ ss.threading }} <br> Length: {% include round_float.html n=ss.sexbolt.length d=4 %} in <br> Thickness: {% include round_float.html n=ss.sexbolt.thickness d=3 %} in | {% for pair in ss.sexbolt.links %}{% assign name = pair[0] %}{% assign url = pair[1] %}[{{ name }}]({{ url }}){% unless forloop.last %}, {% endunless %}{% endfor %} |
 |  | Screw | Length: {% include round_float.html n=ss.screw.length d=3 %} in | {% for pair in ss.screw.links %}{% assign name = pair[0] %}{% assign url = pair[1] %}[{{ name }}]({{ url }}){% unless forloop.last %}, {% endunless %}{% endfor %} |
 {% endif -%}
-{% if bali.handle.has_weight_system != true and bali.handle.has_spacers != true %}
 | Handle (body) | Sexbolt | Threading: {{ bali.body.threading }} <br> Length: {% include round_float.html n=body.sexbolt.length d=3 %} in | {% for pair in bali.body.sexbolt.links %}{% assign name = pair[0] %}{% assign url = pair[1] %}[{{ name }}]({{ url }}){% unless forloop.last %}, {% endunless %}{% endfor %} |
 |  | Screw | Length: {% include round_float.html n=body.screw.length d=3 %} in | {% for pair in bali.body.screw.links %}{% assign name = pair[0] %}{% assign url = pair[1] %}[{{ name }}]({{ url }}){% unless forloop.last %}, {% endunless %}{% endfor %} | 
-{% endif -%}
 {%- endcapture %}
 {{ table_md | markdownify }}
 
