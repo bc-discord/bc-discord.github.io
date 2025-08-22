@@ -10,28 +10,26 @@
 # Possible means you can write alternative answers.
 # Exact means only these options, exactly as written.
 
-name: Serif
-maker: MachineWise
-amount_made: Few thousand
-production: CNC           # Possible: 'CNC', 'Midtech', 'Handmade'
+name: Nautilus V2
+maker: Squid Industries
 units: imperial
-links:
-  - name: MachineWise
-    url: https://machinewise.store/products/serif-1
-  - name: MachineWise
-    url: https://machinewise.store/products/serif-1
+amount_made: Thousands       #  Estimate acceptable. Whole number
+production: CNC           # Possible: 'CNC', 'Midtech', 'Handmade'
+links: 
+  - name: Squid Industries
+    url: https://www.squidindustries.co/products/nautilus-v2
 start_year: 2022              # Whole number
 end_year: null                # Whole number
-availability: Available                # Exact: 'Available', 'Discontinued', 'Hiatus'
-retail: 650                  # Whole number
-drop_schedule: Few times a month         # Short descrption
+availability: Available              # Exact: 'Available', 'Discontinued', 'Hiatus'
+retail: 215                  # Whole number
+drop_schedule: Every week         # Short descrption
 
 has_ring: false
 
 # Overall
 overall:
-  weight: 3.96                     # Decimal number
-  length: 10.4                      # Decimal number
+  weight: 3.6                    # Decimal number
+  length: 10.0                    # Decimal number
   description: null
   image:
     path: null
@@ -39,20 +37,20 @@ overall:
 
 # Blade information
 blade:
-  shape: Bowie 
-  material: S35VN
+  shape: Tanto 
+  material: 410 
   surface:
-    finish: Stonewashed       # Possible: 'Stonewashed', 'Tumbled', 'Blasted', 'Satin', 'Polished' 
+    finish: Satin       # Possible: 'Stonewashed', 'Tumbled', 'Blasted', 'Satin', 'Polished' 
     media: null               # Possible: 'Zirconia', 'Sand', 'Bead', 'Glass'
     coating: null              # Possible: 'DLC', 'PVD', 'Cerakote'
   measurement:
-    length: 5.3           # Decimal number
+    length: 5.05           # Decimal number
     thickness: null     # Decimal number
-    weight: 1.20             # Decimal number
+    weight: null            # Decimal number
   has_trainer: true          # Exact: 'true', 'false'
   edge:
     tang: null                  # Exact: 'Rounded', 'Chamfered', 'None'
-    spine: Rounded                # Exact: 'Rounded', 'Chamfered', 'None'
+    spine: Chamfered                # Exact: 'Rounded', 'Chamfered', 'None'
   image:
     path: null
     caption: null
@@ -61,24 +59,24 @@ blade:
 # Handle information
 handle:
   construction:
-    type: Chanwich      # Exact: 'Liners and Scales', 'Sandwich', 'Channel', 'Chanwich'
-    face: 
-    edge_break:     # Exact: 'Rounded', 'Chamfered', 'Rounded and Chamfered'
+    type: Channel and Scales     # Exact: 'Liners and Scales', 'Sandwich', 'Channel', 'Chanwich'
+    face: Flat
+    edge_break: Rounded    # Exact: 'Rounded', 'Chamfered', 'Rounded and Chamfered'
     taper:
-      height: true          # Exact: 'false', 'true'
+      height: false          # Exact: 'false', 'true'
       width: true              # Exact: 'false', 'true'
   material:
-      frame: Titanium      # Possible: 'Titanium', 'Aluminum', 'CF', 'G10'
+      frame: 7075 Aluminum      # Possible: 'Titanium', 'Aluminum', 'CF', 'G10'
       liner: N/A       # Leave null if not applicable.
-      scale: N/A        # Leave null if not applicable.
+      scale: G10         # Leave null if not applicable.
   surface: 
-    finish: Stonewashed                # See blade equivalent.
+    finish: Tumbled                # See blade equivalent.
     media: null                   # See blade equivalent.
     coating: null                  # See blade equivalent.
   measurement:
     thickness: 0.5          # Decimal number 
-    length: 5.6                 # Decimal number
-    weight: 1.20                 # Decimal number
+    length: 5.675                 # Decimal number
+    weight: null                 # Decimal number
   has_weight_system: true        # Sexbolts and screws on the end of channel handles counts as a weight system, but not if required for spacers. Exact: 'false', 'true'
   has_spacers: false             # Exact: 'false', 'true'
   image:
@@ -92,11 +90,11 @@ spacer:
   description: null
   image:
     path: null
-    caption: ...
+    caption: null
 
 # Stop system
 stop_system: 
-  type: Hidden Zen Pins         # Exact: 'Screwed Zen Pins', 'Pressed Zen Pins', 'Hidden Zen Pins', 'Pressed Tang Pins', 'Screwed Tang Pins'
+  type: Pressed Tang Pins         # Exact: 'Screwed Zen Pins', 'Pressed Zen Pins', 'Hidden Zen Pins', 'Pressed Tang Pins', 'Screwed Tang Pins'
   threading: N/A       # Must use slash, not dash. Example: 5/32.
   sexbolt: 
     length: null
@@ -110,50 +108,49 @@ stop_system:
 pivot_system: 
   type: Bushings               # Exact: 'Washers', 'Bearings', 'Bushings'
   washer:
-    material: Steel
-    OD: null
-    ID: null
-    thickness: .02
-    links:
-      - name: MachineWise
-        url: https://machinewise.store/products/hardware-kit?variant=41300229718075
-  bushing:
     OD: null
     ID: null
     thickness: null
+    links: null
+  bushing:
+    OD: 0.2482
+    ID: 0.1878
+    thickness: null
     links: 
-      - name: MachineWise
-        url: https://machinewise.store/products/hardware-kit?variant=40755621101627
+      - name: Squid Industries
+        url: https://www.squidindustries.co/products/oversized-bushings?variant=44002598682796
   bearing:
-    name: null
+    name: N/A
     links: null
 
 pivot:
-  threading: 6-64
+  threading: 6/32
   sexbolt:
-    length: null
-    links:
-      - name: MachineWise
-        url: https://machinewise.store/products/hardware-kit?variant=40755621068859
+    length: .320
+    diameter: 0.1870
+    links: 
+      - name: Squid Industries
+        url: https://www.squidindustries.co/products/small-washer-hardware-kit
   screw:
     length: null
     links:
-      - name: MachineWise
-        url: https://machinewise.store/products/hardware-kit?variant=40755621036091
+      - name: Squid Industries
+        url: https://www.squidindustries.co/products/small-washer-hardware-kit
 
 # Body specs
 body:
-  threading: 6-64
+  threading: 6/32
   sexbolt:
-    length: null
-    links:
-      - name: MachineWise
-        url: https://machinewise.store/products/hardware-kit?variant=40755621068859
+    length: .320
+    diameter: 0.1870
+    links: 
+      - name: Squid Industries
+        url: https://www.squidindustries.co/products/small-washer-hardware-kit
   screw:
     length: null
-    links:
-      - name: MachineWise
-        url: https://machinewise.store/products/hardware-kit?variant=40755621036091
+    links: 
+      - name: Squid Industries
+        url: https://www.squidindustries.co/products/small-washer-hardware-kit
 
 # Variants
 variant_1:

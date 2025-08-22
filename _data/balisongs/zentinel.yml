@@ -1,0 +1,152 @@
+# Balisong Template
+
+# You fill in the null values. If you are not sure, leave it null.
+
+# Links: If no links are available, just set it as null. Must be done as list if links exist. Just one entry is acceptable.
+# (Example)
+# links:
+#   - name: TRUELINK: 
+#     link: https://thetruelink.com/products/250-od-x-188-id-bushing-xp
+
+# Possible means you can write alternative answers.
+# Exact means only these options, exactly as written.
+
+name: Zentinel
+maker: Jimpy Designs
+amount_made: Few tens       #  Estimate acceptable. Whole number
+production: CNC           # Possible: 'CNC', 'Midtech', 'Handmade'
+units: imperial     # Exact: 'imperial', 'metric'
+links: 
+  - name: Jimpy Designs
+    url: https://www.jimpydesigns.com/shop/p/jimpy-sentinel-nn8cn
+start_year: 2023              # Whole number
+end_year: null                # Whole number
+availability: Available                 # Exact: 'Available', 'Discontinued', 'Hiatus'
+retail: 450                  # Whole number
+drop_schedule: Few times a month         # Short descrption
+
+has_ring: false
+
+# Overall
+overall:
+  weight: 4.6                   # Decimal number
+  length: 10.0                     # Decimal number
+  description: null
+  image:
+    path: null
+    caption: null
+
+# Blade information
+blade:
+  shape: Spearpoint 
+  material: 440C
+  surface:
+    finish: Satin       # Possible: 'Stonewashed', 'Tumbled', 'Blasted', 'Satin', 'Polished' 
+    media: null               # Possible: 'Zirconia', 'Sand', 'Bead', 'Glass'
+    coating: null              # Possible: 'DLC', 'PVD', 'Cerakote'
+  measurement:
+    length: null           # Decimal number
+    thickness: .140     # Decimal number
+    weight: null            # Decimal number
+  has_trainer: false          # Exact: 'true', 'false'
+  edge:
+    tang: Chamfered                  # Exact: 'Rounded', 'Chamfered', 'None'
+    spine: Chamfered                # Exact: 'Rounded', 'Chamfered', 'None'
+  image:
+    path: null
+    caption: null
+  description: null
+
+# Handle information
+handle:
+  construction:
+    type: Channel     # Exact: 'Liners and Scales', 'Sandwich', 'Channel', 'Chanwich'
+    face: Rounded
+    edge_break: Rounded    # Exact: 'Rounded', 'Chamfered', 'Rounded and Chamfered'
+    taper:
+      height: false          # Exact: 'false', 'true'
+      width: true              # Exact: 'false', 'true'
+  material:
+      frame: Titanium      # Possible: 'Titanium', 'Aluminum', 'CF', 'G10'
+      liner: N/A       # Leave null if not applicable.
+      scale: N/A         # Leave null if not applicable.
+  surface: 
+    finish: Satin                # See blade equivalent.
+    media: null                   # See blade equivalent.
+    coating: null                  # See blade equivalent.
+  measurement:
+    thickness: null          # Decimal number 
+    length: 5.5                 # Decimal number
+    weight: null                 # Decimal number
+  has_weight_system: false        # Sexbolts and screws on the end of channel handles counts as a weight system, but not if required for spacers. Exact: 'false', 'true'
+  has_spacers: false             # Exact: 'false', 'true'
+  image:
+    path: null
+    caption: null
+  description: 
+    - Very narrow (low width) handles; cross-section is more rectangular on the ends. Utilizes a unique zen shield design that allows for the zen pin to be hidden by a shield that locks in place with the pivot screws.
+
+spacer:
+  material: null                 
+  thickness: null
+  description: null
+  image:
+    path: null
+    caption: ...
+
+# Stop system
+stop_system: 
+  type: Hidden Zen Pins         # Exact: 'Screwed Zen Pins', 'Pressed Zen Pins', 'Hidden Zen Pins', 'Pressed Tang Pins', 'Screwed Tang Pins'
+  threading: N/A       # Must use slash, not dash. Example: 5/32.
+  sexbolt: 
+    length: .394
+    thickness: 0.125
+    links: null
+  screw:
+    length: null
+    links: null
+
+# Pivot system
+pivot_system: 
+  type: Bushings               # Exact: 'Washers', 'Bearings', 'Bushings'
+  washer:
+    OD: 0.375
+    ID: 0.1875
+    thickness: 0.02
+    links: null
+  bushing:
+    OD: .25
+    ID: .1875
+    thickness: 0.1413
+    links: null
+  bearing:
+    name: N/A
+    links: null
+
+pivot:
+  threading: 6/32
+  sexbolt:
+    length: 0.395
+    diameter: 0.1875
+    links: null
+  screw:
+    length: null
+    links: 
+      - name: Jimpy Designs
+        url: https://www.jimpydesigns.com/shop/p/t10flat-head-screws
+
+# Body specs
+body:
+  threading: N/A
+  sexbolt:
+    length: null
+    links: null
+  screw:
+    length: null
+    links: null
+
+# Variants
+variant_1:
+  name: null
+  links: null
+  differences: null

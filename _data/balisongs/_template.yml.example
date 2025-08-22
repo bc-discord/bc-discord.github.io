@@ -5,25 +5,30 @@
 # Links: If no links are available, just set it as null. Must be done as list if links exist. Just one entry is acceptable.
 # (Example)
 # links:
-#   TRUELINK: https://thetruelink.com/products/250-od-x-188-id-bushing-xp
+#   - name: TRUELINK: 
+#     link: https://thetruelink.com/products/250-od-x-188-id-bushing-xp
 
 # Possible means you can write alternative answers.
 # Exact means only these options, exactly as written.
 
 name: null
 maker: null
+amount_made: null       #  Estimate acceptable. Whole number
 production: null           # Possible: 'CNC', 'Midtech', 'Handmade'
+units: null     # Exact: 'imperial', 'metric'
 links: null
 start_year: null              # Whole number
 end_year: null                # Whole number
-availability:                 # Exact: 'Available', 'Discontinued', 'Hiatus'
+availability: null                 # Exact: 'Available', 'Discontinued', 'Hiatus'
 retail: null                  # Whole number
 drop_schedule: null         # Short descrption
 
+has_ring: null
+
 # Overall
 overall:
-  weight:                     # Decimal number
-  length:                       # Decimal number
+  weight: null                   # Decimal number
+  length: null                     # Decimal number
   description: null
   image:
     path: null
@@ -54,12 +59,13 @@ blade:
 handle:
   construction:
     type: null     # Exact: 'Liners and Scales', 'Sandwich', 'Channel', 'Chanwich'
+    face: null
     edge_break: null    # Exact: 'Rounded', 'Chamfered', 'Rounded and Chamfered'
     taper:
       height: null          # Exact: 'false', 'true'
       width: null              # Exact: 'false', 'true'
   material:
-      whole: null      # Possible: 'Titanium', 'Aluminum', 'CF', 'G10'
+      frame: null      # Possible: 'Titanium', 'Aluminum', 'CF', 'G10'
       liner: null       # Leave null if not applicable.
       scale: null         # Leave null if not applicable.
   surface: 

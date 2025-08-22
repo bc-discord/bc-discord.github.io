@@ -51,7 +51,7 @@ Makers that CNC machine both blades and handles, typically finishes their parts 
 - Maryn, Slift, [Serif]({{ '/balisongs/serif.html' | relative_url }}), Prysma, Opus, Tottori, Sassori
 
 #### [Squid Industries](https://www.squidindustries.co/)
-- Squiddy, Mako, Triton, Squiddy, Nautilus, Swordfish, Squidtrainer, Kraken, Madko, Hydro, Tsunami
+- Squiddy, Mako, Triton, Squiddy, Nautilus [V2]({{ '/balisongs/nautilus_v2.html' | relative_link }}), Swordfish, Squidtrainer, Kraken, Madko, Hydro, Tsunami
 
 ### Smaller
 
@@ -113,7 +113,7 @@ Makers that outsources there CNC machining of either blades, handles, or both. M
 - Rhapsody, G10st, Prodigy, Specter, Basilisk, Chimera, Arashi, Tempest
 
 #### [Jimpy Designs](https://www.jimpydesigns.com/)
-- Sentinel/Zentinel
+- [Sentinel]({{ '/balisongs/sentinel.html' | relative_url }}), Tux, [Zentinel]({{ '/balisongs/zentinel.html' | relative_url }})
 
 #### [Svix](https://www.thesvix.com/)
 - Terra, Gale, Zephyr

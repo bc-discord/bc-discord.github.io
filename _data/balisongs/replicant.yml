@@ -1,14 +1,19 @@
 # Info
 name: Replicant
 maker: Bladerunners Systems
+amount_made: Thousands
 production: CNC
+units: imperial
 links:
-  Homepage: https://www.bladerunnerssystems.com/collections/bladerunners-systems-alpha-beast-series/products/replicant
+  - name: BRS
+    url: https://www.bladerunnerssystems.com/collections/bladerunners-systems-alpha-beast-series/products/replicant
 start_year: 2014
 end_year: null
 availability: Available
 retail: 350
 drop_schedule: Few times a month
+
+has_ring: false
 
 # Overall
 overall:
@@ -50,7 +55,7 @@ handle:
       height: false
       width: true
   material:
-      whole: Mixed
+      frame: Mixed
       liner: Titanium
       scale: G10
   surface: 
@@ -84,7 +89,8 @@ stop_system:
     length: .1565
     thickness: null
     links:
-      TRUELINK: https://thetruelink.com/products/5-32-shoulder-pin
+      - name: TRUE~LINK
+        url: https://thetruelink.com/products/5-32-shoulder-pin
   screw:
     length: null
     links:
@@ -98,15 +104,17 @@ pivot_system:
     ID: 0.188
     thickness: 0.016
     links:
-      TRUELINK: https://thetruelink.com/products/375-x-188-phosphorus-bronze-washers
+      - name: TRUE~LINK
+        url: https://thetruelink.com/products/375-x-188-phosphorus-bronze-washers
   bushing:
     OD: 0.250
     ID: 0.188
     thickness: 0.126
     links:
-      TRUELINK: https://thetruelink.com/products/250-od-x-188-id-bushing-xp
+      - name: TRUE~LINK
+        url: https://thetruelink.com/products/250-od-x-188-id-bushing-xp
   bearing:
-    name: null
+    name: N/A
     links: null
 
 pivot:
@@ -114,25 +122,29 @@ pivot:
   sexbolt:
     length: .320
     links:
-      TRUELINK: https://thetruelink.com/products/3-16-sex-bolt-gray-finish
+      - name: TRUE~LINK
+        url: https://thetruelink.com/products/3-16-sex-bolt-gray-finish
   screw:
     length: .250
     links:
-      TRUELINK: https://thetruelink.com/products/button-head-torx-screw-6-32-pitch
+      - name: TRUE~LINK
+        url: https://thetruelink.com/products/button-head-torx-screw-6-32-pitch
 
 # Body specs
 body:
   threading: 2/56
-  screw:
-    length: .188
-    links:
-      TRUELINK: https://thetruelink.com/products/button-head-torx-screw-2-56-pitch
   sexbolt:
     length: .400
     links:
-      TRUELINK: https://thetruelink.com/products/1-8-x-2-56-tpi-stainless-sex-bolt-gray-finish-416-stainless
+      - name: TRUE~LINK
+        url: https://thetruelink.com/products/1-8-x-2-56-tpi-stainless-sex-bolt-gray-finish-416-stainless
+  screw:
+    length: .188
+    links:
+      - name: TRUE~LINK
+        url: https://thetruelink.com/products/button-head-torx-screw-2-56-pitch
 
 # Variants
 variant_1:
-  link: null
+  url: null
   differences: null
