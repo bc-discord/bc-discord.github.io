@@ -31,8 +31,8 @@ These recommendations are geared for the U.S. market; outside of the U.S., it's 
 ### $201 - $300
 - **Squid Industries**: Kraken · $265 · Available · ✦✦✦✦✦
     - Al channel handles. Consistent flipper, commonly used during live competitions.
-- **FLS Balisong**: Liminal · $275 · Discontinued · ✦✦✦✧✧
-    - Early issues with cracked tang; if you don't beat your balisong, pretty good value with Ti handles. Might be hard to find second-hand. Bottom weights are not easily replacable. 
+- **FLS Balisong**: Liminal · $275 · Discontinued · ✦✦✧✧✧
+    - Early issues with cracked tang; if you don't beat your balisong, pretty good value with Ti channel handles. Might be hard to find second-hand. Bottom weights are not easily replacable. 
 
 ### $300 - $500
 
@@ -46,14 +46,18 @@ This is where quality levels off. At this juncture, you're buying into variety o
 ## Trainers
 ---
 ### < $50
+- **Nabalis**: Impulse · $45 · Available · ✦✦✦✦✧
+    - Pins fall out, like most cheaper Nabalis balisongs.
 
 ### $51 - $100
 
 ### $101 - $200
 - **Machinewise**: Prysma v1/v2/Pro · $130/150/180 · Discontinued · ✦✦✦✦✦
-    - Best value is the v1 with 6061 Aluimnum handles. Upgrade to the Pro for rounded handles with 7075 Al.
+    - Best value is the v1 with 6061 Al handles. Upgrade to the Pro for rounded handles with 7075 Al.
 
 ### $201 - $300
+- **Squid Industries**: Nautilus V2 · $216 · Available · ✦✦✦✧✧
+    - Pretty handle bias but favored for tech flipping. Al channel with CF/G10 scales makes it a subpar beater.  
 
 ### $300 - $500
 - **Squid Industries**: Tsunami Trainer · $475 · Available · ✦✦✦✦✧
