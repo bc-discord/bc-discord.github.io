@@ -1,0 +1,147 @@
+# Balisong Template
+
+# You fill in the null values. If you are not sure, leave it null.
+
+# Links: If no links are available, just set it as null. Must be done as list if links exist. Just one entry is acceptable.
+# (Example)
+# links:
+#   - name: TRUELINK: 
+#     link: https://thetruelink.com/products/250-od-x-188-id-bushing-xp
+
+# Possible means you can write alternative answers.
+# Exact means only these options, exactly as written.
+
+name: Paradigm
+maker: Stitched Steel
+amount_made: 70s       #  Estimate acceptable. Whole number
+production: Handmade           # Possible: 'CNC', 'Midtech', 'Handmade'
+units: imperial     # Exact: 'imperial', 'metric'
+links: null
+start_year: 2021              # Whole number
+end_year: null                # Whole number
+availability: Available                 # Exact: 'Available', 'Discontinued', 'Hiatus'
+retail: 1000                  # Whole number
+drop_schedule: Every few months         # Short descrption
+
+has_ring: false
+
+# Overall
+overall:
+  weight: 4.6                   # Decimal number
+  length: null                     # Decimal number
+  description: null
+  image:
+    path: null
+    caption: null
+
+# Blade information
+blade:
+  shape: Tanto 
+  material: S35VN
+  surface:
+    finish: Satin       # Possible: 'Stonewashed', 'Tumbled', 'Blasted', 'Satin', 'Polished' 
+    media: null               # Possible: 'Zirconia', 'Sand', 'Bead', 'Glass'
+    coating: null              # Possible: 'DLC', 'PVD', 'Cerakote'
+  measurement:
+    length: null           # Decimal number
+    thickness: null     # Decimal number
+    weight: null            # Decimal number
+  has_trainer: false          # Exact: 'true', 'false'
+  edge:
+    tang: Chamfered                  # Exact: 'Rounded', 'Chamfered', 'None'
+    spine: Rounded                # Exact: 'Rounded', 'Chamfered', 'None'
+  image:
+    path: null
+    caption: null
+  description: null
+
+# Handle information
+handle:
+  construction:
+    type: Sandwich     # Exact: 'Liners and Scales', 'Sandwich', 'Channel', 'Chanwich'
+    face: Flat
+    edge_break: Rounded    # Exact: 'Rounded', 'Chamfered', 'Rounded and Chamfered'
+    taper:
+      height: true          # Exact: 'false', 'true'
+      width: true              # Exact: 'false', 'true'
+  material:
+      frame: 6Al-4V Titanium      # Possible: 'Titanium', 'Aluminum', 'CF', 'G10'
+      liner: N/A       # Leave null if not applicable.
+      scale: N/A         # Leave null if not applicable.
+  surface: 
+    finish: Satin                # See blade equivalent.
+    media: null                   # See blade equivalent.
+    coating: null                  # See blade equivalent.
+  measurement:
+    thickness: null          # Decimal number 
+    length: null                 # Decimal number
+    weight: null                 # Decimal number
+  has_weight_system: false        # Sexbolts and screws on the end of channel handles counts as a weight system, but not if required for spacers. Exact: 'false', 'true'
+  has_spacers: true             # Exact: 'false', 'true'
+  image:
+    path: null
+    caption: null
+  description: null
+
+spacer:
+  material: 6Al-4V Titanium                 
+  thickness: null
+  description: null
+  image:
+    path: null
+    caption: null
+
+# Stop system
+stop_system: 
+  type: Pressed Tang Pins         # Exact: 'Screwed Zen Pins', 'Pressed Zen Pins', 'Hidden Zen Pins', 'Pressed Tang Pins', 'Screwed Tang Pins'
+  threading: N/A       # Must use slash, not dash. Example: 5/32.
+  sexbolt: 
+    length: null
+    thickness: null
+    links: null
+  screw:
+    length: null
+    links: null
+
+# Pivot system
+pivot_system: 
+  type: Bushings               # Exact: 'Washers', 'Bearings', 'Bushings'
+  washer:
+    OD: null
+    ID: null
+    thickness: null
+    links: null
+  bushing:
+    OD: .375 
+    ID: .1875
+    thickness: null
+    links: null
+  bearing:
+    name: N/A
+    links: null
+
+pivot:
+  threading: 6/32
+  sexbolt:
+    length: .320
+    diameter: .1875
+    links: null
+  screw:
+    length: .25
+    links: null
+
+# Body specs
+body:
+  threading: 2/56
+  sexbolt:
+    length: null
+    links: null
+  screw:
+    length: .250
+    links: null
+
+# Variants
+variant_1:
+  name: null
+  links: null
+  differences: null

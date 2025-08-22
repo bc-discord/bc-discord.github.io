@@ -51,7 +51,7 @@ Makers that CNC machine both blades and handles, typically finishes their parts 
 - Maryn, Slift, [Serif]({{ '/balisongs/serif.html' | relative_url }}), Prysma, Opus, Tottori, Sassori
 
 #### [Squid Industries](https://www.squidindustries.co/)
-- Squiddy, Mako, Triton, Squiddy, Nautilus [V2]({{ '/balisongs/nautilus_v2.html' | relative_link }}), Swordfish, Squidtrainer, Kraken, Madko, Hydro, Tsunami
+- Squiddy, Mako, Triton, Squiddy, Nautilus [V2]({{ '/balisongs/nautilus_v2.html' | relative_link }}), Swordfish, Squidtrainer, Kraken, Madko, Hydro, Tsunami ([live]({{ '/balisongs/tsunami.html' | relative_url }}), trainer)
 
 ### Smaller
 
@@ -222,7 +222,7 @@ These makers manually machine their handles and blades completely on their own; 
 - Revolution, Campanile, Backline, RoninWorks, BC, Industrial
 
 ### [Stitched Steel](https://www.instagram.com/stitchedsteel/)
-- Alien, Paradigm, Railgun
+- Alien, [Paradigm]({{ '/balisongs/paradigm.html' | relative_link }}), Railgun
 
 ### [Taylormania Knives](https://www.instagram.com/taylormaniaknives/)
 - Solidsong
