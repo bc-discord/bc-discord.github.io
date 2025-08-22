@@ -48,7 +48,7 @@ Makers that CNC machine both blades and handles, typically finishes their parts 
 - Kite, Orion, Corvus, Sirius, Frank, Cygnus, Vixen
 
 #### [MachineWise](https://machinewise.com/)
-- Maryn, Slift, Serif, Prysma, Opus, Tottori, Sassori
+- Maryn, Slift, [Serif]({{ '/balisongs/serif.html' | relative_url }}), Prysma, Opus, Tottori, Sassori
 
 #### [Squid Industries](https://www.squidindustries.co/)
 - Squiddy, Mako, Triton, Squiddy, Nautilus, Swordfish, Squidtrainer, Kraken, Madko, Hydro, Tsunami
@@ -104,7 +104,7 @@ Makers that outsources there CNC machining of either blades, handles, or both. M
 ### Bigger
 
 #### [Bladerunners Systems (BRS)](https://www.bladerunnerssystems.com/)
-- Replicant, AB/CHAB, 
+- [Replicant]({{ '/balisongs/replicant.html' | relative_url }}), AB/CHAB, 
 
 #### [EPS Knives](https://epsknives.com/)
 - Atlas, Wraith, 101

@@ -44,14 +44,15 @@ blade:
 handle:
   construction:
     type: Liners and Scales
-    material:
-      whole: Mixed
-      liner: Titanium
-      scale: G10
+    face: Flat
     edge_break: Rounded
     taper:
       height: false
       width: true
+  material:
+      whole: Mixed
+      liner: Titanium
+      scale: G10
   surface: 
     finish: Stonewashed
     media: null

@@ -12,7 +12,7 @@
 
 name: null
 maker: null
-production: CNC           # Possible: 'CNC', 'Midtech', 'Handmade'
+production: null           # Possible: 'CNC', 'Midtech', 'Handmade'
 links: null
 start_year: null              # Whole number
 end_year: null                # Whole number
@@ -54,14 +54,14 @@ blade:
 handle:
   construction:
     type: null     # Exact: 'Liners and Scales', 'Sandwich', 'Channel', 'Chanwich'
-    material:
-      whole: null      # Possible: 'Titanium', 'Aluminum', 'CF', 'G10'
-      liner: null       # Leave null if not applicable.
-      scale: null         # Leave null if not applicable.
     edge_break: null    # Exact: 'Rounded', 'Chamfered', 'Rounded and Chamfered'
     taper:
       height: null          # Exact: 'false', 'true'
       width: null              # Exact: 'false', 'true'
+  material:
+      whole: null      # Possible: 'Titanium', 'Aluminum', 'CF', 'G10'
+      liner: null       # Leave null if not applicable.
+      scale: null         # Leave null if not applicable.
   surface: 
     finish: null                # See blade equivalent.
     media: null                   # See blade equivalent.
@@ -126,10 +126,10 @@ pivot:
 # Body specs
 body:
   threading: null
-  screw:
+  sexbolt:
     length: null
     links: null
-  sexbolt:
+  screw:
     length: null
     links: null
 
