@@ -45,5 +45,10 @@ callouts:
     title: Note
     color: purple
 
+collections_dir: collections
+collections:
+  balisongs:
+    output: true
+
 back_to_top: true
 back_to_top_text: "Back to Top"

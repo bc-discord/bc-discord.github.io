@@ -1,0 +1,140 @@
+# Balisong Template
+
+# You fill in the null values. If you are not sure, leave it null.
+
+# Links: If no links are available, just set it as null. Must be done as list if links exist. Just one entry is acceptable.
+# (Example)
+# links:
+#   TRUELINK: https://thetruelink.com/products/250-od-x-188-id-bushing-xp
+
+# Possible means you can write alternative answers.
+# Exact means only these options, exactly as written.
+
+name: null
+maker: null
+production: CNC           # Possible: 'CNC', 'Midtech', 'Handmade'
+links: null
+start_year: null              # Whole number
+end_year: null                # Whole number
+availability:                 # Exact: 'Available', 'Discontinued', 'Hiatus'
+retail: null                  # Whole number
+drop_schedule: null         # Short descrption
+
+# Overall
+overall:
+  weight:                     # Decimal number
+  length:                       # Decimal number
+  description: null
+  image:
+    path: null
+    caption: null
+
+# Blade information
+blade:
+  shape: null 
+  material: null
+  surface:
+    finish: null       # Possible: 'Stonewashed', 'Tumbled', 'Blasted', 'Satin', 'Polished' 
+    media: null               # Possible: 'Zirconia', 'Sand', 'Bead', 'Glass'
+    coating: null              # Possible: 'DLC', 'PVD', 'Cerakote'
+  measurement:
+    length: null           # Decimal number
+    thickness: null     # Decimal number
+    weight: null            # Decimal number
+  has_trainer: null          # Exact: 'true', 'false'
+  edge:
+    tang: null                  # Exact: 'Rounded', 'Chamfered', 'None'
+    spine: null                # Exact: 'Rounded', 'Chamfered', 'None'
+  image:
+    path: null
+    caption: null
+  description: null
+
+# Handle information
+handle:
+  construction:
+    type: null     # Exact: 'Liners and Scales', 'Sandwich', 'Channel', 'Chanwich'
+    material:
+      whole: null      # Possible: 'Titanium', 'Aluminum', 'CF', 'G10'
+      liner: null       # Leave null if not applicable.
+      scale: null         # Leave null if not applicable.
+    edge_break: null    # Exact: 'Rounded', 'Chamfered', 'Rounded and Chamfered'
+    taper:
+      height: null          # Exact: 'false', 'true'
+      width: null              # Exact: 'false', 'true'
+  surface: 
+    finish: null                # See blade equivalent.
+    media: null                   # See blade equivalent.
+    coating: null                  # See blade equivalent.
+  measurement:
+    thickness: null          # Decimal number 
+    length: null                 # Decimal number
+    weight: null                 # Decimal number
+  has_weight_system: null        # Sexbolts and screws on the end of channel handles counts as a weight system, but not if required for spacers. Exact: 'false', 'true'
+  has_spacers: null             # Exact: 'false', 'true'
+  image:
+    path: null
+    caption: null
+  description: null
+
+spacer:
+  material: null                 
+  thickness: null
+  description: null
+  image:
+    path: null
+    caption: ...
+
+# Stop system
+stop_system: 
+  type: null         # Exact: 'Screwed Zen Pins', 'Pressed Zen Pins', 'Hidden Zen Pins', 'Pressed Tang Pins', 'Screwed Tang Pins'
+  threading: null       # Must use slash, not dash. Example: 5/32.
+  sexbolt: 
+    length: null
+    thickness: null
+    links: null
+  screw:
+    length: null
+    links: null
+
+# Pivot system
+pivot_system: 
+  type: null               # Exact: 'Washers', 'Bearings', 'Bushings'
+  washer:
+    OD: null
+    ID: null
+    thickness: null
+    links: null
+  bushing:
+    OD: null
+    ID: null
+    thickness: null
+    links: null
+  bearing:
+    name: null
+    links: null
+
+pivot:
+  threading: null
+  sexbolt:
+    length: null
+    links: null
+  screw:
+    length: null
+    links: null
+
+# Body specs
+body:
+  threading: null
+  screw:
+    length: null
+    links: null
+  sexbolt:
+    length: null
+    links: null
+
+# Variants
+variant_1:
+  name: null
+  links: null
+  differences: null

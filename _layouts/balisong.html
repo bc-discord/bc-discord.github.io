@@ -1,0 +1,179 @@
+---
+layout: default
+---
+
+{% assign bali = site.data.balisongs[page.key] %}
+
+{% capture md %}
+
+# {{ bali.name }}
+
+<!-- Year calculation -->
+{%- assign years = nil -%}
+{%- if bali.start_year -%}
+  {%- if bali.end_year -%}
+    {%- assign years = bali.start_year | append: " – " | append: bali.end_year -%}
+  {%- else -%}
+    {%- assign years = bali.start_year | append: " – Present" -%}
+  {%- endif -%}
+{%- endif %}
+<!-- End -->
+
+Info
+- Maker: {{ bali.maker }} {%- if years %} ({{ years }}){%- endif %}
+- Links: {% for pair in bali.links %} {% assign name = pair[0] %}{% assign url = pair[1] %} [{{ name }}]({{ url }}){% unless forloop.last %}, {% endunless %} {% endfor %}
+- Production: {{ bali.production }}
+    - Stop system: {{ bali.stop_system.type }}
+    - Pivot system: {{ bali.pivot_system.type }}
+- Weight: {% include round_float.html n=bali.overall.weight d=2 %} oz
+- Length: {% include round_float.html n=bali.overall.length d=2 %} in
+
+Purchase
+- Retail price: {{ bali.retail | default:'-' }}$
+- Drop schedule: {{ bali.drop_schedule }}
+
+#### Table of contents
+{: .no_toc }
+
+{::options toc_levels="2..6" /}
+
+- TOC
+{:toc}
+
+## Blade
+---
+
+<!-- Surface calculation -->
+{%- assign finish  = bali.blade.surface.finish  | default: "" -%}
+{%- assign media   = bali.blade.surface.media   | default: "" -%}
+{%- assign coating = bali.blade.surface.coating | default: "" -%}
+
+{%- assign finish_str = "" -%}
+{%- if finish != "" -%}
+  {%- assign finish_lc = finish | downcase -%}
+  {%- capture base -%}
+    {%- if finish_lc contains "blast" -%}
+      {{ finish }}{% if media != "" %} ({{ media }}){% endif %}
+    {%- else -%}
+      {{ finish }}
+    {%- endif -%}
+  {%- endcapture -%}
+  {%- assign finish_str = base | strip -%}
+  {%- if coating != "" -%}
+    {%- assign finish_str = finish_str | append: ", " | append: coating -%}
+  {%- endif -%}
+{%- endif -%}
+<!-- End -->
+
+| Blade | Details | Additional | 
+| -- | -- | -- |
+| Shape | {{ bali.blade.shape }}  | Tang: {{ bali.blade.edge.tang }} <br> Spine: {{ bali.blade.edge.spine }} |
+| Material | {{ bali.blade.material }} | {{ finish_str }} |
+| Measurements | Length: {% include round_float.html n=bali.blade.measurement.length d=2 %} in <br> Weight: {% include round_float.html n=bali.blade.measurement.weight d=2 %} oz <br> Thickness: {% include round_float.html n=bali.blade.measurement.thickness d=3 %} in |
+| Has trainer variant? | {{ bali.blade.has_trainer }} |
+
+## Handles
+---
+
+<!-- Material calculation -->
+ {%- assign mat = bali.handle.construction.material -%}
+{%- assign mat_type = mat.type | default: '' | downcase -%}
+
+{%- capture materials_str -%}
+  {%- if mat_type contains 'liner' and mat_type contains 'scale' -%}
+    {%- assign liner = mat.liner | default: '' | strip -%}
+    {%- assign scale = mat.scale | default: '' | strip -%}
+
+    {%- capture lines -%}
+      {%- if liner != '' -%}Liner: {{ liner }}{%- assign printed = true -%}{%- endif -%}
+      {%- if scale != '' -%}{% if printed %}<br>{% endif %}Scale: {{ scale }}{%- assign printed = true -%}{%- endif -%}
+    {%- endcapture -%}
+
+    {%- if lines != '' -%}
+      {{- lines -}}
+    {%- else -%}
+      {{- mat.whole | default: '-' -}}
+    {%- endif -%}
+  {%- else -%}
+    {{- mat.whole | default: '-' -}}
+  {%- endif -%}
+{%- endcapture -%}
+<!-- End -->
+
+<!-- Surface calculation -->
+{%- assign finish  = bali.handle.surface.finish  | default: "" -%}
+{%- assign media   = bali.handle.surface.media   | default: "" -%}
+{%- assign coating = bali.handle.surface.coating | default: "" -%}
+
+{%- assign finish_str = "" -%}
+{%- if finish != "" -%}
+  {%- assign finish_lc = finish | downcase -%}
+  {%- capture base -%}
+    {%- if finish_lc contains "blast" -%}
+      {{ finish }}{% if media != "" %} ({{ media }}){% endif %}
+    {%- else -%}
+      {{ finish }}
+    {%- endif -%}
+  {%- endcapture -%}
+  {%- assign finish_str = base | strip -%}
+  {%- if coating != "" -%}
+    {%- assign finish_str = finish_str | append: ", " | append: coating -%}
+  {%- endif -%}
+{%- endif -%}
+<!-- End -->
+
+{% capture table_md -%}
+|Component | Spec | Details | Additional |
+| -- | -- | -- | -- |
+| Handles | Construction | {{ bali.handle.construction.type }} | Edge break: {{ bali.handle.construction.edge_break}} <br> Width taper: {{ bali.handle.construction.taper.width }} <br> Height taper: {{ bali.handle.construction.taper.height }} |
+| | Material | {{ materials_str | strip }} | {{ finish_str }} |
+| |Measurements | Thickness: {% include round_float.html n=bali.handle.measurement.thickness d=2 %} in <br> Length: {% include round_float.html n=bali.handle.measurement.length d=2 %} in |
+| | Has weight system? | {{ bali.handle.has_weight_system }} |
+{% if bali.handle.has_spacers -%}
+| Spacer | Material |{{ bali.spacer.material }} | |
+|  | Measurements | Thickness: {% include round_float.html n=bali.spacer.thickness d=3 %} in | |
+{% endif -%}
+{%- endcapture %}
+{{ table_md | markdownify }}
+
+## Hardware Specification
+---
+
+{% assign ps = bali.pivot_system %}
+{% assign ss = bali.stop_system %}
+{% assign t = ps.type | default:'' | downcase %}
+
+{% assign st = ss.type | default:'' | downcase %}
+{% if st contains 'zen' %}
+  {% assign stop_name = 'Zen Pin' %}
+{% elsif st contains 'tang' %}
+  {% assign stop_name = 'Tang Pin' %}
+{% else %}
+  {% assign stop_name = ss.type | default:'-' %}
+{% endif %}
+
+{% capture table_md -%}
+| Part | Component | Specs | Purchase |
+| -- | -- | -- | -- |
+| Pivot System | Sexbolt | Threading: {{ bali.pivot.threading }} <br> Length: {% include round_float.html n=bali.pivot.sexbolt.length d=3 %} in | {% for pair in bali.pivot.sexbolt.links %}{% assign name = pair[0] %}{% assign url = pair[1] %}[{{ name }}]({{ url }}){% unless forloop.last %}, {% endunless %}{% endfor %} |
+|  | Screw | Length: {% include round_float.html n=bali.pivot.screw.length d=3 %} in | {% if bali.pivot.screw.links %}{% for pair in bali.pivot.screw.links %}{% assign name = pair[0] %}{% assign url = pair[1] %}[{{ name }}]({{ url }}){% unless forloop.last %}, {% endunless %}{% endfor %}{% else %}-{% endif %} |
+|  | Washers | OD x ID: {% include round_float.html n=ps.washer.OD d=3 %} in x {% include round_float.html n=ps.washer.ID d=3 %} in<br>Thickness: {% include round_float.html n=ps.washer.thickness d=3 %} in | {% if ps.washer.links %}{% for pair in ps.washer.links %}{% assign name = pair[0] %}{% assign url = pair[1] %}[{{ name }}]({{ url }}){% unless forloop.last %}, {% endunless %}{% endfor %}{% else %}-{% endif %} |
+{% if t contains 'bearing' -%}
+|  | Bearing | {{ ps.bearing.name }} | {% for pair in ps.bearing.links %}{% assign name = pair[0] %}{% assign url = pair[1] %}[{{ name }}]({{ url }}){% unless forloop.last %}, {% endunless %}{% endfor %} |
+{% elsif t contains 'bushing' -%}
+|  | Bushing | OD x ID: {% include round_float.html n=ps.bushing.OD d=3 %} in x {% include round_float.html n=ps.bushing.ID d=3 %} in <br> Thickness: {% include round_float.html n=ps.bushing.thickness d=3 %} in | {% for pair in ps.bushing.links %}{% assign name = pair[0] %}{% assign url = pair[1] %}[{{ name }}]({{ url }}){% unless forloop.last %}, {% endunless %}{% endfor %} |
+{% endif -%}
+{% if ss.type contains 'pinless' -%}
+{% elsif t contains 'bushing' -%}
+| Stop System | {{ stop_name }} | Threading: {{ ss.threading }} <br> Length: {% include round_float.html n=ss.sexbolt.length d=4 %} in <br> Thickness: {% include round_float.html n=ss.sexbolt.thickness d=3 %} in | {% for pair in ss.sexbolt.links %}{% assign name = pair[0] %}{% assign url = pair[1] %}[{{ name }}]({{ url }}){% unless forloop.last %}, {% endunless %}{% endfor %} |
+|  | Screw | Length: {% include round_float.html n=ss.screw.length d=3 %} in | {% for pair in ss.screw.links %}{% assign name = pair[0] %}{% assign url = pair[1] %}[{{ name }}]({{ url }}){% unless forloop.last %}, {% endunless %}{% endfor %} |
+{% endif -%}
+{% if bali.handle.has_weight_system != true and bali.handle.has_spacers != true %}
+| Handle (body) | Sexbolt | Threading: {{ bali.body.threading }} <br> Length: {% include round_float.html n=body.sexbolt.length d=3 %} in | {% for pair in bali.body.sexbolt.links %}{% assign name = pair[0] %}{% assign url = pair[1] %}[{{ name }}]({{ url }}){% unless forloop.last %}, {% endunless %}{% endfor %} |
+|  | Screw | Length: {% include round_float.html n=body.screw.length d=3 %} in | {% for pair in bali.body.screw.links %}{% assign name = pair[0] %}{% assign url = pair[1] %}[{{ name }}]({{ url }}){% unless forloop.last %}, {% endunless %}{% endfor %} | 
+{% endif -%}
+{%- endcapture %}
+{{ table_md | markdownify }}
+
+{% endcapture %}
+{{ md | markdownify }}

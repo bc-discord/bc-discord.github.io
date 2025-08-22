@@ -1,0 +1,48 @@
+{%- comment -%}
+Usage: {% include round_float.html n=VALUE d=DECIMALS %}
+Rules:
+- If n is nil/empty -> "-"
+- If n rounds to 0 at d decimals -> "-"
+- Else print exactly d decimals
+- Omit leading 0 when result < 1
+{%- endcomment -%}
+
+{%- assign d = include.d | default: 2 | plus: 0 -%}
+{%- assign raw = include.n | default: '' | append: '' | strip -%}
+
+{%- if raw == '' -%}
+-
+{%- else -%}
+  {%- assign n = raw | plus: 0 -%}
+
+  {%- if d <= 0 -%}
+    {%- assign r = n | round -%}
+    {%- if r == 0 -%}-{% else -%}{{ r }}{%- endif -%}
+  {%- else -%}
+    {%- case d -%}
+      {%- when 1 -%}{%- assign scale = 10 -%}
+      {%- when 2 -%}{%- assign scale = 100 -%}
+      {%- when 3 -%}{%- assign scale = 1000 -%}
+      {%- when 4 -%}{%- assign scale = 10000 -%}
+      {%- when 5 -%}{%- assign scale = 100000 -%}
+      {%- when 6 -%}{%- assign scale = 1000000 -%}
+      {%- else -%}{%- assign scale = 100 -%}{%- assign d = 2 -%}
+    {%- endcase -%}
+
+    {%- assign scaled   = n | times: scale | round -%}
+    {%- if scaled == 0 -%}
+-
+    {%- else -%}
+      {%- assign intpart = scaled | divided_by: scale -%}
+      {%- assign frac    = scaled | modulo:  scale -%}
+
+      {%- assign frac_str = frac | append: '' -%}
+      {%- assign frac_len = frac_str | size -%}
+      {%- assign zeros_to_add = d | minus: frac_len -%}
+
+      {%- unless intpart == 0 -%}{{ intpart }}{%- endunless -%}.
+      {%- if zeros_to_add > 0 -%}{%- for _ in (1..zeros_to_add) -%}0{%- endfor -%}{%- endif -%}
+      {{- frac -}}
+    {%- endif -%}
+  {%- endif -%}
+{%- endif -%}

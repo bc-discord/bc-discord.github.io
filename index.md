@@ -13,7 +13,7 @@ nav_order: 1
 ### What
 - [What balisong should I buy for my budget?]({% link pages/balisong/recommendation.md %})
 - [What do I buy to stop my screwings from coming out after flipping?]({% link pages/balisong/maintenance/threadlocking.md %})
-- [What are replicant hardware specs?]({% link pages/balisongs/brs/replicant.md %}#hardware-measurements)
+- [What are replicant hardware specs?]({{ '/balisongs/replicant.html' | relative_url }}#hardware-specification)
 - [What countries are safe to ship whole balisongs to?]({% link pages/sales/safety_guide/seller.md %}#international-shipping)
 
 ### Where

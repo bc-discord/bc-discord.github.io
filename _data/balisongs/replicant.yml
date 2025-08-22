@@ -1,0 +1,137 @@
+# Info
+name: Replicant
+maker: Bladerunners Systems
+production: CNC
+links:
+  Homepage: https://www.bladerunnerssystems.com/collections/bladerunners-systems-alpha-beast-series/products/replicant
+start_year: 2014
+end_year: null
+availability: Available
+retail: 350
+drop_schedule: Few times a month
+
+# Overall
+overall:
+  weight: 4.9
+  length: 10.0
+  description: null
+  image:
+    path: null
+    caption: ...
+
+# Blade information
+blade:
+  shape: Tanto
+  material: 154CM
+  surface:
+    finish: Stonewashed
+    media: null
+    coating: null
+  measurement:
+    length: 4.5
+    thickness: .125
+    weight: null
+  has_trainer: true
+  edge:
+    tang: None
+    spine: Rounded
+  image:
+    path: null
+    caption: ...
+  description: null
+
+# Handle information
+handle:
+  construction:
+    type: Liners and Scales
+    material:
+      whole: Mixed
+      liner: Titanium
+      scale: G10
+    edge_break: Rounded
+    taper:
+      height: false
+      width: true
+  surface: 
+    finish: Stonewashed
+    media: null
+    coating: null
+  measurement:
+    thickness: 0.55
+    length: 5.5 
+    weight: null
+  has_weight_system: false
+  has_spacers: true
+  image:
+    path: null
+    caption: ...
+  description: null
+
+spacer:
+  material: Titanium
+  thickness: null
+  description: null
+  image:
+    path: null
+    caption: ...
+
+# Stop system
+stop_system: 
+  type: Screwed Zen Pins
+  threading: 5/32
+  sexbolt: 
+    length: .1565
+    thickness: null
+    links:
+      TRUELINK: https://thetruelink.com/products/5-32-shoulder-pin
+  screw:
+    length: null
+    links:
+      TRUELINK: null
+
+# Pivot system
+pivot_system: 
+  type: Bushings
+  washer:
+    OD: 0.375
+    ID: 0.188
+    thickness: 0.016
+    links:
+      TRUELINK: https://thetruelink.com/products/375-x-188-phosphorus-bronze-washers
+  bushing:
+    OD: 0.250
+    ID: 0.188
+    thickness: 0.126
+    links:
+      TRUELINK: https://thetruelink.com/products/250-od-x-188-id-bushing-xp
+  bearing:
+    name: null
+    links: null
+
+pivot:
+  threading: 6/32
+  sexbolt:
+    length: .320
+    links:
+      TRUELINK: https://thetruelink.com/products/3-16-sex-bolt-gray-finish
+  screw:
+    length: .250
+    links:
+      TRUELINK: https://thetruelink.com/products/button-head-torx-screw-6-32-pitch
+
+# Body specs
+body:
+  threading: 2/56
+  screw:
+    length: .188
+    links:
+      TRUELINK: https://thetruelink.com/products/button-head-torx-screw-2-56-pitch
+  sexbolt:
+    length: .400
+    links:
+      TRUELINK: https://thetruelink.com/products/1-8-x-2-56-tpi-stainless-sex-bolt-gray-finish-416-stainless
+
+# Variants
+variant_1:
+  link: null
+  differences: null
