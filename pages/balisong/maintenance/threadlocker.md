@@ -4,13 +4,15 @@ title: Threadlocking
 parent: Maintenance
 nav_order: 1
 ---
-# Threadlocking
+# Threadlocker
 To fasten the screw to a sexbolt, you need a <ins>threadlocker</ins>.
 
 ## Liquid
 ---
 
 Liquid-based threadlocking that works on screws. The liquid fills in the gaps of the screws and sexbolt to form a seal after curing. Loctite is the common product (from Henkel) most people are familiar with and sometimes used in general to refer to liquid-based threadlocking. Some metals and coatings require a primer to aid the curing process. 
+
+This is the **recommended** medium for threadlocking. Solid-based solutions jam your threads, incurring damage. 
 
 ### Hankel
 Hankel makes their Loctite product line for metal fasteners. [Loctite SF 770](https://next.henkel-adhesives.com/us/en/products/industrial-adhesives/central-pdp.html/loctite-sf-770/BP000000153555.html) is their recommended primer.
@@ -34,7 +36,7 @@ A company that sells primarily locking and sealing products.
 
 ## Solid
 ---
-These methods use solid objects to keep the screw and sexbolt secure. Be warned, you are jamming your threads and incurring some damage to your hardware. Use these methods infrequently as you can.
+These methods use solid objects to keep the screw and sexbolt secure. **Be warned**, you are jamming your threads and incurring some damage to your hardware. Use these methods infrequently as you can.
 
 ### Teflon tape
 Also called plumbers tape. 
