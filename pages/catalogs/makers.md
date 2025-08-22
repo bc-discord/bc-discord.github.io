@@ -2,12 +2,12 @@
 layout: page
 title: Makers
 parent: Catalog
-nav_order: 1
+nav_order: 2
 ---
 
 # Makers
 
-Someone who has some involvement of producing their balisong, even if minimal such as tuning and assembly. These categorizations of makers are based their most popular and relevant balisongs; they are mostly true, but few execepts occur.
+Someone who has some involvement in producing their balisong, even if minimally such as tuning and assembly. These categorizations of makers are based on their most popular and relevant balisongs; they are mostly true, but few excepts occur.
 
 Terms
 - CNC (computer numerical control): Computerized machining tool.
@@ -99,12 +99,12 @@ Makers that CNC machine both blades and handles, typically finishes their parts 
 
 ## Outsource CNC Makers
 ---
-Makers that outsources there CNC machining of both blades and handles. May or may not finish their parts. Typically sharpens their blades. Always tune their balisongs.
+Makers that outsources there CNC machining of either blades, handles, or both. May or may not finish their parts. Typically sharpens their blades. Always tune their balisongs.
 
 ### Bigger
 
 #### [Bladerunners Systems (BRS)](https://www.bladerunnerssystems.com/)
-- [Replicant]({% link pages/balisongs/brs/replicant.md %}), AB/CHAB, 
+- Replicant, AB/CHAB, 
 
 #### [EPS Knives](https://epsknives.com/)
 - Atlas, Wraith, 101
