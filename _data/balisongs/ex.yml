@@ -6,31 +6,31 @@
 # (Example)
 # links:
 #   - name: TRUELINK: 
-#     link: https://thetruelink.com/products/250-od-x-188-id-bushing-xp
+#     url: https://thetruelink.com/products/250-od-x-188-id-bushing-xp
 
 # Possible means you can write alternative answers.
 # Exact means only these options, exactly as written.
 
-name: Zentinel
-maker: Jimpy Designs
-amount_made: Few tens       #  Estimate acceptable. Whole number
+name: EX
+maker: Geof Dumas
+amount_made: null       #  Estimate acceptable. Whole number
 production: CNC           # Possible: 'CNC', 'Midtech', 'Handmade'
 units: imperial     # Exact: 'imperial', 'metric'
-links: 
-  - name: Jimpy Designs
-    url: https://www.jimpydesigns.com/shop/p/jimpy-sentinel-nn8cn
-start_year: 2023              # Whole number
+links:
+  - name: Geof Dumas Knife and Tool
+    url: https://gdktllc.com/
+start_year: 2013              # Whole number
 end_year: null                # Whole number
 availability: Available                 # Exact: 'Available', 'Discontinued', 'Hiatus'
-retail: 450                  # Whole number
-drop_schedule: Few times a month         # Short descrption
+retail: 750                  # Whole number
+drop_schedule: Personal orders         # Short description
 
 has_ring: false
 
 # Overall
 overall:
-  weight: 4.6                   # Decimal number
-  length: 10.0                     # Decimal number
+  weight: null                   # Decimal number
+  length: null                     # Decimal number
   description: null
   image:
     path: null
@@ -38,32 +38,33 @@ overall:
 
 # Blade information
 blade:
-  shape: Spearpoint 
-  material: 440C
+  shape: Spearpoint, Kurki, Tanto 
+  material: CPM154
   surface:
     finish: Satin       # Possible: 'Stonewashed', 'Tumbled', 'Blasted', 'Satin', 'Polished' 
     media: null               # Possible: 'Zirconia', 'Sand', 'Bead', 'Glass'
     coating: null              # Possible: 'DLC', 'PVD', 'Cerakote'
   measurement:
     length: null           # Decimal number
-    thickness: .140     # Decimal number
+    thickness: null     # Decimal number
     weight: null            # Decimal number
-  has_trainer: false          # Exact: 'true', 'false'
+  has_trainer: true          # Exact: 'true', 'false'
   is_trainer: false
   edge:
-    tang: Chamfered                  # Exact: 'Rounded', 'Chamfered', 'None'
-    spine: Chamfered                # Exact: 'Rounded', 'Chamfered', 'None'
+    tang: None                  # Exact: 'Rounded', 'Chamfered', 'None'
+    spine: None                # Exact: 'Rounded', 'Chamfered', 'None'
   image:
     path: null
     caption: null
-  description: null
+  description:
+    - 'The numbering corresponds to the blade shape: EX09 (spearpoint), EX10 (kukri), and EX11 (tanto).'
 
 # Handle information
 handle:
   construction:
-    type: Channel     # Exact: 'Liners and Scales', 'Sandwich', 'Channel', 'Chanwich'
+    type: Sandwich     # Exact: 'Liners and Scales', 'Sandwich', 'Channel', 'Chanwich'
     face: Rounded
-    edge_break: Rounded    # Exact: 'Rounded', 'Chamfered', 'Rounded and Chamfered'
+    edge_break: Chamfered    # Exact: 'Rounded', 'Chamfered', 'Rounded and Chamfered'
     taper:
       height: false          # Exact: 'false', 'true'
       width: true              # Exact: 'false', 'true'
@@ -77,32 +78,35 @@ handle:
     coating: null                  # See blade equivalent.
   measurement:
     thickness: null          # Decimal number 
-    length: 5.5                 # Decimal number
+    length: null                 # Decimal number
     weight: null                 # Decimal number
-  has_weight_system: false        # Sexbolts and screws on the end of channel handles counts as a weight system, but not if required for spacers. Exact: 'false', 'true'
-  has_spacers: false             # Exact: 'false', 'true'
+  has_weight_system: false        # Sexbolts and screws on the end of channel handles counts as a weight system, but not if required for spacers. Different materials for spacers do not count, must be independent from spacer. Exact: 'false', 'true'
+  has_spacers: true             # Exact: 'false', 'true'
   image:
     path: null
     caption: null
   description: 
-    - Very narrow (low width) handles; cross-section is more rectangular on the ends. Utilizes a unique zen shield design that allows for the zen pin to be hidden by a shield that locks in place with the pivot screws.
+    - Very blocky.
 
 spacer:
-  material: null                 
+  material: Titanium                 
   thickness: null
-  description: null
+  description: 
+    - Offers multiple options for spacer material; can be bought [here])(https://gdktllc.com/shop/spacers).
   image:
     path: null
-    caption: ...
+    caption: null
 
 # Stop system
 stop_system: 
   type: Hidden Zen Pins         # Exact: 'Screwed Zen Pins', 'Pressed Zen Pins', 'Hidden Zen Pins', 'Pressed Tang Pins', 'Screwed Tang Pins'
   threading: N/A       # Must use slash, not dash. Example: 5/32.
   sexbolt: 
-    length: .394
-    thickness: 0.125
-    links: null
+    length: .3125
+    thickness: .125
+    links:
+      - name: Geof Dumas Knife and Tool
+        url: https://gdktllc.com/shop/juxcn0bt9ulg3q6ekq32qqn3xln3nt
   screw:
     length: null
     links: null
@@ -111,40 +115,51 @@ stop_system:
 pivot_system: 
   type: Bushings               # Exact: 'Washers', 'Bearings', 'Bushings'
   washer:
-    OD: 0.375
-    ID: 0.1875
-    thickness: 0.02
+    OD: .375
+    ID: .19
+    thickness: .025
     links: null
   bushing:
-    OD: .25
-    ID: .1875
-    thickness: 0.1413
-    links: null
+    OD: null
+    ID: null
+    thickness: null
+    links: 
+      - name: Geof Dumas Knife and Tool
+        url: https://gdktllc.com/shop/bushings
   bearing:
     name: N/A
     links: null
 
 pivot:
-  threading: 6/32
+  threading: 6/64
   sexbolt:
-    length: 0.395
-    diameter: 0.1875
+    length: null
+    diameter: null
+    links: 
+      - name: Geof Dumas Knife and Tool
+        url: https://gdktllc.com/shop/pivot-barrel
+  screw:
+    length: null
+    links: 
+      - name: Geof Dumas Knife and Tool
+        url: https://gdktllc.com/shop/pivot-screws
+
+# Body specs
+body:
+  threading: null
+  sexbolt:
+    length: null
+    diameter: null
     links: null
   screw:
     length: null
     links: 
-      - name: Jimpy Designs
-        url: https://www.jimpydesigns.com/shop/p/t10flat-head-screws
+      - name: Geof Dumas Knife and Tool
+      - url: https://gdktllc.com/shop/7d5d8gdaqaso5xz27s4cqyfh29cnx9
 
-# Body specs
-body:
-  threading: N/A
-  sexbolt:
-    length: null
-    links: null
-  screw:
-    length: null
-    links: null
+hardware_quirks:
+  - 'Washers: .020 is the thickness for older models; .025 is for the newer models.'
+  - 'Body screws: The spacers screws screw into the spacer.'
 
 # Variants
 variant_1:

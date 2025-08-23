@@ -48,6 +48,7 @@ blade:
     thickness: null     # Decimal number
     weight: null            # Decimal number
   has_trainer: true          # Exact: 'true', 'false'
+  is_trainer: false
   edge:
     tang: Chamfered                  # Exact: 'Rounded', 'Chamfered', 'None'
     spine: Chamfered                # Exact: 'Rounded', 'Chamfered', 'None'

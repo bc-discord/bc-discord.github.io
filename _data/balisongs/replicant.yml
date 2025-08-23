@@ -37,6 +37,7 @@ blade:
     thickness: .125
     weight: null
   has_trainer: true
+  is_trainer: false
   edge:
     tang: None
     spine: Rounded

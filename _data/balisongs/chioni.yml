@@ -6,31 +6,31 @@
 # (Example)
 # links:
 #   - name: TRUELINK: 
-#     link: https://thetruelink.com/products/250-od-x-188-id-bushing-xp
+#     url: https://thetruelink.com/products/250-od-x-188-id-bushing-xp
 
 # Possible means you can write alternative answers.
 # Exact means only these options, exactly as written.
 
-name: Zentinel
-maker: Jimpy Designs
-amount_made: Few tens       #  Estimate acceptable. Whole number
+name: Chioni
+maker: NoloBuilds
+amount_made: null       #  Estimate acceptable. Whole number
 production: CNC           # Possible: 'CNC', 'Midtech', 'Handmade'
 units: imperial     # Exact: 'imperial', 'metric'
 links: 
-  - name: Jimpy Designs
-    url: https://www.jimpydesigns.com/shop/p/jimpy-sentinel-nn8cn
-start_year: 2023              # Whole number
+  - name: NoloBuilds
+    url: https://nolobuilds.com/products/chioni
+start_year: 2018              # Whole number
 end_year: null                # Whole number
 availability: Available                 # Exact: 'Available', 'Discontinued', 'Hiatus'
-retail: 450                  # Whole number
-drop_schedule: Few times a month         # Short descrption
+retail: 295                  # Whole number
+drop_schedule: Few times a year         # Short descrption
 
 has_ring: false
 
 # Overall
 overall:
-  weight: 4.6                   # Decimal number
-  length: 10.0                     # Decimal number
+  weight: 4.545                   # Decimal number
+  length: 9.92                     # Decimal number
   description: null
   image:
     path: null
@@ -38,7 +38,7 @@ overall:
 
 # Blade information
 blade:
-  shape: Spearpoint 
+  shape: null 
   material: 440C
   surface:
     finish: Satin       # Possible: 'Stonewashed', 'Tumbled', 'Blasted', 'Satin', 'Polished' 
@@ -46,13 +46,13 @@ blade:
     coating: null              # Possible: 'DLC', 'PVD', 'Cerakote'
   measurement:
     length: null           # Decimal number
-    thickness: .140     # Decimal number
+    thickness: null     # Decimal number
     weight: null            # Decimal number
-  has_trainer: false          # Exact: 'true', 'false'
-  is_trainer: false
+  has_trainer: null          # Exact: 'true', 'false'
+  is_trainer: true
   edge:
-    tang: Chamfered                  # Exact: 'Rounded', 'Chamfered', 'None'
-    spine: Chamfered                # Exact: 'Rounded', 'Chamfered', 'None'
+    tang: null                  # Exact: 'Rounded', 'Chamfered', 'None'
+    spine: null                # Exact: 'Rounded', 'Chamfered', 'None'
   image:
     path: null
     caption: null
@@ -63,12 +63,12 @@ handle:
   construction:
     type: Channel     # Exact: 'Liners and Scales', 'Sandwich', 'Channel', 'Chanwich'
     face: Rounded
-    edge_break: Rounded    # Exact: 'Rounded', 'Chamfered', 'Rounded and Chamfered'
+    edge_break: None    # Exact: 'Rounded', 'Chamfered', 'Rounded and Chamfered'
     taper:
-      height: false          # Exact: 'false', 'true'
+      height: null          # Exact: 'false', 'true'
       width: true              # Exact: 'false', 'true'
   material:
-      frame: Titanium      # Possible: 'Titanium', 'Aluminum', 'CF', 'G10'
+      frame: 6Al-4V Titanium      # Possible: 'Titanium', 'Aluminum', 'CF', 'G10'
       liner: N/A       # Leave null if not applicable.
       scale: N/A         # Leave null if not applicable.
   surface: 
@@ -77,18 +77,17 @@ handle:
     coating: null                  # See blade equivalent.
   measurement:
     thickness: null          # Decimal number 
-    length: 5.5                 # Decimal number
+    length: null                 # Decimal number
     weight: null                 # Decimal number
   has_weight_system: false        # Sexbolts and screws on the end of channel handles counts as a weight system, but not if required for spacers. Exact: 'false', 'true'
   has_spacers: false             # Exact: 'false', 'true'
   image:
     path: null
     caption: null
-  description: 
-    - Very narrow (low width) handles; cross-section is more rectangular on the ends. Utilizes a unique zen shield design that allows for the zen pin to be hidden by a shield that locks in place with the pivot screws.
+  description: null
 
 spacer:
-  material: null                 
+  material: null
   thickness: null
   description: null
   image:
@@ -97,11 +96,11 @@ spacer:
 
 # Stop system
 stop_system: 
-  type: Hidden Zen Pins         # Exact: 'Screwed Zen Pins', 'Pressed Zen Pins', 'Hidden Zen Pins', 'Pressed Tang Pins', 'Screwed Tang Pins'
+  type: Pinless         # Exact: 'Screwed Zen Pins', 'Pressed Zen Pins', 'Hidden Zen Pins', 'Pressed Tang Pins', 'Screwed Tang Pins'
   threading: N/A       # Must use slash, not dash. Example: 5/32.
   sexbolt: 
-    length: .394
-    thickness: 0.125
+    length: null
+    thickness: null
     links: null
   screw:
     length: null
@@ -111,36 +110,35 @@ stop_system:
 pivot_system: 
   type: Bushings               # Exact: 'Washers', 'Bearings', 'Bushings'
   washer:
-    OD: 0.375
-    ID: 0.1875
-    thickness: 0.02
+    OD: null
+    ID: null
+    thickness: null
     links: null
   bushing:
-    OD: .25
-    ID: .1875
-    thickness: 0.1413
+    OD: null
+    ID: null
+    thickness: null
     links: null
   bearing:
-    name: N/A
+    name: null
     links: null
 
 pivot:
-  threading: 6/32
+  threading: null
   sexbolt:
-    length: 0.395
-    diameter: 0.1875
+    length: null
+    diameter: null
     links: null
   screw:
     length: null
-    links: 
-      - name: Jimpy Designs
-        url: https://www.jimpydesigns.com/shop/p/t10flat-head-screws
+    links: null
 
 # Body specs
 body:
   threading: N/A
   sexbolt:
     length: null
+    diameter: null
     links: null
   screw:
     length: null
