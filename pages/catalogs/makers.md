@@ -139,13 +139,13 @@ Makers that outsources there CNC machining of either blades, handles, or both. M
 - Pirouette
 
 #### [Hansen Metals](https://hansenmetals.com/)
-- Solo
+- Monarch, Solo
 
 #### [Henninger Designs](https://www.instagram.com/henninger.designs/)
-- Telesto
+- Telesto, Eupheme
 
 #### [NRB Knives](https://www.instagram.com/iamnotarealboy/)
-- Vortex, Ultralight, Nemesis
+- Vortex, Ultralight, Slight, Nemesis
 
 #### Perennial Concepts
 - Kronos
