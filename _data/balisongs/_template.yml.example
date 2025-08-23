@@ -124,6 +124,7 @@ pivot:
   threading: null
   sexbolt:
     length: null
+    diameter: null
     links: null
   screw:
     length: null
@@ -134,6 +135,7 @@ body:
   threading: null
   sexbolt:
     length: null
+    diameter: null
     links: null
   screw:
     length: null
