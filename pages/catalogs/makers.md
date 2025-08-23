@@ -156,8 +156,8 @@ Makers that outsources there CNC machining of either blades, handles, or both. M
 #### [Static Knives](https://staticknives.com/)
 - Icarus
 
-#### Serum Velocity
-- 
+#### [Serum Velocity](https://www.instagram.com/serumvelocity/)
+- Astra
 
 #### [Thomas Balisong](https://www.instagram.com/thomasbalisong/)
 - Baikal, Astra
