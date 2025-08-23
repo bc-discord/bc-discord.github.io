@@ -124,7 +124,9 @@ Purchase
 {% assign p = bali.pivot %}
 {% assign ss = bali.stop_system %}
 {% assign b = bali.body %}
+{% assign b_thread = bali.body.threading | downcase %}
 {% assign t = ps.type | default:'' | downcase %}
+{% assign ps_name = ss.type | downcase %}
 
 {% assign st = ss.type | default:'' | downcase %}
 {% if st contains 'zen' %}
@@ -142,17 +144,21 @@ Purchase
 |  | Screw | Length: {% include round_float.html n=bali.pivot.screw.length d=3 %} in | {% for link in p.screw.links %} [{{ link.name }}]({{ link.url }}){% unless forloop.last %}, {% endunless %} {% endfor %} |
 |  | Washers | OD x ID: {% include round_float.html n=ps.washer.OD d=3 %} in x {% include round_float.html n=ps.washer.ID d=3 %} in<br>Thickness: {% include round_float.html n=ps.washer.thickness d=3 %} in | {% for link in ps.washer.links %} [{{ link.name }}]({{ link.url }}){% unless forloop.last %}, {% endunless %} {% endfor %} |
 {% if t contains 'bearing' -%}
-|  | Bearing | {{ ps.bearing.name }} | {% for link in ps.bearing.links %} [{{ link.name }}]({{ link.url }}){% unless forloop.last %}, {% endunless %} {% endfor %} |
+  |  | Bearing | {{ ps.bearing.name }} | {% for link in ps.bearing.links %} [{{ link.name }}]({{ link.url }}){% unless forloop.last %}, {% endunless %} {% endfor %} |
 {% elsif t contains 'bushing' -%}
-|  | Bushing | OD x ID: {% include round_float.html n=ps.bushing.OD d=3 %} in x {% include round_float.html n=ps.bushing.ID d=3 %} in <br> Thickness: {% include round_float.html n=ps.bushing.thickness d=3 %} in | {% for link in ps.bushing.links %} [{{ link.name }}]({{ link.url }}){% unless forloop.last %}, {% endunless %} {% endfor %} |
+  |  | Bushing | OD x ID: {% include round_float.html n=ps.bushing.OD d=3 %} in x {% include round_float.html n=ps.bushing.ID d=3 %} in <br> Thickness: {% include round_float.html n=ps.bushing.thickness d=3 %} in | {% for link in ps.bushing.links %} [{{ link.name }}]({{ link.url }}){% unless forloop.last %}, {% endunless %} {% endfor %} |
 {% endif -%}
-{% if ss.type contains 'pinless' -%}
+{% if ps_name contains 'pinless' or ps_name contains 'pinsless' -%}
 {% elsif t contains 'bushing' -%}
-| Stop System | {{ stop_name }} | Threading: {{ ss.threading }} <br> Length: {% include round_float.html n=ss.sexbolt.length d=4 %} in <br> Thickness: {% include round_float.html n=ss.sexbolt.thickness d=3 %} in | {% for link in ss.sexbolt.links %} [{{ link.name }}]({{ link.url }}){% unless forloop.last %}, {% endunless %} {% endfor %} |
-|  | Screw | Length: {% include round_float.html n=ss.screw.length d=3 %} in | {% for link in ss.screw.links %} [{{ link.name }}]({{ link.url }}){% unless forloop.last %}, {% endunless %} {% endfor %} |
+  | Stop System | {{ stop_name }} | Threading: {{ ss.threading }} <br> Length: {% include round_float.html n=ss.sexbolt.length d=4 %} in <br> Thickness: {% include round_float.html n=ss.sexbolt.thickness d=3 %} in | {% for link in ss.sexbolt.links %} [{{ link.name }}]({{ link.url }}){% unless forloop.last %}, {% endunless %} {% endfor %} |
+  |  | Screw | Length: {% include round_float.html n=ss.screw.length d=3 %} in | {% for link in ss.screw.links %} [{{ link.name }}]({{ link.url }}){% unless forloop.last %}, {% endunless %} {% endfor %} |
 {% endif -%}
-| Handle (body) | Sexbolt | Threading: {{ bali.body.threading }} <br> Length: {% include round_float.html n=body.sexbolt.length d=3 %} in | {% for link in b.sexbolt.links %} [{{ link.name }}]({{ link.url }}){% unless forloop.last %}, {% endunless %} {% endfor %} |
-|  | Screw | Length: {% include round_float.html n=body.screw.length d=3 %} in | {% for link in b.screw.links %} [{{ link.name }}]({{ link.url }}){% unless forloop.last %}, {% endunless %} {% endfor %} | 
+{% if bali.handle.has_weight_system -%}
+  {% unless b_thread contains 'n/a' -%}
+    | Handle (body) | Sexbolt | Threading: {{ bali.body.threading }} <br> Length: {% include round_float.html n=body.sexbolt.length d=3 %} in | {% for link in b.sexbolt.links %} [{{ link.name }}]({{ link.url }}){% unless forloop.last %}, {% endunless %} {% endfor %} |
+    |  | Screw | Length: {% include round_float.html n=body.screw.length d=3 %} in | {% for link in b.screw.links %} [{{ link.name }}]({{ link.url }}){% unless forloop.last %}, {% endunless %} {% endfor %} | 
+  {% endunless -%}
+{% endif -%}
 {%- endcapture %}
 {{ table_md | markdownify }}
 
