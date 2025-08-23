@@ -58,6 +58,8 @@ This is where quality levels off. At this juncture, you're buying into variety o
     - Best value is the v1 with 6061 Al handles. Upgrade to the Pro for rounded handles with 7075 Al.
 - **Thomas Balisong**: Baikal · $150 · Available · ✦✦✦✦✦
     - A more modern recommendation. Al channel handles on bushings.
+- **Squid Industries**: Squidtrainer V4 · $160 · Available · ✦✦✦✦✦
+    - 6061 Al handles with bushings (starting V4).
 
 ### $201 - $300
 - **Squid Industries**: Nautilus V2 · $216 · Available · ✦✦✦✧✧
