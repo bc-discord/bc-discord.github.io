@@ -16,8 +16,10 @@ Anyone that makes offers modifications to baliongs, that is not their own produc
 |------|--------|----------|
 | [Andrew Myers](https://www.instagram.com/am.kw_/) | Active | Titanium anodization, surface finishing, cerakote, laser engraving, reblades |
 | [B.A. Modworks](https://www.instagram.com/b.a.modworks/?hl=en) | Active | Titanium anodization, surface finishing, laser engraving |
+| [brusinblades](https://www.instagram.com/brusinblades/) | Inactive | Nautilius rehandles and reblades |
 | [Comply Creations](https://www.instagram.com/complycreations/?hl=en) | Inactive | Titanium anodization, surface finishing |
 | [cut.my.finger](https://www.instagram.com/cut.my.finger/?hl=en) | Active | Surface finishing, cerakoting |
+| [Flamed Designs](https://www.instagram.com/flamed.design/) | Active | Replicant rehandles |
 | [Henninger Designs](https://www.instagram.com/henninger.designs/?hl=en) | Active | Titanium anodization, surface finishing, cerakote, Replicant reblades, Replicant scales |
 | [Kuski Craft](https://www.instagram.com/kuski_craft/?hl=en) | Inactive | Replicant rehandles, spacer barrels |
 | [Turbojackelope](https://www.instagram.com/turbojackelope/) | Inactive | Rehandles |
