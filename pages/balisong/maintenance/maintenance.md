@@ -45,7 +45,7 @@ Washers are thin, circular, small pieces of metal with a hole that sits between 
 
 **Be careful** with these metal washers:
 
-- Titanium washers: Wear-and-tear will fuse the washers and into the handles.
+- Titanium washers: Wear-and-tear will fuse the washers and into the Titanium handles.
 - Steel washers: Steel washers do hold their tune much longer than PB washers, but under-lubrication causes the washers to eat into the blade.
 
 #### Tuning
