@@ -6,7 +6,7 @@
 # (Example)
 # links:
 #   - name: TRUELINK: 
-#     link: https://thetruelink.com/products/250-od-x-188-id-bushing-xp
+#     url: https://thetruelink.com/products/250-od-x-188-id-bushing-xp
 
 # Possible means you can write alternative answers.
 # Exact means only these options, exactly as written.
@@ -47,6 +47,7 @@ blade:
     thickness: null     # Decimal number
     weight: null            # Decimal number
   has_trainer: null          # Exact: 'true', 'false'
+  is_trainer: null
   edge:
     tang: null                  # Exact: 'Rounded', 'Chamfered', 'None'
     spine: null                # Exact: 'Rounded', 'Chamfered', 'None'
@@ -89,7 +90,7 @@ spacer:
   description: null
   image:
     path: null
-    caption: ...
+    caption: null
 
 # Stop system
 stop_system: 
