@@ -77,9 +77,8 @@ To tune your bushings, you need
 
 1. Lay some sandpaper onto the flat surface.
 2. Pick one side of the bushing to work on. **Be consistent**.
-3. Lay the bushing onto the sandpaper. Do not press down hard. 
-4. Move the bushing slowly in a circle on the sandpaper to remove material.
-5. Constantly check if you have removed too much material by reconstructing your balisong.
+3. Lay the bushing onto the sandpaper and move in a circle to remove material. **Do not press down hard**; if you hand or bushing is slipping off the sandpaper, press softer.
+4. Constantly check if you have removed too much material by reconstructing your balisong.
 
 This a barebone description of how you can tune bushings. If you want consistent and accurate bushing tunes, get 
 - several sheets of sandpaper at different grit levels (e.g., 200, 500, 1000); as you get closer to blade thickness, increase the grit level for some breathing room

@@ -71,7 +71,7 @@ Makers that CNC machine both blades and handles, typically finishes their parts 
 - Proflipper, Mamba
 
 #### [Fiore Knives](https://www.fioreknives.com/)
--
+Balisongs go by the blade shape, handles largely the same.
 
 #### [FLS Balisongs](https://www.flsbalisongs.com/)
 - Liminal, Astral
@@ -80,7 +80,7 @@ Makers that CNC machine both blades and handles, typically finishes their parts 
 - Ion, Static, Voltaic, Galvanis
 
 #### [Geof Dumas](https://gdktllc.com/)
-- EX
+- [EX]({{ '/balisongs/ex.html' | relative_url }})
 
 #### [Hazetac](https://hazetac.com/)
 - DMC, Jesus Devil, Jigsaw, Carlo
@@ -121,7 +121,7 @@ Makers that outsources there CNC machining of either blades, handles, or both. M
 ### Smaller
 
 #### [A51 Projects](https://www.instagram.com/a51projects/)
- - Pluto, Phobos, Apollo
+- Pluto, Phobos, Apollo
 
 #### [Acidwrx](https://www.instagram.com/acidwrx/)
 - Incept, Abyss, Lazarus, Judas, Itzpapalotl, Zika
@@ -144,6 +144,9 @@ Makers that outsources there CNC machining of either blades, handles, or both. M
 #### [Henninger Designs](https://www.instagram.com/henninger.designs/)
 - Telesto, Eupheme
 
+#### [NoloBuilds](https://nolobuilds.com/)
+- [Chioni]({{ '/balisongs/chioni.html' | relative_url }})
+
 #### [NRB Knives](https://www.instagram.com/iamnotarealboy/)
 - Vortex, Ultralight, Slight, Nemesis
 
@@ -154,10 +157,10 @@ Makers that outsources there CNC machining of either blades, handles, or both. M
 - Icarus
 
 #### Serum Velocity
--
+- 
 
 #### [Thomas Balisong](https://www.instagram.com/thomasbalisong/)
-- Baikal
+- Baikal, Astra
 
 #### Tormentum Knives
 - Azoth
@@ -201,7 +204,7 @@ These makers manually machine their handles and blades completely on their own; 
 - LST
 
 ### [GP Blades](https://www.instagram.com/gp_blades/)
-- Jawbones
+Makes completely custom designs per customer, with a few repeated themes (e.g., Jawbones).
 
 ### [Hammer Designs](https://www.instagram.com/hammerdesigns/)
 - Chaos, Chaos lite

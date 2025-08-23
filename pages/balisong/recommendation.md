@@ -8,11 +8,11 @@ nav_order: 3
 # Price Recommendations
 These recommended balisongs have some of these qualities: 
 
-- all close to a neutral balance, well-tolerated balances by any flipper
-- made by makers with consistently good build quality and design
+- good value - good material and construction for the price; the most important factor for being on this list
+- close to a neutral balance, well-tolerated balances by any flipper
+- consistently made with good quality control
 - purchasable directly from the maker or easy to find second-hand
-- easy to find replacement hardware
-- good value - good material and construction for the price
+- easy to find replacement hardware (easy to service)
 
 These recommendations are geared for the U.S. market; outside of the U.S., it's tough to recommended a balisong since the U.S. has the most buyers and makers in the community. All prices are in retail USD; you can expect these to be cheaper second-hand.
 
@@ -32,10 +32,10 @@ These recommendations are geared for the U.S. market; outside of the U.S., it's 
 - **Squid Industries**: Kraken · $265 · Available · ✦✦✦✦✦
     - Al channel handles. Consistent flipper, commonly used during live competitions.
 - **FLS Balisong**: Liminal · $275 · Discontinued · ✦✦✧✧✧
-    - Early issues with cracked tang; if you don't beat your balisong, pretty good value with Ti channel handles. Might be hard to find second-hand, but you can find these stupid cheap for 100 something secondhand. Bottom weights are not easily replacable. 
+    - Early issues with cracked tang; if you don't beat your balisong, pretty good value with Ti channel handles. Might be hard to find secondhand, but you can find these stupid cheap for 100 something secondhand. Bottom weights are not easily replacable. 
 
 ### $351 - $600
-- **MachineWise**: SlifT V2: $365 · Available · ✦✦✦✦✦
+- **MachineWise**: SlifT V2 · $365 · Available · ✦✦✦✦✦
     - Titanium channel handles on bushings. Pretty good value. There's plenty of these floating around. If you want something more handle bias, find the V1.
 
 ### $601 - $800
