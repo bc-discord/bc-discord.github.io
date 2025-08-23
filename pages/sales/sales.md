@@ -25,7 +25,7 @@ has_children: true
 Most makers sell directly on their website or most likely their Instagram page. A few makers will do drops on major retail sites.
 
 - [KnifeCenter](https://www.knifecenter.com/)
-- [BladeHQ](https://www.bladehq.com/)
+- [Blade HQ](https://www.bladehq.com/)
 - [Lamnia](https://www.lamnia.com/en)
 
 ## Secondhand Platforms
