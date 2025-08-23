@@ -153,7 +153,7 @@ Purchase
   | Stop System | {{ stop_name }} | Threading: {{ ss.threading }} <br> Length: {% include round_float.html n=ss.sexbolt.length d=4 %} in <br> Thickness: {% include round_float.html n=ss.sexbolt.thickness d=3 %} in | {% for link in ss.sexbolt.links %} [{{ link.name }}]({{ link.url }}){% unless forloop.last %}, {% endunless %} {% endfor %} |
   |  | Screw | Length: {% include round_float.html n=ss.screw.length d=3 %} in | {% for link in ss.screw.links %} [{{ link.name }}]({{ link.url }}){% unless forloop.last %}, {% endunless %} {% endfor %} |
 {% endif -%}
-{% if bali.handle.has_weight_system -%}
+{% if bali.handle.has_weight_system or bali.handle.has_spacers -%}
   {% unless b_thread contains 'n/a' -%}
     | Handle (body) | Sexbolt | Threading: {{ bali.body.threading }} <br> Length: {% include round_float.html n=body.sexbolt.length d=3 %} in | {% for link in b.sexbolt.links %} [{{ link.name }}]({{ link.url }}){% unless forloop.last %}, {% endunless %} {% endfor %} |
     |  | Screw | Length: {% include round_float.html n=body.screw.length d=3 %} in | {% for link in b.screw.links %} [{{ link.name }}]({{ link.url }}){% unless forloop.last %}, {% endunless %} {% endfor %} | 
