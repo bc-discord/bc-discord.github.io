@@ -11,7 +11,7 @@ Two main parts on the balisong wear down: the stop system and pivot system, assu
 #### Table of contents
 {: .no_toc }
 
-{::options toc_levels="2..6" /}
+{::options toc_levels="2..3" /}
 
 - TOC
 {:toc}

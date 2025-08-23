@@ -51,7 +51,7 @@ Makers that CNC machine both blades and handles, typically finishes their parts 
 - Maryn, Slift, [Serif]({{ '/balisongs/serif.html' | relative_url }}), Prysma, Opus, Tottori, Sassori
 
 #### [Squid Industries](https://www.squidindustries.co/)
-- Squiddy, Mako, Triton, Squiddy, Nautilus [V2]({{ '/balisongs/nautilus_v2.html' | relative_link }}), Swordfish, Squidtrainer, Kraken, Madko, Hydro, Tsunami ([live]({{ '/balisongs/tsunami.html' | relative_url }}), trainer)
+- Squiddy, Mako, Triton, Nautilus [V2]({{ '/balisongs/nautilus_v2.html' | relative_link }}), Swordfish, Squidtrainer, Kraken, Madko, Hydro, Tsunami ([live]({{ '/balisongs/tsunami.html' | relative_url }}), trainer)
 
 ### Smaller
 
