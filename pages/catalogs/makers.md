@@ -104,7 +104,7 @@ Makers that outsources there CNC machining of either blades, handles, or both. M
 ### Bigger
 
 #### [Bladerunners Systems (BRS)](https://www.bladerunnerssystems.com/)
-- [Replicant]({{ '/balisongs/replicant.html' | relative_url }}), AB/CHAB, 
+- [Replicant]({{ '/balisongs/replicant.html' | relative_url }}), [Alpha Beast]({{ '/balisongs/alpha_beast.html' | relative_url }}), Channel Alpha Beast, Barebones, Tibones
 
 #### [EPS Knives](https://epsknives.com/)
 - Atlas, Wraith, 101
