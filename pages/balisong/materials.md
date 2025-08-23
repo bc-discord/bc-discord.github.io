@@ -6,37 +6,6 @@ nav_order: 4
 ---
 
 # Materials
-## Handles
----
- For modern balisongs, a few materials are used for balisong handles:
- - Carbon Fiber: A composite laminate where fibers and resin are layered. This case, the fiber being carbon strands. Typically used as scale material.
- - G-10: Another composite laminate, but the fiber is glass. Typically used as scale material as well.
- - Aluminum: Very lightweight metal commonly used on cheaper balisongs. Comes in two grades of 6061 or 7075; the lighter of the two is 6061, while also being weaker than 7075.
- - Titanium: The most commonly used metal for high-end balisongs. Lightweight for it's given structural properties. The most used grade is 6Al-4V (grade 5). More expensive than Aluminum and harder to machine because of the 'spongey' properties of Titanium compared to other metals.
-
-### Fancy Material
-
-#### Titanium ONLY
-
-Blend of several Titanium alloys.
-
-- [Damatanium](https://vegasforge.com/collections/damtanium): Blend of Grade 5 and Grade 2.
-- [Moku-Ti](https://nicholsdamascus.com/collections/moku-ti): Blend of 2, 3, or 4 different Titaniums.
-- [Timascus](https://www.alphaknifesupply.com/shop/timascus-for-sale)
-
-#### Titanium + Zirconium
-
-Blend of several Titanium alloys and Zirconium. 
-
-- [Zirmascus](https://vegasforge.com/collections/zirmascus)
-- [Zircu-Ti](https://nicholsdamascus.com/collections/zircu-ti)
-
-#### Mokume
-
-A blend of copper, nickel silver, and brass.
-
-- [Vegas Forge](https://vegasforge.com/collections/mokume-damtanium)
-- [Nichols Damascus](https://nicholsdamascus.com/collections/mokume)
 
 ## Blade
 ---
@@ -57,6 +26,7 @@ A majority of modern balisongs are stainless steel; a few are commonly used for 
 - [Vegas Forge](https://vegasforge.com/collections/stainless-carbon-damascus)
 - [Damasteel](https://damasteel.se/steel-and-patterns/all-patterns)
 - [Alpha Knife Supply](https://www.alphaknifesupply.com/shop/damascus)
+- [Bulldog Damascsus Billets](https://www.instagram.com/bulldogdamascus/)
 
 #### San Mai
 Some steels are made by a <ins>san mai</ins> process, a combining of two steels where one steel is the outer steel and another is the inner steel; this process forms a <ins>lamination line</ins> (where the two steels meet) in the grind when the blade is ground. The outer steel is called the <ins>jacket</ins> while the inner steel is called the <ins>core</ins>. Most damascus makers also make cored steel as well; some even combine both the san mai and damascus process by setting the simple steel as the core while the damascsus steel as the jacket.
@@ -64,3 +34,37 @@ Some steels are made by a <ins>san mai</ins> process, a combining of two steels 
 - [Nichols Damascus: Core Damascus](https://nicholsdamascus.com/collections/core-damascus)
 - [Vegas Forge](https://vegasforge.com/collections/san-mai-steel)
 - [Damasteel: Damacore](https://damasteel.se/steel-and-patterns/damacore)
+
+
+## Handles
+---
+ For modern balisongs, a few materials are used for balisong handles:
+ - Carbon Fiber: A composite laminate where fibers and resin are layered. This case, the fiber being carbon strands. Typically used as scale material.
+ - G-10: Another composite laminate, but the fiber is glass. Typically used as scale material as well.
+ - Aluminum: Very lightweight metal commonly used on cheaper balisongs. Comes in two grades of 6061 or 7075; the lighter of the two is 6061, while also being weaker than 7075.
+ - Titanium: The most commonly used metal for high-end balisongs. Lightweight for it's given structural properties. The most used grade is 6Al-4V (grade 5). More expensive than Aluminum and harder to machine because of the 'spongey' properties of Titanium compared to other metals.
+
+### Fancy Material
+
+
+#### Titanium ONLY
+
+- [Moku-Ti](https://nicholsdamascus.com/collections/moku-ti) (Nichols Damascus): Blend of 2, 3, or 4 different Titaniums.
+- [Damatanium](https://vegasforge.com/collections/damtanium) (Vegas Forge): Blend of Grade 2 and Grade 5 Titanium.
+- [Timascus](https://www.alphaknifesupply.com/shop/timascus-for-sale) (Alpha Knife Supply): Blend of Titanums.
+- [CrystalTi](https://www.instagram.com/tikron.by_michael/) (CrystalTi Lab)
+
+#### Titanium + Zirconium
+
+Blend of several Titanium alloys and Zirconium. 
+
+- [Zircu-Ti](https://nicholsdamascus.com/collections/zircu-ti) (Nichols Damascus)
+- [Zirmascus](https://vegasforge.com/collections/zirmascus) (Vegas Forge)
+- [Black Timascus](https://www.alphaknifesupply.com/shop/product/black-timascus-billets) (Alpha Knife Supply)
+
+#### Mokume
+
+A blend of copper, nickel silver, and brass.
+
+- [Nichols Damascus](https://nicholsdamascus.com/collections/mokume)
+- [Vegas Forge](https://vegasforge.com/collections/mokume-damtanium)

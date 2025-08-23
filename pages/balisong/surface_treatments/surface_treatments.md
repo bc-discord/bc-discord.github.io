@@ -7,7 +7,7 @@ nav_order: 5
 
 # Surface Treatments
 
-If you want to find modders that can execute these finishes for your balisong parts, check the [Modder page]({% link pages/catalogs/modders.md %})
+If you want to find modders that can execute these finishes for your balisong parts, check the [Modders page]({% link pages/catalogs/modders.md %}).
 
 ## Finishes
 ---
