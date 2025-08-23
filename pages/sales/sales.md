@@ -5,7 +5,9 @@ nav_order: 5
 has_children: true
 ---
 
-# Terminology
+# Sales
+
+## Terminology
 ---
 
 | Abbreviation | Full Name              | Description                                                                 |
@@ -18,7 +20,15 @@ has_children: true
 | ISO          | In Search Of           | A post where the user is trying to find and acquire a particular knife or gear. |
 | CONUS        | Continental United States | Specifies that the seller is only willing to ship within the continental US. |
 
-# Platforms
+## Retailer 
+---
+Most makers sell directly on their website or most likely their Instagram page. A few makers will do drops on major retail sites.
+
+- [KnifeCenter](https://www.knifecenter.com/)
+- [BladeHQ](https://www.bladehq.com/)
+- [Lamnia](https://www.lamnia.com/en)
+
+## Secondhand Platforms
 ---
 You can sell balisongs on a few platforms.
 
