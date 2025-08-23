@@ -23,7 +23,7 @@ Github is the place that stores code and information for the website, with some 
 ## Balisong Page
 If you would like to create a balisong page, 
 
-1. Copy the template `_template.yaml` in `/_data/balisongs/` and fill it out. Place it in `/_data/balisong/*name*.yml` when you are done. The filename should be the balisong name but all lower case and spaces replaced with underscores. Instructions for fillout out the form are written in the template. You **must** make the yaml file so that your balisong page can be filtered and is programmatically searchable. 
+1. Copy the template `_template.yml.example` in `/_data/balisongs/` and fill it out. Place it in `/_data/balisong/*name*.yml` when you are done. The filename should be the balisong name but all lower case and spaces replaced with underscores. Instructions for fillout out the form are written in the template. You **must** make the yaml file so that your balisong page can be filtered and is programmatically searchable. 
 2. Make a stub page in `/pages/_balisongs/`.  There are a few options for making the page:
     - **Recommended**: Using the `balisong.html` layout by adding `layout: balisong` to the frontmatter section. Easiest way.
     - Copying the `balisong.html` file and turning it into a markdown file with manual edits. When you want the general layout but with different organization or content.

@@ -81,9 +81,10 @@ To tune your bushings, you need
 4. Move the bushing slowly in a circle on the sandpaper to remove material.
 5. Constantly check if you have removed too much material by reconstructing your balisong.
 
-This a barebone description of how you can tune bushings. If you want consistent and accurate bushing tunes, get a 
-- measurement tool (e.g., micrometer) to dial in the exact thickness
-- [bushing lap](https://usaknifemaker.com/pivot-lap-basic-knifedogs-5-bushing-model.html) or [bushing buddy](https://www.squidindustries.co/products/bushing-buddy) to sand your bushings parallel to your flat surface and perpendicular (thickness length is at a right angle to the width of circle)
+This a barebone description of how you can tune bushings. If you want consistent and accurate bushing tunes, get 
+- several sheets of sandpaper at different grit levels (e.g., 200, 500, 1000); as you get closer to blade thickness, increase the grit level for some breathing room
+- a measurement tool (e.g., micrometer) to dial in the exact thickness
+- a [bushing lap](https://usaknifemaker.com/pivot-lap-basic-knifedogs-5-bushing-model.html) or [bushing buddy](https://www.squidindustries.co/products/bushing-buddy) to sand your bushings parallel to your flat surface and perpendicular (thickness length is at a right angle to the width of circle)
 
 ## Stop System
 ---
@@ -105,4 +106,4 @@ When the stop pins lie in the blade, that is a <ins>tang pin</ins> system. This 
 ### Pinless
 When the handles and blade are designed to contact on the blade tang without pins, it is called a <ins>pinless</ins> system. There is no intermediate-part maintenance, but be wary as the blade contacting the handles will wear them down if the materials do not match HRC. You must replace either the handles or blade.
 
-There are some pinless designs (link Fiori design) replace the contact point of the handles with a stronger material to handle the force of the blade. One can argue it is no longer pinless as the 'pin' is designed into the handles.
+There are some pinless designs (link Fiori design) that replace the contact point on the handles with a replacable part. One can argue it is no longer pinless as the 'pin' is designed into the handles, acting as an intermediate part to replace, a proprietary part even harder to service/replace than a simple metal pin.

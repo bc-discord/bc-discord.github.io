@@ -63,7 +63,7 @@ This is where quality levels off. At this juncture, you're buying into variety o
 - **Squid Industries**: Nautilus V2 · $216 · Available · ✦✦✦✧✧
     - Pretty handle bias but favored for tech flipping. Al channel with CF/G10 scales makes it a subpar beater.  
 
-### $300 - $500
+### $301 - $500
 - **Squid Industries**: Tsunami Trainer · $475 · Available · ✦✦✦✦✧
     - More blade bias than live counterpart.
 
