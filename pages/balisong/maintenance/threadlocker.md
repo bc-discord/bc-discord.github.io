@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Threadlocking
+title: Threadlocker
 parent: Maintenance
 nav_order: 1
 ---
@@ -14,8 +14,8 @@ Liquid-based threadlocking that works on screws. The liquid fills in the gaps of
 
 This is the **recommended** medium for threadlocking. Solid-based solutions jam your threads, incurring damage. 
 
-### Hankel
-Hankel makes their Loctite product line for metal fasteners. [Loctite SF 770](https://next.henkel-adhesives.com/us/en/products/industrial-adhesives/central-pdp.html/loctite-sf-770/BP000000153555.html) is their recommended primer.
+### Henkel
+Henkel makes their Loctite product line for metal fasteners. [Loctite SF 770](https://next.henkel-adhesives.com/us/en/products/industrial-adhesives/central-pdp.html/loctite-sf-770/BP000000153555.html) is their recommended primer.
 
 {: .warning }
 > Pay attention to the number.
@@ -41,7 +41,18 @@ These methods use solid objects to keep the screw and sexbolt secure. **Be warne
 ### Teflon tape
 Also called plumbers tape. 
 
-Instructions: Wind the tape along the screws of the balisong, wrapping in the direction that screws turn so the tape doesn't unwind when screwing in.
+Instructions: 
+1. Wrap your tape around your screw a few times, winding along the same rotation your scres go in, so that the tape doesn't unwind when screwing in.
+2. Cut off your tape from the container and remove the excess from the bottom of your screw (your tape width won't be longer than your screw).
+3. Now screw your screw into the sexbolt. If you see excess coming out around the screw, you used too much.
 
 ### Paracord
-...
+
+Instructions: 
+1. Cut open your paracord and take out a string.
+2. Wrap your paracord around your screw, starting at the bottom third.
+3. Screw in your screw into the sexbolt.
+4. Cut/burn off the excess.
+
+Demos
+- [Tmackbb4](https://www.youtube.com/watch?v=cDRMvy7viDE)
