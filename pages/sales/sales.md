@@ -30,7 +30,7 @@ Most makers sell directly on their website or most likely their Instagram page. 
 
 ## Secondhand Platforms
 ---
-You can sell balisongs on a few platforms.
+You can buy/sell secondhand balisongs on a few platforms.
 
 - Reddit
     - [r/BalisongSale](https://www.reddit.com/r/BalisongSale/)
