@@ -35,7 +35,6 @@ Some steels are made by a <ins>san mai</ins> process, a combining of two steels 
 - [Vegas Forge](https://vegasforge.com/collections/san-mai-steel)
 - [Damasteel: Damacore](https://damasteel.se/steel-and-patterns/damacore)
 
-
 ## Handles
 ---
  For modern balisongs, a few materials are used for balisong handles:
@@ -46,13 +45,17 @@ Some steels are made by a <ins>san mai</ins> process, a combining of two steels 
 
 ### Fancy Material
 
+#### Carbon Fiber
 
-#### Titanium ONLY
+- [fatcarbon](https://fatcarbonmaterials.com/): Layering of several colors of carbon fiber, similar layered look to damascus.
+
+#### Titanium
 
 - [Moku-Ti](https://nicholsdamascus.com/collections/moku-ti) (Nichols Damascus): Blend of 2, 3, or 4 different Titaniums.
 - [Damatanium](https://vegasforge.com/collections/damtanium) (Vegas Forge): Blend of Grade 2 and Grade 5 Titanium.
 - [Timascus](https://www.alphaknifesupply.com/shop/timascus-for-sale) (Alpha Knife Supply): Blend of Titanums.
-- [CrystalTi](https://www.instagram.com/tikron.by_michael/) (CrystalTi Lab)
+- [Titanium Damascus](https://www.etsy.com/shop/twistishop) (TwisTi): Blends of Titanium alloys. Also includes crystallized variants.
+- [Crystallized Ti Damascus](https://www.instagram.com/tikron.by_michael/) (CrystalTi Lab): Blends of Titanium that have a crystal pattern.
 
 #### Titanium + Zirconium
 
@@ -60,6 +63,7 @@ Blend of several Titanium alloys and Zirconium.
 
 - [Zircu-Ti](https://nicholsdamascus.com/collections/zircu-ti) (Nichols Damascus)
 - [Zirmascus](https://vegasforge.com/collections/zirmascus) (Vegas Forge)
+- [ZrTi](https://www.etsy.com/shop/twistishop?section_id=27726919) (TwisTi): Includes crystallized variants, with the Zirconium crystallized as well.
 - [Black Timascus](https://www.alphaknifesupply.com/shop/product/black-timascus-billets) (Alpha Knife Supply)
 
 #### Mokume

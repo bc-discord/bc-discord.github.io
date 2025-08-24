@@ -16,8 +16,17 @@ A <ins>finish</ins> is a particular styling of the surface of a metal by removin
 - Satin: Shiny finish that is the commonly seen on Aluminum and Titanium. Achieved by low grit abrasives. 
 - Polished: An even shiner finish, even reflective when the surface is a high enough grit. Achieved by progressively using higher and higher grit abrasives.
 - Stonewashed: Tumbling of parts and abrasive media to make a matte finish.
-- Blasting: A process of shooting 
-    - Examples: sandblasting, glassblasting, zirblasting (zirconia media).
+- Blasting: A process of shooting highly-pressurized media at a metal part to texturize the surface.
+    - Examples: beadblasting, sandblasting, glassblasting, zirblasting (zirconia media)
+- Orange peel: 
+
+### Steel
+- Blueing: Blue coloring of carbon steel with nitride salts.
+
+### Titanium
+- Frost: On lower grade Titanium, etching can cause a crystal-like pattern to appear. Not possible to achieve from the usual 6Al-4V Titanium used by balisong makers.
+- Crystal: A pattern that comes from heating Titanium in a vacuum to produce a crystal look; much stronger than a frost. For it's difficulty to produce, a few [Titanium damascus]({% link pages/balisong/materials.md %}#titanium-only) makers sell billets of them.
+    - [TwisTi](https://www.instagram.com/twisti_shop), [CrystalTi Lab](https://www.instagram.com/tikron.by_michael/), [morphaholic](https://www.instagram.com/morphaholic/)
 
 ## Coatings
 ---
