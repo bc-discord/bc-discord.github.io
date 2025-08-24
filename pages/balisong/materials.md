@@ -53,19 +53,25 @@ Some steels are made by a <ins>san mai</ins> process, a combining of two steels 
 
 #### Titanium
 
-- [Moku-Ti](https://nicholsdamascus.com/collections/moku-ti) (Nichols Damascus): Blend of 2, 3, or 4 different Titaniums.
-- [Damatanium](https://vegasforge.com/collections/damtanium) (Vegas Forge): Blend of Grade 2 and Grade 5 Titanium.
-- [Timascus](https://www.alphaknifesupply.com/shop/timascus-for-sale) (Alpha Knife Supply): Blend of Titanums.
-- [Titanium Damascus](https://www.etsy.com/shop/twistishop) (TwisTi): Blends of Titanium alloys. Also includes crystallized variants.
-- [Crystallized Ti Damascus](https://www.instagram.com/tikron.by_michael/) (CrystalTi Lab): Blends of Titanium that have a crystal pattern.
+Blends of several titanium alloys together to get the damascus look.
+
+- [Moku-Ti](https://nicholsdamascus.com/collections/moku-ti) (Nichols Damascus): Blend of 2, 3, or 4 different titaniums.
+- [Damatanium](https://vegasforge.com/collections/damtanium) (Vegas Forge): Blend of Grade 2 and Grade 5 titanium.
+- [Timascus](https://www.alphaknifesupply.com/shop/timascus-for-sale) (Alpha Knife Supply): Blend of several titanum alloys.
+
+Some damascus makers also make [crystallized]({% link pages/balisong/surface_treatments/surface_treatments.md %}#titanium) variants of titanium damascus.
+
+- [Titanium Damascus](https://www.etsy.com/shop/twistishop) (TwisTi): Blends of titanium alloys, including crystallized variants.
+- [Crystallized Ti Damascus](https://www.instagram.com/tikron.by_michael/) (CrystalTi Lab): Blends of titanium that have a crystal pattern.
+- [Crystal Titanium Damascus](https://www.instagram.com/morphaholic/) (morphaholic)
 
 #### Titanium + Zirconium
 
-Blend of several Titanium alloys and Zirconium. 
+Blend of several titanium alloys and zirconium. 
 
 - [Zircu-Ti](https://nicholsdamascus.com/collections/zircu-ti) (Nichols Damascus)
 - [Zirmascus](https://vegasforge.com/collections/zirmascus) (Vegas Forge)
-- [ZrTi](https://www.etsy.com/shop/twistishop?section_id=27726919) (TwisTi): Includes crystallized variants, with the Zirconium crystallized as well.
+- [ZrTi](https://www.etsy.com/shop/twistishop?section_id=27726919) (TwisTi): Includes crystallized variants, with the zirconium crystallized as well.
 - [Black Timascus](https://www.alphaknifesupply.com/shop/product/black-timascus-billets) (Alpha Knife Supply)
 
 #### Mokume
