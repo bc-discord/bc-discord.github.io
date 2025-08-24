@@ -42,7 +42,7 @@ A <ins>coating</ins> is an encompassing material that is imparted onto the surfa
 
 ## Anodization
 ---
-An <ins>anodization</ins> is an electrochemical process that uses electricity in an electrolyte bath to grow and thicken the natural oxide layer on a metal surface to color the part.
+An <ins>anodization</ins> is an electrochemical process that uses electricity in an electrolyte bath to grow an oxide layer on a metal surface to color the part.
 
 - Aluminum: A coloring of Al by opening up the oxide layer and dying the layer with pigment.
     - Not feasible for an individual to do; it is a very **hazardous** process. Incredibly few individuals have attempted this process. 
