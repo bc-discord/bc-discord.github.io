@@ -125,7 +125,7 @@ pivot_system:
     links: null
 
 pivot:
-  threading: 6/32
+  threading: 6-32
   sexbolt:
     length: .320
     diameter: 0.1870
@@ -140,7 +140,7 @@ pivot:
 
 # Body specs
 body:
-  threading: 6/32
+  threading: 6-32
   sexbolt:
     length: .320
     diameter: 0.1870

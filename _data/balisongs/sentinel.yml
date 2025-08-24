@@ -97,7 +97,7 @@ spacer:
 # Stop system
 stop_system: 
   type: Pressed Tang Pins         # Exact: 'Screwed Zen Pins', 'Pressed Zen Pins', 'Hidden Zen Pins', 'Pressed Tang Pins', 'Screwed Tang Pins'
-  threading: N/A       # Must use slash, not dash. Example: 5/32.
+  threading: N/A       # Must use dash. Example: 5-32.
   sexbolt: 
     length: null
     thickness: null
@@ -124,7 +124,7 @@ pivot_system:
     links: null
 
 pivot:
-  threading: 6/32
+  threading: 6-32
   sexbolt:
     length: 0.395
     diameter: 0.1875

@@ -65,7 +65,7 @@ handle:
     face: Rounded
     edge_break: None    # Exact: 'Rounded', 'Chamfered', 'Rounded and Chamfered'
     taper:
-      height: null          # Exact: 'false', 'true'
+      height: false          # Exact: 'false', 'true'
       width: true              # Exact: 'false', 'true'
   material:
       frame: 6Al-4V Titanium      # Possible: 'Titanium', 'Aluminum', 'CF', 'G10'
@@ -92,7 +92,7 @@ spacer:
   description: null
   image:
     path: null
-    caption: ...
+    caption: null
 
 # Stop system
 stop_system: 

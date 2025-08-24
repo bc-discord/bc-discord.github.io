@@ -67,7 +67,7 @@ handle:
       height: true          # Exact: 'false', 'true'
       width: true              # Exact: 'false', 'true'
   material:
-      frame: 7075 Aluminum      # Possible: 'Titanium', 'Aluminum', 'CF', 'G10'
+      frame: Titanium      # Possible: 'Titanium', 'Aluminum', 'CF', 'G10'
       liner: N/A       # Leave null if not applicable.
       scale: N/A         # Leave null if not applicable.
   surface: 
@@ -75,8 +75,10 @@ handle:
     media: null                   # See blade equivalent.
     coating: null                  # See blade equivalent.
   measurement:
-    thickness: .420          # Decimal number 
-    width: .420
+    thickness: .5          # Decimal number 
+    taper_thickness: .42
+    width: .5
+    taper_width: .42
     length: 5.55                 # Decimal number
     weight: null                 # Decimal number
   has_weight_system: true        # Sexbolts and screws on the end of channel handles counts as a weight system, but not if required for spacers. Exact: 'false', 'true'
@@ -87,7 +89,7 @@ handle:
   description: null
 
 spacer:
-  material: null                 
+  material: N/A                 
   thickness: null
   description: null
   image:
@@ -97,7 +99,7 @@ spacer:
 # Stop system
 stop_system: 
   type: Hidden Zen Pins         # Exact: 'Screwed Zen Pins', 'Pressed Zen Pins', 'Hidden Zen Pins', 'Pressed Tang Pins', 'Screwed Tang Pins'
-  threading: N/A       # Must use slash, not dash. Example: 5/32.
+  threading: N/A       # Must use dash. Example: 5-32.
   sexbolt: 
     length: .3125
     thickness: 0.125
@@ -115,7 +117,9 @@ pivot_system:
     OD: null
     ID: null
     thickness: null
-    links: null
+    links: 
+      - name: Squid Industries
+        url: https://www.squidindustries.co/products/small-washer-hardware-kit
   bushing:
     OD: 0.2482
     ID: 0.1878
@@ -128,7 +132,7 @@ pivot_system:
     links: null
 
 pivot:
-  threading: 6/32
+  threading: 6-32
   sexbolt:
     length: .320
     diameter: 0.1870
@@ -143,7 +147,7 @@ pivot:
 
 # Body specs
 body:
-  threading: 6/32
+  threading: 6-32
   sexbolt:
     length: .320
     diameter: 0.1870

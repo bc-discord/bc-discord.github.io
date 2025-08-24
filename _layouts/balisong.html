@@ -70,7 +70,7 @@ Purchase
 
 | Blade | Details | Additional | 
 | -- | -- | -- |
-| Shape | {{ bali.blade.shape }}  | Tang: {{ bali.blade.edge.tang }} <br> Spine: {{ bali.blade.edge.spine }} |
+| Shape | {{ bali.blade.shape }}  | Tang edge: {{ bali.blade.edge.tang }} <br> Spine edge: {{ bali.blade.edge.spine }} |
 | Material | {{ bali.blade.material }} | {{ finish_str }} |
 | Measurements | Length: {% include round_float.html n=bali.blade.measurement.length d=2 %} in <br> Weight: {% include round_float.html n=bali.blade.measurement.weight d=2 %} oz <br> Thickness: {% include round_float.html n=bali.blade.measurement.thickness d=3 %} in |
 | Has trainer variant? | {{ bali.blade.has_trainer }} |
@@ -101,6 +101,7 @@ Purchase
 
 <!-- Materials -->
  {% assign mat_type = bali.handle.construction.type | default:'' | strip | downcase %}
+ {% assign h_m = bali.handle.measurement %}
  <!-- End -->
 
 {% capture table_md -%}
@@ -108,10 +109,10 @@ Purchase
 | -- | -- | -- | -- |
 | Handles | Construction | {{ bali.handle.construction.type }} | Face: {{ bali.handle.construction.face}} <br> Edge break: {{ bali.handle.construction.edge_break}} <br> Width taper: {{ bali.handle.construction.taper.width }} <br> Height taper: {{ bali.handle.construction.taper.height }} |
 | | Material | Frame: {{ bali.handle.material.frame }} <br> Liner: {{ bali.handle.material.liner }} <br> Scale: {{ bali.handle.material.scale }} | {{ finish_str }} |
-| |Measurements | Thickness: {% include round_float.html n=bali.handle.measurement.thickness d=2 %} in <br> Length: {% include round_float.html n=bali.handle.measurement.length d=2 %} in |
+| |Measurements | Thickness: {% include round_float.html n=h_m.thickness d=2 %} in <br> Width: {% include round_float.html n=h_m.width d=2 %} in <br> Length: {% include round_float.html n=h_m.length d=2 %} in | Tapered thickness: {% include round_float.html n=h_m.taper_thickness d=2 %} in <br> Tapered width: {% include round_float.html n=h_m.taper_width d=2 %} in |
 | | Has weight system? | {{ bali.handle.has_weight_system }} |
 {% if bali.handle.has_spacers -%}
-| Spacer | Material |{{ bali.spacer.material }} | |
+| Spacer | Material |{{ bali.spacer.material }} |  |
 |  | Measurements | Thickness: {% include round_float.html n=bali.spacer.thickness d=3 %} in | |
 {% endif -%}
 {%- endcapture %}
@@ -140,7 +141,7 @@ Purchase
 {% capture table_md -%}
 | Part | Component | Specs | Purchase |
 | -- | -- | -- | -- |
-| Pivot System | Sexbolt | Threading: {{ bali.pivot.threading }} <br> Length: {% include round_float.html n=bali.pivot.sexbolt.length d=3 %} in | {% for link in p.sexbolt.links %} [{{ link.name }}]({{ link.url }}){% unless forloop.last %}, {% endunless %} {% endfor %} |
+| Pivot System | Sexbolt | Threading: {{ bali.pivot.threading }} <br> Length: {% include round_float.html n=bali.pivot.sexbolt.length d=3 %} in <br> Diameter: {% include round_float.html n=p.sexbolt.diameter d=3 %} in | {% for link in p.sexbolt.links %} [{{ link.name }}]({{ link.url }}){% unless forloop.last %}, {% endunless %} {% endfor %} |
 |  | Screw | Length: {% include round_float.html n=bali.pivot.screw.length d=3 %} in | {% for link in p.screw.links %} [{{ link.name }}]({{ link.url }}){% unless forloop.last %}, {% endunless %} {% endfor %} |
 |  | Washers | OD x ID: {% include round_float.html n=ps.washer.OD d=3 %} in x {% include round_float.html n=ps.washer.ID d=3 %} in<br>Thickness: {% include round_float.html n=ps.washer.thickness d=3 %} in | {% for link in ps.washer.links %} [{{ link.name }}]({{ link.url }}){% unless forloop.last %}, {% endunless %} {% endfor %} |
 {% if t contains 'bearing' -%}
@@ -155,7 +156,7 @@ Purchase
 {% endif -%}
 {% if bali.handle.has_weight_system or bali.handle.has_spacers -%}
   {% unless b_thread contains 'n/a' -%}
-    | Handle (body) | Sexbolt | Threading: {{ bali.body.threading }} <br> Length: {% include round_float.html n=body.sexbolt.length d=3 %} in | {% for link in b.sexbolt.links %} [{{ link.name }}]({{ link.url }}){% unless forloop.last %}, {% endunless %} {% endfor %} |
+    | Handle (body) | Sexbolt | Threading: {{ bali.body.threading }} <br> Length: {% include round_float.html n=body.sexbolt.length d=3 %} in <br> Diameter: {% include round_float.html n=b.sexbolt.diameter d=3 %} in | {% for link in b.sexbolt.links %} [{{ link.name }}]({{ link.url }}){% unless forloop.last %}, {% endunless %} {% endfor %} |
     |  | Screw | Length: {% include round_float.html n=body.screw.length d=3 %} in | {% for link in b.screw.links %} [{{ link.name }}]({{ link.url }}){% unless forloop.last %}, {% endunless %} {% endfor %} | 
   {% endunless -%}
 {% endif -%}

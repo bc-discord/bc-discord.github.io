@@ -131,7 +131,7 @@ pivot_system:
     links: null
 
 pivot:
-  threading: 6/64
+  threading: 6-64
   sexbolt:
     length: null
     diameter: null
