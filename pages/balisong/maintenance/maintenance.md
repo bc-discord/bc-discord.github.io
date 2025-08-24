@@ -99,16 +99,16 @@ When the stop pins lie in the handles, that is a <ins>zen pin</ins> system. The 
 
 When the stop pins lie in the blade, that is a <ins>tang pin</ins> system. This system outperforms zen pins on longevity (on a single charge) when the pins match the HRC of the handles; soft-on-soft interaction wears down the least material compared to hard-on-hard interaction. Two variants exist for tang pins:
 
-- Pressed: When the pins are <ins>pressed</ins> into the blade. You must have pins and an arbor press. Typically, you will pay the manufacturer to replace them.
-- Screwed: The least desired variant, when the tang pins are <ins>screwed</ins> in place. [Threadlocking]({% link pages/balisong/maintenance/threadlocker.md %}) is required.
+- Pressed: When the pins are <ins>pressed</ins> into the blade. You must have pins and an arbor press. Typically, you will pay the maker to replace them.
+- Screwed: The least desired variant, when the tang pins are <ins>screwed</ins> in place. [Threadlocking]({% link pages/balisong/maintenance/threadlocker.md %}) is required. You must buy these from the maker.
 
 ### Pinless
-When the handles and blade are designed to contact on the blade tang without pins, it is called a <ins>pinless</ins> system. There is no intermediate-part maintenance, but be wary as the blade contacting the handles will wear them down if the materials do not match HRC. You must replace either the handles or blade.
+When the handles and blade are designed to contact on the blade tang without pins, it is called a <ins>pinless</ins> system. There is typically no intermediate-part maintenance, but be wary as the blade contacting the handles will wear them down by the mismatch of HRC. You must replace either the handles or blade when the blade and handles start to slap.
 
-There are some pinless designs that replace the contact point on the handles with a replacable part. By construction, it is still pinless as the part is not a pin, but it detracts from the hardware-less essence of a pinless design, as an intermediate part exists now, a proprietary part even harder to service/replace than a simple metal pin.
+There are some pinless designs that replace the contact point on the handles with a replacable part. By construction, it is still pinless as the part is not a pin, but it detracts from the hardware-less essence of a pinless design, as an intermediate part exists now, a proprietary part even harder to replace than a simple metal pin.
 
 <div class="image-row squares">
-  {% include image_caption.html url="fioreknives_pinless_open.jpg" description="Example of a replacable pinless system by [Fiore Knives](https://www.instagram.com/fioreknives/p/CW6Mom-sdQI/?img_index=2)." %}
+  {% include image_caption.html url="fioreknives_pinless_open.jpg" description="Example of a pinless system on titanium damascus handles with a titanium replacable part by [Fiore Knives](https://www.instagram.com/fioreknives/p/CW6Mom-sdQI/?img_index=2)." %}
   {% include image_caption.html url="fioreknives_pinless_closed.jpg" description="Of the other side." %}
 </div>
 
