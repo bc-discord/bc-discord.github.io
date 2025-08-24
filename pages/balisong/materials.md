@@ -26,14 +26,16 @@ A majority of modern balisongs are stainless steel; a few are commonly used for 
 - [Vegas Forge](https://vegasforge.com/collections/stainless-carbon-damascus)
 - [Damasteel](https://damasteel.se/steel-and-patterns/all-patterns)
 - [Alpha Knife Supply](https://www.alphaknifesupply.com/shop/damascus)
-- [Bulldog Damascsus Billets](https://www.instagram.com/bulldogdamascus/)
+- [Bulldog Damascus Billets](https://www.instagram.com/bulldogdamascus/)
+- [Bertie Rietveld](https://www.rietveldknives.com/)
 
 #### San Mai
 Some steels are made by a <ins>san mai</ins> process, a combining of two steels where one steel is the outer steel and another is the inner steel; this process forms a <ins>lamination line</ins> (where the two steels meet) in the grind when the blade is ground. The outer steel is called the <ins>jacket</ins> while the inner steel is called the <ins>core</ins>. Most damascus makers also make cored steel as well; some even combine both the san mai and damascus process by setting the simple steel as the core while the damascsus steel as the jacket.
 
-- [Nichols Damascus: Core Damascus](https://nicholsdamascus.com/collections/core-damascus)
-- [Vegas Forge](https://vegasforge.com/collections/san-mai-steel)
-- [Damasteel: Damacore](https://damasteel.se/steel-and-patterns/damacore)
+- [Core Damascus](https://nicholsdamascus.com/collections/core-damascus) (Nichols Damascus)
+- [San Mai](https://vegasforge.com/collections/san-mai-steel) (Vegas Forge)
+- [Damacore](https://damasteel.se/steel-and-patterns/damacore) (Damasteel)
+- [CopperMai](https://www.bakerforge.com/productionsteel) (Baker Forge & Tool): Inclusion of copper into the damascus or the lamination line.
 
 ## Handles
 ---
