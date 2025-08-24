@@ -11,9 +11,9 @@ If you want to find modders that can execute these finishes for your balisong pa
 
 ## Finishes
 ---
-A <ins>finish</ins> is a particular styling of the surface of a metal by removing miniscule amounts of material.
+A <ins>finish</ins> is a particular styling of the surface of a metal by removing miniscule amounts or modifying a thin layer of material.
 
-- Satin: Shiny finish that is the commonly seen on Aluminum and Titanium. Achieved by low grit abrasives. Can be slippery when using low enough grit.
+- Satin: Shiny finish that is the commonly seen on aluminum and titanium. Achieved by low grit abrasives. Can be slippery when using low enough grit.
 - Polished: An even shiner finish, even reflective when the surface is a high enough grit. Achieved by progressively using higher and higher grit abrasives. Can be very grippy if using a high enough grit (think of running your finger along a mirror).
 - Stonewashing: Tumbling of parts and abrasive media to make a matte finish. Level of matte grip is determined by the media and duration of tumbling.
 - Blasting: A process of shooting highly-pressurized media at a metal part to texturize the surface. Degree of roughness depends on the media used. 
@@ -24,9 +24,9 @@ A <ins>finish</ins> is a particular styling of the surface of a metal by removin
 - Blueing: Blue coloring of carbon steel with nitride salts.
 
 ### Titanium
-- Frost: On lower grade Titanium, etching can cause a crystal-like pattern to appear. Not possible to achieve from the usual 6Al-4V Titanium used by balisong makers.
-- Crystal: A pattern that comes from heating Titanium in a vacuum to produce a crystal look; much stronger than a frost. For it's difficulty to produce, a few [Titanium damascus]({% link pages/balisong/materials.md %}#titanium-only) makers sell billets of them.
-    - [TwisTi](https://www.instagram.com/twisti_shop), [CrystalTi Lab](https://www.instagram.com/tikron.by_michael/), [morphaholic](https://www.instagram.com/morphaholic/)
+- Frost: On lower grade titanium, etching can cause a crystal-like pattern to appear. Not possible to achieve from the usual 6Al-4V titanium used by balisong makers.
+- Crystal: A pattern that comes from heating titanium in a vacuum to produce a crystal look; much stronger than a frost. For it's difficulty to produce, a few [titanium damascus]({% link pages/balisong/materials.md %}#titanium) makers sell billets of them.
+    - [CrystalTi Lab](https://www.instagram.com/tikron.by_michael/), [morphaholic](https://www.instagram.com/morphaholic/)
 
 ## Coatings
 ---
