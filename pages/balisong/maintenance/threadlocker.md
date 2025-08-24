@@ -42,7 +42,7 @@ These methods use solid objects to keep the screw and sexbolt secure. **Be warne
 Also called plumbers tape. 
 
 Instructions: 
-1. Wrap your tape around your screw a few times, winding along the same rotation your scres go in, so that the tape doesn't unwind when screwing in.
+1. Wrap your tape around your screw a few times, winding along the same rotation your screws go in, so that the tape doesn't unwind when screwing in.
 2. Cut off your tape from the container and remove the excess from the bottom of your screw (your tape width won't be longer than your screw).
 3. Now screw your screw into the sexbolt. If you see excess coming out around the screw, you used too much.
 

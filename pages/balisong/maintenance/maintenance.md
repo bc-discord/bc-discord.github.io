@@ -105,4 +105,43 @@ When the stop pins lie in the blade, that is a <ins>tang pin</ins> system. This 
 ### Pinless
 When the handles and blade are designed to contact on the blade tang without pins, it is called a <ins>pinless</ins> system. There is no intermediate-part maintenance, but be wary as the blade contacting the handles will wear them down if the materials do not match HRC. You must replace either the handles or blade.
 
-There are some pinless designs (link Fiori design) that replace the contact point on the handles with a replacable part. One can argue it is no longer pinless as the 'pin' is designed into the handles, acting as an intermediate part to replace, a proprietary part even harder to service/replace than a simple metal pin.
+There are some pinless designs that replace the contact point on the handles with a replacable part. By construction, it is still pinless as the part is not a pin, but it detracts from the hardware-less essence of a pinless design, as an intermediate part exists now, a proprietary part even harder to service/replace than a simple metal pin.
+
+<div class="image-row squares">
+  {% include image_caption.html url="fioreknives_pinless_open.jpg" description="Example of a replacable pinless system by [Fiore Knives](https://www.instagram.com/fioreknives/p/CW6Mom-sdQI/?img_index=2)." %}
+  {% include image_caption.html url="fioreknives_pinless_closed.jpg" description="Of the other side." %}
+</div>
+
+<style>
+/* Two equal-width columns */
+.image-row.squares {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1rem;
+  align-items: start;
+}
+
+.image-row.squares > .image { text-align: initial; }
+
+/* keep the image itself centered if you like */
+.image-row.squares > .image img {
+  display: block;
+  margin-inline: auto;   /* center the image only */
+  width: 100%;
+  aspect-ratio: 1/1;
+  object-fit: cover;
+}
+
+/* left-align caption + nice wrapping */
+.image-row.squares > .image figcaption {
+  text-align: start;           /* left in LTR, right in RTL */
+  overflow-wrap: break-word;   /* break long words if needed */
+  word-break: normal;
+  hyphens: auto;
+}
+
+/* Stack on small screens */
+@media (max-width: 700px) {
+  .image-row.squares { grid-template-columns: 1fr; }
+}
+</style>
