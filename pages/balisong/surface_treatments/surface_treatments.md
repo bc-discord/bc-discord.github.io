@@ -13,10 +13,10 @@ If you want to find modders that can execute these finishes for your balisong pa
 ---
 A <ins>finish</ins> is a particular styling of the surface of a metal by removing miniscule amounts of material.
 
-- Satin: Shiny finish that is the commonly seen on Aluminum and Titanium. Achieved by low grit abrasives. 
-- Polished: An even shiner finish, even reflective when the surface is a high enough grit. Achieved by progressively using higher and higher grit abrasives.
-- Stonewashed: Tumbling of parts and abrasive media to make a matte finish.
-- Blasting: A process of shooting highly-pressurized media at a metal part to texturize the surface.
+- Satin: Shiny finish that is the commonly seen on Aluminum and Titanium. Achieved by low grit abrasives. Can be slippery when using low enough grit.
+- Polished: An even shiner finish, even reflective when the surface is a high enough grit. Achieved by progressively using higher and higher grit abrasives. Can be very grippy if using a high enough grit (think of running your finger along a mirror).
+- Stonewashing: Tumbling of parts and abrasive media to make a matte finish. Level of matte grip is determined by the media and duration of tumbling.
+- Blasting: A process of shooting highly-pressurized media at a metal part to texturize the surface. Degree of roughness depends on the media used. 
     - Examples: beadblasting, sandblasting, glassblasting, zirblasting (zirconia media)
 - Orange peel: 
 
@@ -32,7 +32,7 @@ A <ins>finish</ins> is a particular styling of the surface of a metal by removin
 ---
 A <ins>coating</ins> is an encompassing material that is imparted onto the surface of the metal.
 
-- DLC (diamond-like carbon): Completely black coating applied to both handle and blade material. The most common way to get a shiny finish and a black coating for balisongs.
+- DLC (diamond-like carbon): Completely black coating applied to both handle and blade material. The most common way to get a shiny finish and a black coating for balisongs. Retains the underlying texture of the material.
     - Not possible for an individual to perform. Only a handful of companies provide this process; they only take batches. You can find people that pool together individual orders to make the submission to the company worthwhile.
 - PVD (physical vapor deposition):
 - Cerakote:
