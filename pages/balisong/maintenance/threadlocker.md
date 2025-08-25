@@ -54,5 +54,5 @@ Instructions:
 3. Screw in your screw into the sexbolt.
 4. Cut/burn off the excess.
 
-Demos
+Demos:
 - [Tmackbb4](https://www.youtube.com/watch?v=cDRMvy7viDE)
