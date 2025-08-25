@@ -132,10 +132,10 @@ Makers that outsources there CNC machining of either blades, handles, or both. M
 #### [B.A. Balis](https://www.instagram.com/b.a.modworks/)
 - Nakiri, Atlus
 
-#### Bxndxge Knives
+#### [Bxndxge Knives](https://www.instagram.com/bxndxgeknives/)
 - Stitch
 
-#### Frost Howe Balisong
+#### [Frost Howe Balisong](https://www.instagram.com/frost_howe_balisongs/)
 - Pirouette
 
 #### [Hansen Metals](https://hansenmetals.com/)
@@ -150,7 +150,7 @@ Makers that outsources there CNC machining of either blades, handles, or both. M
 #### [NRB Knives](https://www.instagram.com/iamnotarealboy/)
 - Vortex, Ultralight, Slight, Nemesis
 
-#### Perennial Concepts
+#### [Perennial Concepts](https://www.instagram.com/perennial.concepts/)
 - Kronos
 
 #### [Static Knives](https://staticknives.com/)
@@ -162,7 +162,7 @@ Makers that outsources there CNC machining of either blades, handles, or both. M
 #### [Thomas Balisong](https://www.instagram.com/thomasbalisong/)
 - Baikal, Astra
 
-#### Tormentum Knives
+#### [Tormentum Knives](https://www.instagram.com/tormentum.knives/)
 - Azoth
 
 #### [Turbojackelope](https://www.instagram.com/turbojackelope/)
@@ -209,7 +209,7 @@ Makes completely custom designs per customer, with a few repeated themes (e.g., 
 ### [Hammer Designs](https://www.instagram.com/hammerdesigns/)
 - Chaos, Chaos lite
 
-### Indiana John
+### [Indiana John](https://www.instagram.com/indiana_john_flips/)
 - Oldtech
 
 ### [JLyons Knives](https://www.instagram.com/jlyonsknives/)
@@ -233,8 +233,8 @@ Makes completely custom designs per customer, with a few repeated themes (e.g., 
 ### [Terry Guinn Knives](http://terryguinn.com/)
 - Goblin, Typhoon
 
-### Wanderpalm
+### [Wanderpalm](https://www.instagram.com/wanderpaim/)
 - Lockhead
 
-### Wilfred Richards
+### [Wilfred Richards](https://www.instagram.com/wilfred.richards/)
 - Polecat
