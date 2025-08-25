@@ -26,76 +26,75 @@ Makers that CNC machine both blades and handles, typically finishes their parts 
 
 ### Bigger
 
-#### [BBBarfly](https://bbbarfly.com/)
+[BBBarfly](https://bbbarfly.com/)
 - BBfirefly, Bar-racuda, BBSuperFly
 
-#### [Black Balisong](https://www.blackbalisong.com/)
+[Black Balisong](https://www.blackbalisong.com/)
 - Rebola, Valkyrae, Xolo, Mist, Farfala, Reaper
 
-#### [Fellowship Blades](https://www.instagram.com/fellowship_blades/)
+[Fellowship Blades](https://www.instagram.com/fellowship_blades/)
 - Medusa, Empusa, Hognose, Gaboon
 
-#### [Flytanium](https://www.flytanium.com/)
+[Flytanium](https://www.flytanium.com/)
 - Talisong Z, Fly One, Tatersong
 
-#### [Glidr](https://glidr.co/)
+[Glidr](https://glidr.co/)
 - Pacific, Moab x Meridian, Artic
 
-#### [JK Designs](https://jkdesign.us/)
+[JK Designs](https://jkdesign.us/)
 - Emissary, Litetech, Orca, Monarch, Embargo, Regime
 
-#### [LDY Balisong](https://ldybalisong.net/)
+[LDY Balisong](https://ldybalisong.net/)
 - Kite, Orion, Corvus, Sirius, Frank, Cygnus, Vixen
 
-#### [MachineWise](https://machinewise.com/)
+[MachineWise](https://machinewise.com/)
 - Maryn, Slift, [Serif]({{ '/balisongs/serif.html' | relative_url }}), Prysma, Opus, Tottori, Sassori
 
-#### [Squid Industries](https://www.squidindustries.co/)
+[Squid Industries](https://www.squidindustries.co/)
 - Squiddy, Mako, Triton, Nautilus [V2]({{ '/balisongs/nautilus_v2.html' | relative_link }}), Swordfish, Squidtrainer, Kraken, Madko, Hydro, Tsunami ([live]({{ '/balisongs/tsunami.html' | relative_url }}), trainer)
 
 ### Smaller
 
-#### [Andrew Myers](https://www.instagram.com/am.kw_/)
+[Andrew Myers](https://www.instagram.com/am.kw_/)
 - Aeon
 
-#### [Ceroni Knives](https://www.ceroniknives.it/)
+[Ceroni Knives](https://www.ceroniknives.it/)
 - Baliviper, Balireaper, Trinidad Scropion, Ti Tracker, Integralis, Gladius
 
-#### [Clark Custom](https://clarkcustomknives.com/)
+[Clark Custom](https://clarkcustomknives.com/)
 - Evo, Lyra
 
-#### [Eldon Talley](https://www.eldontalley.com/)
+[Eldon Talley](https://www.eldontalley.com/)
 - Talisong
 
-#### [Emmanuel Le Brun (ELB)](https://www.instagram.com/emmanuel_le_brun/)
+[Emmanuel Le Brun (ELB)](https://www.instagram.com/emmanuel_le_brun/)
 - Proflipper, Mamba
 
-#### [Fiore Knives](https://www.fioreknives.com/)
+[Fiore Knives](https://www.fioreknives.com/)
 Balisongs go by the blade shape, handles largely the same.
 
-#### [FLS Balisongs](https://www.flsbalisongs.com/)
+[FLS Balisongs](https://www.flsbalisongs.com/)
 - Liminal, Astral
 
-#### [Franken Forge](https://frankenforgeblades.com/)
+[Franken Forge](https://frankenforgeblades.com/)
 - Ion, Static, Voltaic, Galvanis
 
-#### [Geof Dumas](https://gdktllc.com/)
+[Geof Dumas](https://gdktllc.com/)
 - [EX]({{ '/balisongs/ex.html' | relative_url }})
 
-#### [Hazetac](https://hazetac.com/)
+[Hazetac](https://hazetac.com/)
 - DMC, Jesus Devil, Jigsaw, Carlo
 
-#### [Heibel Knives](https://heibel-knives.com/)
+[Heibel Knives](https://heibel-knives.com/)
 - Valor, Sapient, Menace, Invictus
 
-#### [Revenge of the Blades (RoTB)](https://www.instagram.com/revenge_of_the_blades/)
+[Revenge of the Blades (RoTB)](https://www.instagram.com/revenge_of_the_blades/)
 - Arsenal, X1
 
-#### [Ryworx](https://www.instagram.com/ryworx/)
+[Ryworx](https://www.instagram.com/ryworx/)
 - Omeme, Setsuna, GA, Konohishi (Shinogi, Kogarasu, Osoraku)
 
-#### [Squiggle](https://squiggle-scales.com/)
-- 
+[Squiggle](https://squiggle-scales.com/)
 
 ## Outsource CNC Makers
 ---
@@ -103,138 +102,138 @@ Makers that outsources there CNC machining of either blades, handles, or both. M
 
 ### Bigger
 
-#### [Bladerunners Systems (BRS)](https://www.bladerunnerssystems.com/)
+[Bladerunners Systems (BRS)](https://www.bladerunnerssystems.com/)
 - [Replicant]({{ '/balisongs/replicant.html' | relative_url }}), [Alpha Beast]({{ '/balisongs/alpha_beast.html' | relative_url }}), Channel Alpha Beast, Barebones, Tibones
 
-#### [EPS Knives](https://epsknives.com/)
+[EPS Knives](https://epsknives.com/)
 - Atlas, Wraith, 101
 
-#### [Hom Design](https://www.homdesign.com/)
+[Hom Design](https://www.homdesign.com/)
 - Rhapsody, G10st, Prodigy, Specter, Basilisk, Chimera, Arashi, Tempest
 
-#### [Jimpy Designs](https://www.jimpydesigns.com/)
+[Jimpy Designs](https://www.jimpydesigns.com/)
 - [Sentinel]({{ '/balisongs/sentinel.html' | relative_url }}), Tux, [Zentinel]({{ '/balisongs/zentinel.html' | relative_url }})
 
-#### [Svix](https://www.thesvix.com/)
+[Svix](https://www.thesvix.com/)
 - Terra, Gale, Zephyr
 
 ### Smaller
 
-#### [A51 Projects](https://www.instagram.com/a51projects/)
+[A51 Projects](https://www.instagram.com/a51projects/)
 - Pluto, Phobos, Apollo
 
-#### [Acidwrx](https://www.instagram.com/acidwrx/)
+[Acidwrx](https://www.instagram.com/acidwrx/)
 - Incept, Abyss, Lazarus, Judas, Itzpapalotl, Zika
 
-#### [Arthurgoins](https://www.instagram.com/arthurgoins/)
+[Arthurgoins](https://www.instagram.com/arthurgoins/)
 - Goose
 
-#### [B.A. Balis](https://www.instagram.com/b.a.modworks/)
+[B.A. Balis](https://www.instagram.com/b.a.modworks/)
 - Nakiri, Atlus
 
-#### [Bxndxge Knives](https://www.instagram.com/bxndxgeknives/)
+[Bxndxge Knives](https://www.instagram.com/bxndxgeknives/)
 - Stitch
 
-#### [Frost Howe Balisong](https://www.instagram.com/frost_howe_balisongs/)
+[Frost Howe Balisong](https://www.instagram.com/frost_howe_balisongs/)
 - Pirouette
 
-#### [Hansen Metals](https://hansenmetals.com/)
+[Hansen Metals](https://hansenmetals.com/)
 - Monarch, Solo
 
-#### [Henninger Designs](https://www.instagram.com/henninger.designs/)
+[Henninger Designs](https://www.instagram.com/henninger.designs/)
 - Telesto, Eupheme
 
-#### [NoloBuilds](https://nolobuilds.com/)
+[NoloBuilds](https://nolobuilds.com/)
 - [Chioni]({{ '/balisongs/chioni.html' | relative_url }})
 
-#### [NRB Knives](https://www.instagram.com/iamnotarealboy/)
+[NRB Knives](https://www.instagram.com/iamnotarealboy/)
 - Vortex, Ultralight, Slight, Nemesis
 
-#### [Perennial Concepts](https://www.instagram.com/perennial.concepts/)
+[Perennial Concepts](https://www.instagram.com/perennial.concepts/)
 - Kronos
 
-#### [Static Knives](https://staticknives.com/)
+[Static Knives](https://staticknives.com/)
 - Icarus
 
-#### [Serum Velocity](https://www.instagram.com/serumvelocity/)
+[Serum Velocity](https://www.instagram.com/serumvelocity/)
 - Astra
 
-#### [Thomas Balisong](https://www.instagram.com/thomasbalisong/)
+[Thomas Balisong](https://www.instagram.com/thomasbalisong/)
 - Baikal, Astra
 
-#### [Tormentum Knives](https://www.instagram.com/tormentum.knives/)
+[Tormentum Knives](https://www.instagram.com/tormentum.knives/)
 - Azoth
 
-#### [Turbojackelope](https://www.instagram.com/turbojackelope/)
+[Turbojackelope](https://www.instagram.com/turbojackelope/)
 - PDN, Sycolope
 
-#### [WB Concepts](https://www.instagram.com/wb.concepts/)
+[WB Concepts](https://www.instagram.com/wb.concepts/)
 - Gigas
 
-#### [XK Knives](https://www.instagram.com/xkknives/)
+[XK Knives](https://www.instagram.com/xkknives/)
 - Tracer
 
 ## Midtech Makers
 ---
 Makers that contribute a signficant portion of the manual machining of their balisongs. Some may waterjet cut blades/handles and grind/machine the rest. Some may only make the handles or blades fully from stratch. But they always finish and tune their own balisongs.
 
-### [Balibalistic](https://www.instagram.com/balibalisticknives/)
-- 
+[Balibalistic](https://www.instagram.com/balibalisticknives/)
 
-### [Bensonblades](https://bensonblades.com/)
+[Bensonblades](https://bensonblades.com/)
 - Planarian
 
-### [D.C. Bladeworks](https://www.instagram.com/dc_bladeworks/)
+[D.C. Bladeworks](https://www.instagram.com/dc_bladeworks/)
 - Genesis
 
-### [JW Knives](https://www.instagram.com/jw_knives/)
+[JW Knives](https://www.instagram.com/jw_knives/)
 - Magnet
 
-### [Mantis Bladeworks](https://www.instagram.com/mantis_bladeworks/)
+[Mantis Bladeworks](https://www.instagram.com/mantis_bladeworks/)
 - Thistle, Idolo, Iris
 
-### [Syco](https://www.instagram.com/syco.x/)
+[Syco](https://www.instagram.com/syco.x/)
 - 5150, Sycolope, Hysteria
 
 ## Handmade Makers
 ---
 These makers manually machine their handles and blades completely on their own; they also finish and tune as well.
 
-### [Dlarson Knives](https://www.instagram.com/dlarsonknives/)
+[Dlarson Knives](https://www.instagram.com/dlarsonknives/)
 - LST
 
-### [GP Blades](https://www.instagram.com/gp_blades/)
+[GP Blades](https://www.instagram.com/gp_blades/)
+
 Makes completely custom designs per customer, with a few repeated themes (e.g., Jawbones).
 
-### [Hammer Designs](https://www.instagram.com/hammerdesigns/)
+[Hammer Designs](https://www.instagram.com/hammerdesigns/)
 - Chaos, Chaos lite
 
-### [Indiana John](https://www.instagram.com/indiana_john_flips/)
+[Indiana John](https://www.instagram.com/indiana_john_flips/)
 - Oldtech
 
-### [JLyons Knives](https://www.instagram.com/jlyonsknives/)
+[JLyons Knives](https://www.instagram.com/jlyonsknives/)
 - Hellcat, Slimeline
 
-### [Lanier Knives](https://www.instagram.com/lanierknives/)
+[Lanier Knives](https://www.instagram.com/lanierknives/)
 - SL, Script
 
-### [Lovins Customs](https://www.instagram.com/lovinscustoms/)
+[Lovins Customs](https://www.instagram.com/lovinscustoms/)
 - Strix
 
-### [Palethius](https://palethiusdesigns.com/)
+[Palethius](https://palethiusdesigns.com/)
 - Revolution, Campanile, Backline, RoninWorks, BC, Industrial
 
-### [Stitched Steel](https://www.instagram.com/stitchedsteel/)
+[Stitched Steel](https://www.instagram.com/stitchedsteel/)
 - Alien, [Paradigm]({{ '/balisongs/paradigm.html' | relative_link }}), Railgun
 
-### [Taylormania Knives](https://www.instagram.com/taylormaniaknives/)
+[Taylormania Knives](https://www.instagram.com/taylormaniaknives/)
 - Solidsong
 
-### [Terry Guinn Knives](http://terryguinn.com/)
+[Terry Guinn Knives](http://terryguinn.com/)
 - Goblin, Typhoon
 
-### [Wanderpalm](https://www.instagram.com/wanderpaim/)
+[Wanderpalm](https://www.instagram.com/wanderpaim/)
 - Lockhead
 
-### [Wilfred Richards](https://www.instagram.com/wilfred.richards/)
+[Wilfred Richards](https://www.instagram.com/wilfred.richards/)
 - Polecat
