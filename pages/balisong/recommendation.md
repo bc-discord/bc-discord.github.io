@@ -21,11 +21,11 @@ These recommendations are geared for the U.S. market; outside of the U.S., it's 
 ### < $50
 
 ### $51 - $100
-- **LDY**: Orion V1.5 · $85 · Available · ✦✦✦✦✧
+- **LDY**: Orion V1.5 · $95 · Available · ✦✦✦✦✧
     - Not a good beater because of Al sandwich construction.
 
 ### $101 - $200
-- **LDY**: Sirius V4.5 · $125 · Available · ✦✦✦✦✦
+- **LDY**: Sirius V4.5 · $155 · Available · ✦✦✦✦✦
     - Al channel handles. Good value for the handle construction.
 
 ### $201 - $350
@@ -35,11 +35,13 @@ These recommendations are geared for the U.S. market; outside of the U.S., it's 
     - Early issues with cracked tang; if you don't beat your balisong, pretty good value with Ti channel handles. Might be hard to find secondhand, but you can find these stupid cheap for 100 something secondhand. Bottom weights are not easily replacable. 
 
 ### $351 - $600
-- **MachineWise**: SlifT V2 · $365 · Available · ✦✦✦✦✦
+- **MachineWise**: SlifT V2 · $365 · Discontinued · ✦✦✦✦✦
     - Titanium channel handles on bushings. Pretty good value. There's plenty of these floating around. If you want something more handle bias, find the V1.
+- **Squid Industries**: Hydro · $395 · Available · ✦✦✦✧✧
+    - Little too blade bias, closer to neutral with carbon fiber spacers. Also on the shorter side to the modern balisong length. Pretty good value secondhand in the 200s.
 
 ### $601 - $800
-- **MachineWise**: Serif · $650 · Available · ✦✦✦✦✦
+- **MachineWise**: Serif · $700 · Available · ✦✦✦✦✦
 - **Squid Industries**: Tsunami · $750 · Available · ✦✦✦✦✦
 
 ### $801+
