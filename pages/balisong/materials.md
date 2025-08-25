@@ -28,6 +28,7 @@ A majority of modern balisongs are stainless steel; a few are commonly used for 
 - [Alpha Knife Supply](https://www.alphaknifesupply.com/shop/damascus)
 - [Bulldog Damascus Billets](https://www.instagram.com/bulldogdamascus/)
 - [Bertie Rietveld](https://www.rietveldknives.com/)
+- [Mike Norris Damascus](https://ssdamascus.net/patterns/)
 
 #### San Mai
 Some steels are made by a <ins>san mai</ins> process, a combining of two steels where one steel is the outer steel and another is the inner steel; this process forms a <ins>lamination line</ins> (where the two steels meet) in the grind when the blade is ground. The outer steel is called the <ins>jacket</ins> while the inner steel is called the <ins>core</ins>. Most damascus makers also make cored steel as well; some even combine both the san mai and damascus process by setting the simple steel as the core while the damascsus steel as the jacket.
@@ -48,8 +49,12 @@ Some steels are made by a <ins>san mai</ins> process, a combining of two steels 
 ### Exotic Material
 
 #### Carbon Fiber
+Layering of several colors of carbon fiber, similar layered look to damascus.
 
-- [fatcarbon](https://fatcarbonmaterials.com/): Layering of several colors of carbon fiber, similar layered look to damascus.
+- [fatcarbon](https://fatcarbonmaterials.com/) 
+- [Carboti](https://carboti.com/)
+- [CamoCarbon](https://camocarbon.com/)
+- [Camowaves](https://www.etsy.com/shop/carbonwaves/?etsrc=sdt)
 
 #### Titanium
 
