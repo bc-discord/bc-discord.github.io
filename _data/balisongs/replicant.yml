@@ -65,7 +65,7 @@ handle:
     coating: null
   measurement:
     thickness: 0.55
-    taper_thickness: null
+    taper_thickness: n/a
     width: null
     taper_width: null
     length: 5.5 
@@ -91,12 +91,12 @@ stop_system:
   threading: 2-56
   sexbolt: 
     length: .1565
-    diameter: null
+    thickness: .1565
     links:
       - name: TRUE~LINK
         url: https://thetruelink.com/products/5-32-shoulder-pin
   screw:
-    length: null
+    length: .125
     links:
       TRUELINK: null
 
@@ -124,8 +124,8 @@ pivot_system:
 pivot:
   threading: 6-32
   sexbolt:
-    length: .320
-    diameter: null
+    length: .375
+    diameter: .1875
     links:
       - name: TRUE~LINK
         url: https://thetruelink.com/products/3-16-sex-bolt-gray-finish
@@ -140,7 +140,7 @@ body:
   threading: 2-56
   sexbolt:
     length: .400
-    diameter: null
+    diameter: .125
     links:
       - name: TRUE~LINK
         url: https://thetruelink.com/products/1-8-x-2-56-tpi-stainless-sex-bolt-gray-finish-416-stainless
