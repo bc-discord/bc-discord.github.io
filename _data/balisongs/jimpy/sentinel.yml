@@ -77,6 +77,7 @@ handle:
     coating: null                  # See blade equivalent.
   measurement:
     thickness: null          # Decimal number 
+    taper_thickness: n/a
     length: 5.5                 # Decimal number
     weight: null                 # Decimal number
   has_weight_system: false        # Sexbolts and screws on the end of channel handles counts as a weight system, but not if required for spacers. Exact: 'false', 'true'
@@ -92,7 +93,7 @@ spacer:
   description: null
   image:
     path: null
-    caption: ...
+    caption: null
 
 # Stop system
 stop_system: 

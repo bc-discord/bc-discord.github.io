@@ -115,7 +115,8 @@ Makers that outsources there CNC machining of either blades, handles, or both. M
 - Rhapsody, G10st, Prodigy, Specter, Basilisk, Chimera, Arashi, Tempest
 
 [Jimpy Designs](https://www.jimpydesigns.com/)
-- [Sentinel]({{ '/balisongs/sentinel.html' | relative_url }}), Tux, [Zentinel]({{ '/balisongs/zentinel.html' | relative_url }})
+{% assign jimpy_path = '/balisongs/jimpy/' %}
+- [Sentinel]({{ jimpy_path | append: 'sentinel.html' | relative_link }}), Tux, [Zentinel]({{ jimpy_path | append: 'zentinel.html' | relative_link }})
 
 [Svix](https://www.thesvix.com/)
 - Terra, Gale, Zephyr
@@ -147,7 +148,7 @@ Makers that outsources there CNC machining of either blades, handles, or both. M
 - Telesto, Eupheme
 
 [NoloBuilds](https://nolobuilds.com/)
-- [Chioni]({{ '/balisongs/chioni.html' | relative_url }})
+- [Chioni]({{ '/balisongs/nolobb/chioni.html' | relative_url }})
 
 [NRB Knives](https://www.instagram.com/iamnotarealboy/)
 - Vortex, Ultralight, Slight, Nemesis
@@ -227,7 +228,7 @@ Makes completely custom designs per customer, with a few repeated themes (e.g., 
 - Revolution, Campanile, Backline, RoninWorks, BC, Industrial
 
 [Stitched Steel](https://www.instagram.com/stitchedsteel/)
-- Alien, [Paradigm]({{ '/balisongs/paradigm.html' | relative_link }}), Railgun
+- Alien, [Paradigm]({{ '/balisongs/stitchedsteel/paradigm.html' | relative_link }}), Railgun
 
 [Taylormania Knives](https://www.instagram.com/taylormaniaknives/)
 - Solidsong
