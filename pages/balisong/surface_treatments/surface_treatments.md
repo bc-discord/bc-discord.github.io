@@ -7,7 +7,7 @@ nav_order: 5
 
 # Surface Treatments
 
-If you want to find modders that can execute these finishes for your balisong parts, check the [Modders page]({% link pages/catalogs/modders.md %}).
+If you want to find modders that can execute these handle modifications for your balisong parts, check the [Modders page]({% link pages/catalogs/modders.md %}).
 
 ## Finishes
 ---
@@ -32,7 +32,7 @@ A <ins>finish</ins> is a particular styling of the surface of a metal by removin
 ---
 A <ins>coating</ins> is an encompassing material that is imparted onto the surface of the metal.
 
-- DLC (diamond-like carbon): Completely black coating applied to both handle and blade material. The most common way to get a shiny finish and a black coating for balisongs. Retains the underlying texture of the material.
+- DLC (diamond-like carbon): Completely black coating applied to both handle and blade material. The most common way to get a shiny finish and black coating for balisongs. Retains the underlying texture of the material.
     - Not possible for an individual to perform. Only a handful of companies provide this process; they only take batches. You can find people that pool together individual orders to make the submission to the company worthwhile.
 - PVD (physical vapor deposition):
 - Cerakote:
