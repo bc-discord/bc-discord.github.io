@@ -1,34 +1,51 @@
-# .github/workflows/deploy.yml
-
 name: Build and Deploy Jekyll Site
 
-# This action will trigger on every push to your 'main' branch.
 on:
   push:
-    branches:
-      - main
+    branches: [ main ]
 
 permissions:
-  contents: write
+  contents: read
+  pages: write          # required for deploy-pages
+  id-token: write       # required for deploy-pages OIDC
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: true
 
 jobs:
-  build_and_deploy:
-    runs-on: ubuntu-latest # Use the latest version of Ubuntu
+  build:
+    runs-on: ubuntu-latest
     steps:
       - name: Checkout 🛎️
-        uses: actions/checkout@v4 # Check out your repository's code
+        uses: actions/checkout@v4
 
       - name: Setup Ruby 💎
         uses: ruby/setup-ruby@v1
         with:
-          ruby-version: '3.1' # Use a specific Ruby version
-          bundler-cache: true # Automatically runs 'bundle install' and caches gems
+          ruby-version: '3.1'
+          bundler-cache: true
 
       - name: Build Jekyll Site 🔨
-        run: bundle exec jekyll build # Build the site with your custom plugin
+        run: |
+          JEKYLL_ENV=production bundle exec jekyll build
+          ls -lah _site && du -sh _site
 
-      - name: Deploy to GitHub Pages 🚀
-        uses: peaceiris/actions-gh-pages@v4
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./_site # The folder Jekyll builds to
+          path: _site
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages 🚀
+        id: deployment
+        uses: actions/deploy-pages@v4
