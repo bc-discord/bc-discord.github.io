@@ -24,6 +24,7 @@ availability: Available              # Exact: 'Available', 'Discontinued', 'Hiat
 retail: 215                  # Whole number
 drop_schedule: Every week         # Short descrption
 
+model_card_image: model_card.jpg
 has_ring: false
 
 # Overall

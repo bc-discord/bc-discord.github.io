@@ -48,10 +48,12 @@ Makers that CNC machine both blades and handles, typically finishes their parts 
 - Kite, Orion, Corvus, Sirius, Frank, Cygnus, Vixen
 
 [MachineWise](https://machinewise.com/)
-- Maryn, Slift, [Serif]({{ '/balisongs/serif.html' | relative_url }}), Prysma, Opus, Tottori, Sassori
+{% assign mw_path = '/balisongs/machinewise/' %}
+- Maryn, Slift, [Serif]({{ mw_path | append: 'serif.html' | relative_link }}), Prysma, Opus, Tottori, Sassori
 
 [Squid Industries](https://www.squidindustries.co/)
-- Squiddy, Mako, Triton, Nautilus [V2]({{ '/balisongs/nautilus_v2.html' | relative_link }}), Swordfish, Squidtrainer, Kraken, Madko, Hydro, Tsunami ([live]({{ '/balisongs/tsunami.html' | relative_url }}), trainer)
+{% assign si_path = '/balisongs/squid_industries/' %}
+- Squiddy, Mako, Triton, Nautilus [V2]({{ si_path | append: 'nautilus_v2.html' | relative_link }}), Swordfish, Squidtrainer, Kraken, Madko, Hydro, Tsunami ([live]({{ si_path | append: 'tsunami.html' | relative_link }}), trainer)
 
 ### Smaller
 
@@ -103,7 +105,8 @@ Makers that outsources there CNC machining of either blades, handles, or both. M
 ### Bigger
 
 [Bladerunners Systems (BRS)](https://www.bladerunnerssystems.com/)
-- [Replicant]({{ '/balisongs/replicant.html' | relative_url }}), [Alpha Beast]({{ '/balisongs/alpha_beast.html' | relative_url }}), Channel Alpha Beast, Barebones, Tibones
+{% assign brs_path = '/balisongs/brs/' %}
+- [Replicant]({{ brs_path | append: 'replicant.html' | relative_link }}), [Alpha Beast]({{ brs_path | append: 'alpha_beast.html' | relative_link }}), Channel Alpha Beast, Barebones, Tibones
 
 [EPS Knives](https://epsknives.com/)
 - Atlas, Wraith, 101

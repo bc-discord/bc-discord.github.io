@@ -11,7 +11,8 @@ start_year: 2014
 end_year: null
 availability: Available
 retail: 350
-drop_schedule: Few times a year
+drop_schedule: few times a year
+model_card_image: model_card.jpg
 
 has_ring: false
 
@@ -22,7 +23,7 @@ overall:
   description: null
   image:
     path: null
-    caption: ...
+    caption: null
 
 # Blade information
 blade:
@@ -43,7 +44,7 @@ blade:
     spine: Rounded
   image:
     path: null
-    caption: ...
+    caption: null
   description: null
 
 # Handle information

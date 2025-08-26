@@ -1,0 +1,82 @@
+{% assign bali = include.bali %}
+
+<div class="model-card" role="region" aria-label="Balisong model card">
+  <header class="mc-head">
+      <div class="mc-media">
+        <img
+          src="/assets/images/balisongs/{{ page.folder }}/{{ page.key }}/{{ bali.model_card_image }}"
+          loading="lazy" decoding="async"
+        >
+      </div>
+
+    <div class="mc-title">
+      <div class="mc-title-top">
+        <h1 class="mc-name">{{ bali.name }}</h1>
+
+        <!-- grouped: links + price -->
+        <div class="mc-side">
+          {% if  bali.links %}
+            <nav class="mc-links" aria-label="External links">
+              {% for l in bali.links %}
+                <a class="mc-link" href="{{ l.url | escape }}" rel="noopener">{{ l.name }}</a>
+              {% endfor %}
+            </nav>
+          {% endif %}
+          <div class="mc-commerce">
+            PRICE: <b>${{ bali.retail }}</b>
+          </div>
+        </div>
+      </div>
+
+      <p class="mc-maker">
+        <span class="mc-maker-name">{{ bali.maker }}</span>
+        <span class="mc-years">({{ bali.start_year }} - {{ bali.end_year }})</span>
+      </p>
+
+        <p class="mc-availability">
+          Availability:
+          <span class="status {{ bali.availability | downcase | replace: ' ', '-' }}">
+            {{ bali.availability }}
+          </span>
+          {% if bali.availability == 'Available' %}
+            <span class="mc-drop">({{ bali.drop_schedule }})</span>
+          {% endif %}
+        </p>
+    </div>
+  </header>
+
+  <div class="mc-body">
+    <!-- Row 1 -->
+    <section class="mc-group">
+      <div class="mc-item">
+        <div class="value">{{ bali.production }}</div>
+        <div class="hint">Production</div>
+      </div>
+      <div class="mc-item">
+        <div class="value">{{ bali.amount_made }}</div>
+        <div class="hint">Amount made (est.)</div>
+      </div>
+    </section>
+
+    <!-- Row 2: Stop + Pivot + Handle -->
+    <section class="mc-group">
+      <div class="mc-item">
+        <div class="value">{{ bali.pivot_system.type }}</div>
+        <div class="hint">Pivot system</div>
+      </div>
+      <div class="mc-item">
+        <div class="value">{{ bali.stop_system.type }}</div>
+        <div class="hint">Stop system</div>
+      </div>
+    </section>
+  </div>
+
+  <!-- Bottom bar: weight + length on the right -->
+  <footer class="mc-bottom">
+    <div class="mc-bottom-right">
+      WEIGHT: <b>{{ bali.overall.weight | format_mass: 2, bali.units }}</b>
+      <span class="mc-sep">·</span>
+      LENGTH: <b>{{ bali.overall.length | format_mass: 2, bali.units }}</b>
+    </div>
+  </footer>
+</div>
