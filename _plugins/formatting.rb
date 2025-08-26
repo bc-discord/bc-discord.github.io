@@ -54,7 +54,7 @@ module Jekyll
     def format_measure(input, decimals = 3, unit = "imperial")
       # Choose suffix up front
       unit_str = unit.to_s.downcase
-      suffix = (unit_str == "metric") ? " cm" : " in"
+      suffix = (unit_str == "metric") ? " mm" : " in"
 
       # Normalize token for quick checks
       token = input.to_s.strip.downcase
@@ -83,6 +83,10 @@ module Jekyll
       # Normalize decimals
       decimals = decimals.to_i
       decimals = 0 if decimals < 0
+
+      if unit = 'metric'
+        decimals = 1
+      end
 
       sprintf("%.#{decimals}f", num) + suffix
     end

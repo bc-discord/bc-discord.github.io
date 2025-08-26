@@ -45,7 +45,8 @@ Makers that CNC machine both blades and handles, typically finishes their parts 
 - Emissary, Litetech, Orca, Monarch, Embargo, Regime
 
 [LDY Balisong](https://ldybalisong.net/)
-- Kite, Orion, Corvus, Sirius, Frank, Cygnus, Vixen
+{% assign ldy_path = '/balisongs/ldy/' %}
+- Kite, Orion [V1.5]({{ ldy_path | append: 'orion_v1_5.html' | relative_link }}), Corvus, Sirius, Frank, Cygnus, Vixen
 
 [MachineWise](https://machinewise.com/)
 {% assign mw_path = '/balisongs/machinewise/' %}

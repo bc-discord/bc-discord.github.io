@@ -53,7 +53,7 @@
         <div class="hint">Production</div>
       </div>
       <div class="mc-item">
-        <div class="value">{{ bali.amount_made }}</div>
+        <div class="value">{{ bali.amount_made | default: '-' }}</div>
         <div class="hint">Amount made (est.)</div>
       </div>
     </section>

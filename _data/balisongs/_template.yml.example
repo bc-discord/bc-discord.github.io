@@ -23,6 +23,8 @@ availability: null                 # Exact: 'Available', 'Discontinued', 'Hiatus
 retail: null                  # Whole number
 drop_schedule: null         # Short descrption
 
+model_card_image: null
+
 has_ring: null
 
 # Overall
@@ -75,6 +77,9 @@ handle:
     coating: null                  # See blade equivalent.
   measurement:
     thickness: null          # Decimal number 
+    taper_thickness: null
+    width: null
+    taper_width: null
     length: null                 # Decimal number
     weight: null                 # Decimal number
   has_weight_system: null        # Sexbolts and screws on the end of channel handles counts as a weight system, but not if required for spacers. Exact: 'false', 'true'

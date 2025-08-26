@@ -1,0 +1,166 @@
+# Balisong Template
+
+# You fill in the null values. If you are not sure, leave it null.
+
+# Links: If no links are available, just set it as null. Must be done as list if links exist. Just one entry is acceptable.
+# (Example)
+# links:
+#   - name: TRUELINK: 
+#     url: https://thetruelink.com/products/250-od-x-188-id-bushing-xp
+
+# Possible means you can write alternative answers.
+# Exact means only these options, exactly as written.
+
+name: Orion V1.5
+maker: LDY
+amount_made: null       #  Estimate acceptable. Whole number
+production: CNC           # Possible: 'CNC', 'Midtech', 'Handmade'
+units: metric     # Exact: 'imperial', 'metric'
+links: 
+  - name: LDY
+    url: https://ldybalisong.net/collections/frontpage/products/sirius-v4-5
+start_year: null              # Whole number
+end_year: null                # Whole number
+availability: Available                 # Exact: 'Available', 'Discontinued', 'Hiatus'
+retail: 95                  # Whole number
+drop_schedule: null         # Short descrption
+model_card_image: model_card.jpg
+
+has_ring: false
+
+# Overall
+overall:
+  weight: 105.7                   # Decimal number
+  length: 254.40                     # Decimal number
+  description: null
+  image:
+    path: null
+    caption: null
+
+# Blade information
+blade:
+  shape: null 
+  material: 440C
+  surface:
+    finish: null       # Possible: 'Stonewashed', 'Tumbled', 'Blasted', 'Satin', 'Polished' 
+    media: null               # Possible: 'Zirconia', 'Sand', 'Bead', 'Glass'
+    coating: null              # Possible: 'DLC', 'PVD', 'Cerakote'
+  measurement:
+    length: 131.21           # Decimal number
+    thickness: 3.0     # Decimal number
+    weight: null            # Decimal number
+  has_trainer: true          # Exact: 'true', 'false'
+  is_trainer: false
+  edge:
+    tang: null                  # Exact: 'Rounded', 'Chamfered', 'None'
+    spine: null                # Exact: 'Rounded', 'Chamfered', 'None'
+  image:
+    path: null
+    caption: null
+  description: null
+
+# Handle information
+handle:
+  construction:
+    type: Sandwich     # Exact: 'Liners and Scales', 'Sandwich', 'Channel', 'Chanwich'
+    face: Flat
+    edge_break: Chamfered    # Exact: 'Rounded', 'Chamfered', 'Rounded and Chamfered'
+    taper:
+      height: false          # Exact: 'false', 'true'
+      width: true              # Exact: 'false', 'true'
+  material:
+      frame: 7075 Aluminum      # Possible: 'Titanium', 'Aluminum', 'CF', 'G10'
+      liner: N/A       # Leave null if not applicable.
+      scale: N/A       # Leave null if not applicable.
+  surface: 
+    finish: null                # See blade equivalent.
+    media: null                   # See blade equivalent.
+    coating: Ceramic Coating                       # See blade equivalent.
+  measurement:
+    thickness: 12.6          # Decimal number 
+    width: 14.0
+    taper_width: 10.0
+    length: 140.0                 # Decimal number
+    weight: null                 # Decimal number
+  has_weight_system: false        # Sexbolts and screws on the end of channel handles counts as a weight system, but not if required for spacers. Exact: 'false', 'true'
+  has_spacers: true             # Exact: 'false', 'true'
+  image:
+    path: null
+    caption: null
+  description: null
+
+spacer:
+  material: 7075 Aluminum                 
+  thickness: 4.0
+  description: null
+  image:
+    path: null
+    caption: null
+
+# Stop system
+stop_system: 
+  type: Hidden Zen Pins         # Exact: 'Screwed Zen Pins', 'Pressed Zen Pins', 'Hidden Zen Pins', 'Pressed Tang Pins', 'Screwed Tang Pins'
+  threading: N/A       # Must use slash, not dash. Example: 5/32.
+  sexbolt: 
+    length: null
+    thickness: null
+    links: 
+      - name: LDY
+        url: https://ldybalisong.net/collections/%E5%85%B6%E4%BB%96%E5%95%86%E5%93%81/products/%E7%8C%8E%E6%88%B7%E5%BA%A7-v1-%E9%9B%B6%E4%BB%B6
+  screw:
+    length: null
+    links: null
+
+# Pivot system
+pivot_system: 
+  type: Bushings               # Exact: 'Washers', 'Bearings', 'Bushings'
+  washer:
+    OD: 10.0
+    ID: 5.05
+    thickness: .8
+    links: 
+      - name: LDY
+        url: https://ldybalisong.net/collections/%E5%85%B6%E4%BB%96%E5%95%86%E5%93%81/products/%E7%8C%8E%E6%88%B7%E5%BA%A7-v1-%E9%9B%B6%E4%BB%B6
+  bushing:
+    OD: 7.5
+    ID: 5.0
+    thickness: 3.04
+    links: 
+      - name: LDY
+        url: https://ldybalisong.net/collections/%E5%85%B6%E4%BB%96%E5%95%86%E5%93%81/products/%E7%8C%8E%E6%88%B7%E5%BA%A7-v1-%E9%9B%B6%E4%BB%B6
+  bearing:
+    name: N/A
+    links: null
+
+pivot:
+  threading: M4.0
+  sexbolt:
+    length: 6.5
+    diameter: 5.0
+    links: 
+      - name: LDY
+        url: https://ldybalisong.net/collections/%E5%85%B6%E4%BB%96%E5%95%86%E5%93%81/products/%E7%8C%8E%E6%88%B7%E5%BA%A7-v1-%E9%9B%B6%E4%BB%B6
+  screw:
+    length: 6.0
+    links: null
+
+# Body specs
+body:
+  threading: M4.0
+  sexbolt:
+    length: 6.5
+    diameter: 5.0
+    links: 
+      - name: LDY
+        url: https://ldybalisong.net/collections/%E5%85%B6%E4%BB%96%E5%95%86%E5%93%81/products/%E7%8C%8E%E6%88%B7%E5%BA%A7-v1-%E9%9B%B6%E4%BB%B6
+  screw:
+    length: 6.0
+    links: 
+      - name: LDY
+        url: https://ldybalisong.net/collections/%E5%85%B6%E4%BB%96%E5%95%86%E5%93%81/products/%E7%8C%8E%E6%88%B7%E5%BA%A7-v1-%E9%9B%B6%E4%BB%B6
+
+# Variants
+variant_1:
+  name: null
+  links: null
+  differences: null

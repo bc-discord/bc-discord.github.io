@@ -46,7 +46,7 @@ layout: default
 | -- | -- | -- |
 | Shape | {{ bali.blade.shape }}  | Tang edge: {{ bali.blade.edge.tang }} <br> Spine edge: {{ bali.blade.edge.spine }} |
 | Material | {{ bali.blade.material }} | {{ finish_str }} |
-| Measurements | Length: {{ bali.blade.measurement.length | format_measure: 2 }}<br>Weight: {{ bali.blade.measurement.weight | format_mass: 2 }}<br>Thickness: {{ bali.blade.measurement.thickness | format_measure: 3, uint }} |
+| Measurements | Length: {{ bali.blade.measurement.length | format_measure: 2, unit }}<br>Weight: {{ bali.blade.measurement.weight | format_mass: 2, unit }}<br>Thickness: {{ bali.blade.measurement.thickness | format_measure: 3, unit }} |
 | Has trainer variant? | {{ bali.blade.has_trainer }} |
 
 ## Handles
@@ -83,7 +83,7 @@ layout: default
 | -- | -- | -- | -- |
 | Handles | Construction | {{ bali.handle.construction.type }} | Face: {{ bali.handle.construction.face}} <br> Edge break: {{ bali.handle.construction.edge_break }} <br> Width taper: {{ bali.handle.construction.taper.width }} <br> Height taper: {{ bali.handle.construction.taper.height }} |
 | | Material | Frame: {{ bali.handle.material.frame }} <br> Liner: {{ bali.handle.material.liner }} <br> Scale: {{ bali.handle.material.scale }} | {{ finish_str }} |
-| |Measurements | Thickness: {{ h_m.thickness | format_measure: 2 }} <br> Width: {{ h_m.width | format_measure: 2 }} <br> Length: {{ h_m.length | format_measure: 2 }} | Tapered thickness: {{ h_m.taper_thickness | format_measure: 2, unit }} <br> Tapered width: {{ h_m.taper_width | format_measure: 2, unit }} |
+| |Measurements | Thickness: {{ h_m.thickness | format_measure: 2, unit }} <br> Width: {{ h_m.width | format_measure: 2, unit }} <br> Length: {{ h_m.length | format_measure: 2, unit }} | Tapered thickness: {{ h_m.taper_thickness | format_measure: 2, unit }} <br> Tapered width: {{ h_m.taper_width | format_measure: 2, unit }} |
 | | Has weight system? | {{ bali.handle.has_weight_system }} |
 {% if bali.handle.has_spacers -%}
 | Spacer | Material |{{ bali.spacer.material }} |  |
