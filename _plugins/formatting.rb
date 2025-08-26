@@ -41,6 +41,10 @@ module Jekyll
         nil
       end
 
+      if unit == 'metric'
+        decimals = 1
+      end
+
       # Non-numeric -> dash with unit
       return "-" + suffix if num.nil?
 
@@ -84,7 +88,7 @@ module Jekyll
       decimals = decimals.to_i
       decimals = 0 if decimals < 0
 
-      if unit = 'metric'
+      if unit == 'metric'
         decimals = 1
       end
 
