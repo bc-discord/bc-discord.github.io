@@ -30,7 +30,7 @@
 
       <p class="mc-maker">
         <span class="mc-maker-name">{{ bali.maker }}</span>
-        <span class="mc-years">({{ bali.start_year }} - {{ bali.end_year }})</span>
+        <span class="mc-years">({{ bali.start_year | default: 'XXXX' }} - {{ bali.end_year | default: 'XXXX' }})</span>
       </p>
 
         <p class="mc-availability">
@@ -39,7 +39,7 @@
             {{ bali.availability }}
           </span>
           {% if bali.availability == 'Available' %}
-            <span class="mc-drop">({{ bali.drop_schedule }})</span>
+            <span class="mc-drop">({{ bali.drop_schedule | default: '???' }})</span>
           {% endif %}
         </p>
     </div>
