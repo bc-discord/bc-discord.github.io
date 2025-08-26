@@ -1,0 +1,31 @@
+# .github/workflows/deploy.yml
+
+name: Build and Deploy Jekyll Site
+
+# This action will trigger on every push to your 'main' branch.
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build_and_deploy:
+    runs-on: ubuntu-latest # Use the latest version of Ubuntu
+    steps:
+      - name: Checkout 🛎️
+        uses: actions/checkout@v4 # Check out your repository's code
+
+      - name: Setup Ruby 💎
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.1' # Use a specific Ruby version
+          bundler-cache: true # Automatically runs 'bundle install' and caches gems
+
+      - name: Build Jekyll Site 🔨
+        run: bundle exec jekyll build # Build the site with your custom plugin
+
+      - name: Deploy to GitHub Pages 🚀
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./_site # The folder Jekyll builds to
