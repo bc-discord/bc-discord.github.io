@@ -18,6 +18,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
+safe: false
+
 title: Balisong Wiki
 description: >- # this means to ignore newlines until "baseurl:"
   Small wiki for the Balisong Community discord server.
@@ -28,6 +30,7 @@ github_username:  bc-discord
 
 # Build settings
 # theme: just-the-docs
+plugins_dir: _plugins
 remote_theme: just-the-docs/just-the-docs
 
 plugins:
