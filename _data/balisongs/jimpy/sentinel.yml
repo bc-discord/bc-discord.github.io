@@ -24,6 +24,7 @@ end_year: 2023                # Whole number
 availability: Discontinued                 # Exact: 'Available', 'Discontinued', 'Hiatus'
 retail: 450                  # Whole number
 drop_schedule: Every week         # Short descrption
+model_card_image: sentinel_m_c.jpg
 
 has_ring: false
 
