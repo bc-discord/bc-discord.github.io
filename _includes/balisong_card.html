@@ -1,5 +1,13 @@
 {% assign bali = include.bali %}
 
+{% if bali.end_year %}
+  {% assign end_year = bali.end_year %}
+{% elsif bali.start_year %}
+  {% assign end_year = "Present" %}
+{% else %}
+  {% assign end_year = "XXXX" %}
+{% endif %}
+
 <div class="model-card" role="region" aria-label="Balisong model card">
   <header class="mc-head">
       <div class="mc-media">
@@ -30,7 +38,7 @@
 
       <p class="mc-maker">
         <span class="mc-maker-name">{{ bali.maker }}</span>
-        <span class="mc-years">({{ bali.start_year | default: 'XXXX' }} - {{ bali.end_year | default: 'XXXX' }})</span>
+        <span class="mc-years">({{ bali.start_year | default: 'XXXX' }} - {{ end_year }})</span>
       </p>
 
         <p class="mc-availability">
