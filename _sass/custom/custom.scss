@@ -1,5 +1,5 @@
 .model-card{
-  --bg:#0b0c10; --fg:#e6e6e6; --muted:#9aa0a6; --ring:#5eead4; --bd:rgba(255,255,255,.08);
+  --bg:#ffffff; --fg:#0b0c10; --muted:#5f6368; --ring:#5eead4; --bd:rgba(0,0,0,.08);
   background:var(--bg); color:var(--fg);
   border:1px solid var(--bd); border-radius:1rem;
   padding:1.25rem; max-width:900px; margin:2rem auto;
@@ -62,9 +62,4 @@
   .mc-title-top{flex-direction:column; align-items:flex-start;}
   .mc-side{align-items:flex-start; min-width:unset;}
   .mc-links{justify-content:flex-start;}
-}
-
-/* Light mode */
-@media (prefers-color-scheme:light){
-  .model-card{--bg:#ffffff; --fg:#0b0c10; --muted:#5f6368; --bd:rgba(0,0,0,.08);}
 }
