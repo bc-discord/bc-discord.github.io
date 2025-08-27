@@ -13,7 +13,7 @@
 name: Tsunami
 maker: Squid Industries
 units: imperial
-amount_made: 300s       #  Estimate acceptable. Whole number
+amount_made: 500s       #  Estimate acceptable. Whole number
 production: CNC           # Possible: 'CNC', 'Midtech', 'Handmade'
 links: 
   - name: Squid Industries
