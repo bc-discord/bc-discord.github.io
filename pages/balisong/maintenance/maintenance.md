@@ -121,18 +121,21 @@ There are some pinless designs that replace the contact point on the handles wit
   display: grid;
   grid-template-columns: repeat(2, minmax(0, 1fr));
   gap: 1rem;
-  align-items: start;
 }
 
-.image-row.squares > .image { text-align: initial; }
+.image-row.squares > .image { 
+  text-align: initial;
+  }
 
 /* keep the image itself centered if you like */
 .image-row.squares > .image img {
   display: block;
-  margin-inline: auto;   /* center the image only */
+  margin-inline: auto;
   width: 100%;
   aspect-ratio: 1/1;
   object-fit: cover;
+  /* justify-content: center; */
+  /* max-width: 150px; */
 }
 
 /* left-align caption + nice wrapping */
@@ -141,5 +144,6 @@ There are some pinless designs that replace the contact point on the handles wit
   overflow-wrap: break-word;
   word-break: normal;
   hyphens: auto;
+  font-size: .8rem;
 }
 </style>
