@@ -17,11 +17,11 @@ nav_order: 1
 - [What countries are safe to ship whole balisongs to?]({% link pages/sales/safety_guide/seller.md %}#international-shipping)
 
 ### Where
-- Where do I go to buy balisongs?
-    - [Direct?]({% link pages/catalogs/makers.md %})
-    - [Retailers?]({% link pages/sales/sales.md %}#retailer)
-- [Where do I buy/sell my balisongs in the aftermarket?]({% link pages/sales/sales.md %}#secondhand-platforms)
-- [Where do I go to meet other flippers?]({% link pages/events.md %})
+- Where do I go to buy balisongs . . .
+    - [from retailers?]({% link pages/sales/sales.md %}#retailer)
+    - [directly?]({% link pages/catalogs/makers.md %})
+    - [secondhand?]({% link pages/sales/sales.md %}#secondhand-platforms)
+- [Where do I go to meet other flippers in-person?]({% link pages/events.md %})
 
 ### Why
 - [Why are balisongs expensive?]({% link pages/questions/why_expensive.md %})
