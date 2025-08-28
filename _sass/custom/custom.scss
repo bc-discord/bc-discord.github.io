@@ -103,7 +103,7 @@
     .mc-length-value{font-weight:600;}
 
 /* Responsive */
-@container (max-width:576px){
+@container (max-width:540px){
   .mc-head{grid-template-columns:1fr;}
     .mc-head-media{
       margin-left:auto;

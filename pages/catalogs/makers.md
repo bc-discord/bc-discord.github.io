@@ -83,7 +83,7 @@ Balisongs go by the blade shape, handles largely the same.
 - Ion, Static, Voltaic, Galvanis
 
 [Geof Dumas](https://gdktllc.com/)
-- [EX]({{ '/balisongs/ex.html' | relative_url }})
+- [EX]({{ '/balisongs/geof_dumas/ex.html' | relative_url }})
 
 [Hazetac](https://hazetac.com/)
 - DMC, Jesus Devil, Jigsaw, Carlo
