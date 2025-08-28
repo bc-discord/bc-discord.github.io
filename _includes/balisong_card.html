@@ -8,48 +8,50 @@
   {% assign end_year = "XXXX" %}
 {% endif %}
 
+{% assign b_status = bali.availability | downcase %}
+
 <div class="model-card" role="region" aria-label="Balisong model card">
   <header class="mc-head">
-      <div class="mc-media">
-        <img
-          src="/assets/images/balisongs/{{ page.folder }}/{{ page.key }}/{{ bali.model_card_image }}"
-          loading="lazy" decoding="async"
-        >
-      </div>
-
-    <div class="mc-title">
-      <div class="mc-title-top">
-        <h1 class="mc-name">{{ bali.name }}</h1>
-
-        <!-- grouped: links + price -->
-        <div class="mc-side">
-          {% if  bali.links %}
-            <nav class="mc-links" aria-label="External links">
-              {% for l in bali.links %}
-                <a class="mc-link" href="{{ l.url | escape }}" rel="noopener">{{ l.name }}</a>
-              {% endfor %}
-            </nav>
+    <div class="mc-head-media">
+      <img src="/assets/images/balisongs/{{ page.folder }}/{{ page.key }}/{{ bali.model_card_image }}" loading="lazy" decoding="async">
+    </div>
+    
+    <div class="mc-head-text">
+      <div class="mc-head-top-half">
+        <div class="mc-name-year">
+          <span class="mc-name">{{ bali.name }}</span>
+          <p class="mc-maker-line">
+            <span class="mc-maker">{{ bali.maker }}</span>
+            <span class="mc-years">({{ bali.start_year | default: 'XXXX' }} - {{ end_year }})</span>
+          </p>
+        </div>
+        <div class="mc-price-links">
+          {% if bali.links %}
+          <nav class="mc-links" aria-label="External links">
+            {% for l in bali.links %}
+              <a class="mc-link" href="{{ l.url | escape }}" rel="noopener">{{ l.name }}</a>
+            {% endfor %}
+          </nav>
           {% endif %}
-          <div class="mc-commerce">
-            PRICE: <b>${{ bali.retail }}</b>
-          </div>
+          <p class="mc-price">
+            <span class="mc-price-name">PRICE: </span> <span class="mc-price-value">${{ bali.retail }}</span>
+          </p>
         </div>
       </div>
 
-      <p class="mc-maker">
-        <span class="mc-maker-name">{{ bali.maker }}</span>
-        <span class="mc-years">({{ bali.start_year | default: 'XXXX' }} - {{ end_year }})</span>
-      </p>
-
-        <p class="mc-availability">
-          Availability:
-          <span class="status {{ bali.availability | downcase | replace: ' ', '-' }}">
-            {{ bali.availability }}
-          </span>
-          {% if bali.availability == 'Available' %}
-            <span class="mc-drop">({{ bali.drop_schedule | default: '???' }})</span>
-          {% endif %}
+      <div class="mc-head-bottom-half">
+        <p class="mc-status">
+          <span class="mc-status-text">Status:</span>
+          <span class="mc-status-value {{ b_status | replace: ' ', '-' }}">{{ bali.availability }}</span>
         </p>
+
+        {% if b_status contains 'available' %}
+        <p class="mc-ds">
+          <span class="mc-ds-text">Drop schedule:</span>
+          <span class="mc-ds-value">{{ bali.drop_schedule | default: '???' }}</span>
+        </p>
+        {% endif %}
+      </div>
     </div>
   </header>
 
@@ -66,7 +68,7 @@
       </div>
     </section>
 
-    <!-- Row 2: Stop + Pivot + Handle -->
+    <!-- Row 2 -->
     <section class="mc-group">
       <div class="mc-item">
         <div class="value">{{ bali.pivot_system.type }}</div>
@@ -81,10 +83,12 @@
 
   <!-- Bottom bar: weight + length on the right -->
   <footer class="mc-bottom">
-    <div class="mc-bottom-right">
-      WEIGHT: <b>{{ bali.overall.weight | format_mass: 2, bali.units }}</b>
-      <span class="mc-sep">·</span>
-      LENGTH: <b>{{ bali.overall.length | format_measure: 2, bali.units }}</b>
-    </div>
+    <p class="mc-bottom-right"> 
+      <span class="mc-weight-text">WEIGHT: </span> 
+      <span class="mc-weight-value">{{ bali.overall.weight | format_mass: 2, bali.units }}</span>
+      ·
+      <span class="mc-length-text">LENGTH: </span> 
+      <span class="mc-length-value">{{ bali.overall.length | format_mass: 2, bali.units }}</span>
+    </p>
   </footer>
 </div>
