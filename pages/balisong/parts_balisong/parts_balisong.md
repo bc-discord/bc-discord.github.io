@@ -13,6 +13,9 @@ parent: Balisong
 - Bite handle: The handle that closes over the edge of the blade.
 - Safe handle: The handle that closes over the spine of the blade.
 - Jimping: Ridges or slots usually found on the sides of the handle ends to improve grip while doing ladder tricks.
+- Weight System: When a balisong accepts extra hardware in the handles to modify the balance. They come in the form of
+    - extra metal pins (e.g., Tsunami)
+    - holes for sexbolts and screws (e.g., Hellcat)
 
 ### Handle Construction
 - Channel: A handle construction made from a single piece of material per handle with a channel running down it for the blade to fit into.
