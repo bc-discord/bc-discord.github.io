@@ -40,6 +40,7 @@ parent: Balisong
 
 ### Tolerances
 - Tap: When the blade hits the side of the inside handles and makes a tapping sound.
+- Binding: When a full crank of screws on a bushing balisong causes the handle motion to seize to any degree.
 - Play: The ability for the handles to move laterally due to tolerances.
 - Handle Slap: When the handles hit each other.
 - Blade Rub: When the blade edge hits any part of the handles, causing damage. 
