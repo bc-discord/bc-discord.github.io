@@ -137,14 +137,9 @@ There are some pinless designs that replace the contact point on the handles wit
 
 /* left-align caption + nice wrapping */
 .image-row.squares > .image figcaption {
-  text-align: start;           /* left in LTR, right in RTL */
-  overflow-wrap: break-word;   /* break long words if needed */
+  text-align: start;
+  overflow-wrap: break-word;
   word-break: normal;
   hyphens: auto;
-}
-
-/* Stack on small screens */
-@media (max-width: 700px) {
-  .image-row.squares { grid-template-columns: 1fr; }
 }
 </style>
