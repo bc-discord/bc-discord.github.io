@@ -64,10 +64,10 @@ Demos:
 
 ## Hardware
 
-Alternative to using a fastener, you may opt to replace your hardware with fine-pitch hardware. The typical threading for screws and sexbolts is 6-32, but you may find 6-64 from several [hardware sellers]({{ 'maintenance.html' | relative_link }}#hardware). The denser threading yield a better clamping force, fastening your hardware better. Additionally, you will find that a looser tune becomes a tighter tune (degree varies); the tune may become too tight, and a retune is required.
+Alternative to using a fastener, you may opt to replace your hardware with fine-pitch hardware. The typical threading for screws and sexbolts is 6-32, but you may find 6-64 from several [hardware sellers]({{ 'maintenance.html' | relative_link }}#hardware). The denser threading yields a better clamping force, fastening your hardware better. Additionally on bushings, you will find a looser tune tighening up (degree varies); the bushings may become undersized, and a retune is required.
 
-1. Find fine-pitch hardware with the same diameter and close enough length. You can potentially buy hardware at a longer/shorter length, but 
+1. Find fine-pitch hardware with the same diameter and length. You can potentially buy sexbolts at a shorter/longer length, but 
     - the screws must be long enough
-    - the sexbolts ends must not reach the counterbore for the screw, otherwise your balisong pivot system won't clamp down together
+    - the sexbolts ends must not reach the counterbore for the screw, otherwise your pivot system won't clamp down together
 2. Replace pivot system with fine-pitch hardware.
 2. [Retune your bushings]({{ 'pivot_system/pivot_system.html' | relative_link }}#tuning-1) if your balisong is binding. 
