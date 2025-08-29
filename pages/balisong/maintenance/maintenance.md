@@ -45,7 +45,7 @@ Washers are thin, circular, small pieces of metal with a hole that sits between 
 
 **Be careful** with these metal washers:
 
-- Titanium washers: Wear-and-tear will fuse the washers and into titanium handles.
+- Titanium washers: Wear-and-tear will fuse the washers into titanium handles.
 - Steel washers: Steel washers do hold their tune much longer than PB washers, but under-lubrication causes the washers to eat into the blade.
 
 #### Tuning
@@ -62,7 +62,7 @@ Tuning a washers-only balisong is simple.
 
 ### Bushings
 
-<ins>Bushings</ins> are metal cylinders that sit within the blade pivot blades and are sandwich between the washers then the handles. Bushings minimize damage to the handles and blade by acting as a intermediate between the washer and the blade.
+<ins>Bushings</ins> are metal cylinders that sit within the blade pivot blades and are sandwich between the washers then the handles. Bushings minimize damage to the handles and blade by acting as a intermediate between the washer and the blade; they also keep a tight tune by being much stronger than the washer material.
 
 The bushing itself maintains tolerances for a long ass time, you don't need to swap these out unless the initial tune is bad. The only thing you need to do is
 - lubricate the pivots
@@ -81,7 +81,7 @@ To tune your bushings, you need
 1. Lay some sandpaper onto the flat surface.
 2. Pick one side of the bushing to work on. **Be consistent**.
 3. Lay the bushing onto the sandpaper and move in a circle to remove material. **Do not press down hard**; if you hand or bushing is slipping off the sandpaper, press softer.
-4. Constantly check if you have removed too much material by reconstructing your balisong. For the final check, use fresh washers.
+4. Constantly check if you have removed too much material by rebuilding your balisong. You must use fresh washers everytime as the bushings will crimp the washers a different way on every build.
 
 This a barebone description of how you can tune bushings. If you want consistent and accurate bushing tunes, get 
 - several sheets of sandpaper at different grit levels (e.g., 200, 500, and 1000); as you get closer to blade thickness, increase the grit level for some breathing room
@@ -93,7 +93,11 @@ This a barebone description of how you can tune bushings. If you want consistent
 Your <ins>stop system</ins> prevents the handles and blade from slapping into each other; typically small, metal dowels are put into either the blade or handles to accomplish this.
 
 ### Zen pins
-When the stop pins lie in the handles, that is a <ins>zen pin</ins> system. The HRC of the zen pins should match with the blade's so they last long. There are 3 variants of them:
+When the stop pins lie in the handles, that is a <ins>zen pin</ins> system. 
+
+{% include image_strip.html urls="kraken.jpg, telesto.jpg, ex.jpg" description="Example of different zen pin implementations. From left to right, a Squid Industries Kraken with pressed zen pins, a Henninger Designs Telesto with screwed zen pins, and a Geof Dumas EX." %}
+
+The HRC of the zen pins should match with the blade's so they last long. There are 3 variants of them:
 - Pressed: When the pins are <ins>pressed</ins> into the handles with tooling. 
   - **Maintenance**: Requires an extra set of zen pins to replace and an arbor press. You will most likely pay the maker to replace the pins.
 - Screwed: When the pins are <ins>screws</ins> that go into one/two-sided sexbolts (possibly with a lip). 
@@ -103,7 +107,11 @@ When the stop pins lie in the handles, that is a <ins>zen pin</ins> system. The 
 
 ### Tang pins
 
-When the stop pins lie in the blade, that is a <ins>tang pin</ins> system. This system outperforms zen pins on longevity (on a single charge) when the pins match the HRC of the handles; soft-on-soft interaction wears down the least material compared to hard-on-hard interaction. Two variants exist for tang pins:
+When the stop pins lie in the blade, that is a <ins>tang pin</ins> system. 
+
+{% include image_strip.html urls="tang_pins.jpg" description="Example of pressed tang pins on a Jimpy Sentinel." %}
+
+This system outperforms zen pins on longevity (on a single charge) when the pins match the HRC of the handles; soft-on-soft interaction wears down the least material compared to hard-on-hard interaction. Two variants exist for tang pins:
 
 - Pressed: When the pins are <ins>pressed</ins> into the blade. 
   - **Maintenance**: You must have replacement pins and an arbor press. Typically, you will pay the maker to replace them.
@@ -117,40 +125,4 @@ When the handles and blade are designed to contact on the blade tang without pin
 
 There are some pinless designs that replace the contact point on the handles with a replacable part. By construction, it is still pinless as the part is not a pin, but it detracts from the hardware-less essence of a pinless design, as an intermediate part exists now, a proprietary part even harder to replace than a simple metal pin.
 
-<div class="image-row squares">
-  {% include image_caption.html url="fioreknives_pinless_open.jpg" description="Example of a pinless system on titanium + zirconium damascus handles with a titanium replacable part by [Fiore Knives](https://www.instagram.com/fioreknives/p/CW6Mom-sdQI/?img_index=2)." %}
-  {% include image_caption.html url="fioreknives_pinless_closed.jpg" description="Of the other side." %}
-</div>
-
-<style>
-/* Two equal-width columns */
-.image-row.squares {
-  display: grid;
-  grid-template-columns: repeat(2, minmax(0, 1fr));
-  gap: 1rem;
-}
-
-.image-row.squares > .image { 
-  text-align: initial;
-  }
-
-/* keep the image itself centered if you like */
-.image-row.squares > .image img {
-  display: block;
-  margin-inline: auto;
-  width: 100%;
-  aspect-ratio: 1/1;
-  object-fit: cover;
-  /* justify-content: center; */
-  /* max-width: 150px; */
-}
-
-/* left-align caption + nice wrapping */
-.image-row.squares > .image figcaption {
-  text-align: start;
-  overflow-wrap: break-word;
-  word-break: normal;
-  hyphens: auto;
-  font-size: .8rem;
-}
-</style>
+{% include image_strip.html urls="fioreknives_pinless_open.jpg, fioreknives_pinless_closed.jpg" description="Example of a pinless system on titanium + zirconium damascus handles with a titanium replacable part by [Fiore Knives](https://www.instagram.com/fioreknives/p/CW6Mom-sdQI/?img_index=2)." %}

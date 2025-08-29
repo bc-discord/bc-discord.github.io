@@ -121,7 +121,31 @@
         }
 }
 
+.image-strip { 
+  margin: 1rem 0; 
+}
+.image-strip .strip {
+  display: flex;
+  justify-content: center;
+  gap: .6rem;
+  padding-bottom: .25rem;
+  padding-top: .5rem;
+}
+.image-strip .strip img {
+  display: block;
+  object-fit: cover;
+  width:100%;  max-width:150px; 
+  aspect-ratio: 1 / 1;
+}
+.image-strip figcaption {
+  text-align: center;
+  font-size: .85rem;
+  margin-top: .5rem;
+}
 
-
-
-
+.image-strip.full-width img {
+  width: auto;
+  aspect-ratio: auto;
+  max-width:100%;
+  object-fit: contain;
+}

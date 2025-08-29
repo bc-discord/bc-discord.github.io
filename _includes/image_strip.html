@@ -1,0 +1,13 @@
+<figure class="image-strip {{ include.class }}">
+  <div class="strip">
+    {% assign urls = include.urls | split: "," %}
+    {% for u in urls %}
+      <img src="{{ u | strip }}" alt="{{ include.alt | default: "" }}">
+    {% endfor %}
+  </div>
+  {% if include.description %}
+    <figcaption><strong>Caption:</strong>
+      {{ include.description | markdownify | remove: "<p>" | remove: "</p>" }}
+    </figcaption>
+  {% endif %}
+</figure>

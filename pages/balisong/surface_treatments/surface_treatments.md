@@ -49,7 +49,4 @@ An <ins>anodization</ins> is an electrochemical process that uses electricity in
 - Titanium: A thin oxide layer that reflects a wide range of pretty colors; the thickness of the oxide layer dictating the color reflected.
     - Accomplished easily with cheap materials by any modder.
 
-{% include image_caption.html url="./fellowship_blades2025_08_23_13_41_068e19fa75-a72d-4c45-a386-29de4889ecd0.jpg" description="Range of Titanium anodization colors from low voltage gold all the way to high voltage green, on Medusa handles. Credit to [Fellowship Blades](https://www.instagram.com/p/CWWUta-vNl8/) for sharing his reference board." %}
-
-
-    
+{% include image_strip.html urls="fellowship_ano_board.jpg" description="Range of Titanium anodization colors from low voltage gold all the way to high voltage green, on Medusa handles. Credit to [Fellowship Blades](https://www.instagram.com/p/CWWUta-vNl8/) for sharing his reference board." class="full-width" %}

@@ -10,7 +10,7 @@ These recommended balisongs have some of these qualities:
 
 - good value - good material, construction, and feature (e.g., jimping) for the price; the most important factor for being on this list
 - close to a neutral balance, well-tolerated balances by any flipper
-- consistently made with good quality control
+- good design; consistently made with good quality control
 - purchasable directly from the maker or easy to find second-hand
 - easy to service and find replacement hardware
 
@@ -43,6 +43,7 @@ These recommendations are geared for the U.S. market; outside of the U.S., it's 
 ### $601 - $800
 - **MachineWise**: Serif · $700 · Available · ✦✦✦✦✦
 - **Squid Industries**: Tsunami · $750 · Available · ✦✦✦✦✦
+    - Very comfortable rounded handles with chamfering. 
 
 ### $801+
 This is where quality levels off. At this juncture, you're buying into variety of designs and craftsmanship (midtech/handmade).
@@ -69,8 +70,8 @@ This is where quality levels off. At this juncture, you're buying into variety o
     - Pretty handle bias but favored for tech flipping. Al channel with CF/G10 scales makes it a subpar beater. Harder to service with pressed pins.
 
 ### $301 - $500
-- **Squid Industries**: Tsunami Trainer · $475 · Available · ✦✦✦✦✧
-    - More blade bias than live counterpart.
+- **Squid Industries**: Tsunami Trainer · $475 · Available · ✦✦✦✧✧
+    - Pretty much all the good things of the Tsunami but with a few quirks. More blade bias than live counterpart. The blade is not hardened; not a good beater.
 
 ### $501+
 Why?
