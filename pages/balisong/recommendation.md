@@ -17,12 +17,11 @@ These recommended balisongs have some of these qualities:
 These recommendations are geared for the U.S. market; outside of the U.S., it's tough to recommended a balisong since the U.S. has the most buyers and makers in the community. All prices are in retail USD; you can expect these to be cheaper second-hand.
 
 ## Live Blades
----
 ### < $50
 
 ### $51 - $100
 - **LDY**: Orion V1.5 · $95 · Available · ✦✦✦✦✧
-    - Not a good beater because of Al sandwich construction.
+    - Pretty good flipper. Not a good beater because of Al sandwich construction.
 
 ### $101 - $200
 - **LDY**: Sirius V4.5 · $155 · Available · ✦✦✦✦✧
@@ -48,8 +47,10 @@ These recommendations are geared for the U.S. market; outside of the U.S., it's 
 ### $801+
 This is where quality levels off. At this juncture, you're buying into variety of designs and craftsmanship (midtech/handmade).
 
-## Trainers
 ---
+
+## Trainers
+
 ### < $50
 - **Nabalis**: Impulse · $45 · Available · ✦✦✦✦✧
     - Pins fall out, like most cheaper Nabalis balisongs.
