@@ -63,7 +63,11 @@ To tune your bushings, you need
 3. Lay the bushing onto the sandpaper and move in a circle to remove material. **Do not press down hard**; if you hand or bushing is slipping off the sandpaper, press softer.
 4. Constantly check if you have removed too much material by assembling your balisong. You must use fresh washers everytime as the bushings will crimp the washers a different way on every assemble.
 
-This a barebone description of how you can tune bushings. If you want consistent and accurate bushing tunes, get 
+This is a barebones description of tuning your bushings. If you want consistent and accurate bushing tunes, get 
 - several sheets of sandpaper at different grit levels (e.g., 200, 500, and 1000); as you get closer to blade thickness, increase the grit level for some breathing room
 - a measurement tool (e.g., micrometer) to dial in the exact thickness and to save on washers when reassembling
 - a [bushing lap](https://usaknifemaker.com/pivot-lap-basic-knifedogs-5-bushing-model.html) or [bushing buddy](https://www.squidindustries.co/products/bushing-buddy) to sand your bushings parallel to your flat surface and perpendicular (thickness length is at a right angle to the width of circle)
+
+There's a few tricks you can employ to get a tigher tune:
+- replacing steel washers with PB washers; softer metal washers will crimp more than steel
+- replacing the pivot hardware with fine-pitch hardware; the denser threading gives a stronger clamping force

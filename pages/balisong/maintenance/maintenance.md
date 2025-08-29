@@ -28,3 +28,7 @@ Most hardware you find has the Replicant-style pivot specifications, so chances 
 
 {: .note }
 > If you are looking for hardware specifications and can't find it on the website, check out [Ben Parli's Googlesheet](https://docs.google.com/spreadsheets/u/2/d/1cYnDv67BTD9H8wd7D-R_URGXYq3AGT3MotrVE4OX6Js/htmlview#gid=0).
+
+### Terminology
+
+- TPI (threads per inch): A measurement of the threading for screws and sexbolts. For example, 6-32 means 32 threads for every 6 inches; it's also the typical threading. Fine pitch screws double the density of threading at 6-64.
