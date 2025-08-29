@@ -8,8 +8,10 @@ parent: Balisong
 ![Breakdown of a Krake Raken by Squid Industries.](kraken_part.jpg)
 
 # Parts of Balisong
-## Handles
+
 ---
+
+## Handles
 - Bite handle: The handle that closes over the edge of the blade.
 - Safe handle: The handle that closes over the spine of the blade.
 - Jimping: Ridges or slots usually found on the sides of the handle ends to improve grip while doing ladder tricks.
@@ -22,8 +24,10 @@ parent: Balisong
 - Sandwich: A handle construction made from at least two pieces of material with a spacer at the end to leave a gap for the blade to fit into.
 - Chanwich: A mix between channel and sandwich - two pieces of material, like sandwich, but they fit together to look and act like channel.
 
-## Blade
 ---
+
+## Blade
+
 - Spine: The dull side of the blade.
 - Tang: The bottom of the blade: opposite side of the tip.
 - Swedge: The unsharpened, angled portion on the spine of the blade near the tip.

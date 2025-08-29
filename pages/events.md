@@ -7,7 +7,6 @@ nav_order: 4
 # Events
 
 ## 🇺🇸 Within the US
----
 
 | Name | Description | Date/Time | Frequent Participants |
 |------|-------------|-----------|------------------------|
@@ -17,8 +16,9 @@ nav_order: 4
 | AnimeNYC | Anime-based convention. | November <br> NYC, NY | Squid Industries |
 | Anime Impulse | Anime-based convention. | January <br> Anaheim, CA | Squid Industries |
 
-## 🌍 Outside the US
 ---
+
+## 🌍 Outside the US
 
 | Name | Description | Date/Time | Frequent Participants |
 |---------|------|-------------|-----------|------------------------|

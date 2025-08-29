@@ -8,7 +8,6 @@ nav_order: 4
 # Materials
 
 ## Blade
----
 
 This [BladeHQ interactive page](https://www.bladehq.com/blog/knife-steel-guide) provides a good breakdown of different properties of steel. We won't reiterate on knowledge from better sources, so we focus on what is important for a balisong.
 
@@ -38,8 +37,9 @@ Some steels are made by a <ins>san mai</ins> process, a combining of two steels 
 - [Damacore](https://damasteel.se/steel-and-patterns/damacore) (Damasteel)
 - [CopperMai](https://www.bakerforge.com/productionsteel) (Baker Forge & Tool): Inclusion of copper into the damascus or the lamination line.
 
-## Handles
 ---
+
+## Handles
  For modern balisongs, a few materials are used for balisong handles:
  - Carbon Fiber: A composite laminate where fibers and resin are layered. This case, the fiber being carbon strands. Typically used as scale material.
  - G-10: Another composite laminate, but the fiber is glass. Typically used as scale material as well.

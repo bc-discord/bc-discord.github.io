@@ -20,8 +20,10 @@ Terms
 - TOC
 {:toc}
 
-## In-house CNC Makers
 ---
+
+## In-house CNC Makers
+
 Makers that CNC machine both blades and handles, typically finishes their parts and sharpens their blades. Sometimes machine their own hardware.
 
 ### Bigger
@@ -74,6 +76,7 @@ Makers that CNC machine both blades and handles, typically finishes their parts 
 - Proflipper, Mamba
 
 [Fiore Knives](https://www.fioreknives.com/)
+
 Balisongs go by the blade shape, handles largely the same.
 
 [FLS Balisongs](https://www.flsbalisongs.com/)
@@ -99,8 +102,10 @@ Balisongs go by the blade shape, handles largely the same.
 
 [Squiggle](https://squiggle-scales.com/)
 
-## Outsource CNC Makers
 ---
+
+## Outsource CNC Makers
+
 Makers that outsources there CNC machining of either blades, handles, or both. May or may not finish their parts. Typically sharpens their blades. Always tune their balisongs.
 
 ### Bigger
@@ -178,8 +183,10 @@ Makers that outsources there CNC machining of either blades, handles, or both. M
 [XK Knives](https://www.instagram.com/xkknives/)
 - Tracer
 
-## Midtech Makers
 ---
+
+## Midtech Makers
+
 Makers that contribute a signficant portion of the manual machining of their balisongs. Some may waterjet cut blades/handles and grind/machine the rest. Some may only make the handles or blades fully from stratch. But they always finish and tune their own balisongs.
 
 [Balibalistic](https://www.instagram.com/balibalisticknives/)
@@ -199,8 +206,10 @@ Makers that contribute a signficant portion of the manual machining of their bal
 [Syco](https://www.instagram.com/syco.x/)
 - 5150, Sycolope, Hysteria
 
-## Handmade Makers
 ---
+
+## Handmade Makers
+
 These makers manually machine their handles and blades completely on their own; they also finish and tune as well.
 
 [Dlarson Knives](https://www.instagram.com/dlarsonknives/)

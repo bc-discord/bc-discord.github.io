@@ -7,8 +7,9 @@ nav_order: 1
 # Threadlocker
 To fasten the screw to a sexbolt, you need a <ins>threadlocker</ins>.
 
-## Liquid
 ---
+
+## Liquid
 
 Liquid-based threadlocking that works on screws. The liquid fills in the gaps of the screws and sexbolt to form a seal after curing. Loctite is the common product (from Henkel) most people are familiar with and sometimes used in general to refer to liquid-based threadlocking. Some metals and coatings require a primer to aid the curing process. 
 
@@ -34,8 +35,9 @@ A company that sells primarily locking and sealing products.
 | - | - | - |
 |VC-3 | [Vibra-Tite](https://www.vibra-tite.com/threadlockers/plastic-compatible/vibra-tite-vc-3-threadmate/) | Resin substance which coats the screws and dries quickly (30 minutes). |
 
-## Solid
 ---
+
+## Solid
 These methods use solid objects to keep the screw and sexbolt secure. **Be warned**, you are jamming your threads and incurring some damage to your hardware. Use these methods infrequently as you can.
 
 ### Teflon tape

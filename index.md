@@ -8,7 +8,6 @@ nav_order: 1
 ---
 
 # Frequently Asked Questions
----
 
 ### What
 - [What balisong should I buy for my budget?]({% link pages/balisong/recommendation.md %})

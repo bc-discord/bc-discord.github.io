@@ -9,8 +9,9 @@ nav_order: 5
 
 If you want to find modders that can execute these handle modifications for your balisong parts, check the [Modders page]({% link pages/catalogs/modders.md %}).
 
-## Finishes
 ---
+
+## Finishes
 A <ins>finish</ins> is a particular styling of the surface of a metal by removing miniscule amounts or modifying a thin layer of material.
 
 - Satin: Shiny finish that is the commonly seen on aluminum and titanium. Achieved by low grit abrasives. Can be slippery when using low enough grit.
@@ -28,8 +29,9 @@ A <ins>finish</ins> is a particular styling of the surface of a metal by removin
 - Crystal: A pattern that comes from heating titanium in a vacuum to produce a crystal look; much stronger than a frost. For it's difficulty to produce, a few [titanium damascus]({% link pages/balisong/materials.md %}#titanium) makers sell billets of them.
     - [CrystalTi Lab](https://www.instagram.com/tikron.by_michael/), [morphaholic](https://www.instagram.com/morphaholic/)
 
-## Coatings
 ---
+
+## Coatings
 A <ins>coating</ins> is an encompassing material that is imparted onto the surface of the metal.
 
 - DLC (diamond-like carbon): Completely black coating applied to both handle and blade material. The most common way to get a shiny finish and black coating for balisongs. Retains the underlying texture of the material.
@@ -40,8 +42,9 @@ A <ins>coating</ins> is an encompassing material that is imparted onto the surfa
 - Blackening: A repeated process of an oil quenching and application of high heat, started by an initial blast. By touch, has a rough rubber feel; very grippy.
     - Main barrier to entry for this coating is having a forge. Few modders are capable.
 
-## Anodization
 ---
+
+## Anodization
 An <ins>anodization</ins> is an electrochemical process that uses electricity in an electrolyte bath to grow an oxide layer on a metal surface to color the part.
 
 - Aluminum: A coloring of Al by opening up the oxide layer and dying the layer with pigment.

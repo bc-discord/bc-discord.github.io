@@ -17,8 +17,17 @@ layout: default
 - TOC
 {:toc}
 
-## Blade
+{% for para in bali.overall.description %}
+  {{ para }}
+{% endfor %}
+
 ---
+
+## Blade
+
+{% for para in bali.blade.description %}
+  {{ para }}
+{% endfor %}
 
 <!-- Surface calculation -->
 {%- assign finish  = bali.blade.surface.finish  | default: "" -%}
@@ -49,8 +58,14 @@ layout: default
 | Measurements | Length: {{ bali.blade.measurement.length | format_measure: 2, unit }}<br>Weight: {{ bali.blade.measurement.weight | format_mass: 2, unit }}<br>Thickness: {{ bali.blade.measurement.thickness | format_measure: 3, unit }} |
 | Has trainer variant? | {{ bali.blade.has_trainer }} |
 
-## Handles
 ---
+
+## Handles
+
+{% for para in bali.handle.description %}
+  {{ para }}
+{% endfor %}
+
 <!-- Surface calculation -->
 {%- assign finish  = bali.handle.surface.finish  | default: "" -%}
 {%- assign media   = bali.handle.surface.media   | default: "" -%}
@@ -92,8 +107,9 @@ layout: default
 {%- endcapture %}
 {{ table_md | markdownify }}
 
-## Hardware Specification
 ---
+
+## Hardware Specification
 
 {% assign ps = bali.pivot_system %}
 {% assign p = bali.pivot %}
@@ -136,6 +152,14 @@ layout: default
 {% endif -%}
 {%- endcapture %}
 {{ table_md | markdownify }}
+
+{% if bali.hardware_quirks %}
+  Hardware Quirks:
+  
+  {% for quirk in bali.hardware_quirks %}
+  - {{ quirk }}
+  {% endfor %}
+{% endif %}
 
 {% endcapture %}
 {{ md | markdownify }}

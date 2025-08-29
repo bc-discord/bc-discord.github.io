@@ -14,8 +14,10 @@ nav_order: 2
 - TOC
 {:toc}
 
-## Shipping
 ---
+
+## Shipping
+
 ### Logistics
 
 USPS is the easiest shipping service to use in the States. They provide shipping material for Priority and more expensive shipping options. They offers 3 main types of shipping. 
@@ -40,8 +42,10 @@ If you can't find packing material like bubble wrap, paper towels work well. You
 ### Insurance
 If you use USPS, **do not** get the insurance they offer; the price of insurance is marked on the package and has lead to theft by USPS workers in the past. Shipsurance from Pirateship works well and hides the price from the shipping company. If you are the first time owner and have a receipt, you will be much more successful when claiming the insurance.
 
-## International Concerns
 ---
+
+## International Concerns
+
 ### Proxy Shipping
 If you are not capable of shipping internationally, you can find an international proxy to handle shipping for you. They essentially act as a middleman except the buyer must pay first before shipment begins. International proxies usually charge shipping cost and a fee.
 

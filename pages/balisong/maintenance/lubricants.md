@@ -14,8 +14,9 @@ A <ins>lubricant</ins> is generally oil or material that sits in your pivot syst
 
 Thickness: Very Thin, Thin, Moderate, Thick, Very Thick
 
-## Manufacturer
 ---
+
+## Manufacturer
 
 | Product | Link | Description |
 |-|----|-----------|
@@ -28,8 +29,9 @@ Thickness: Very Thin, Thin, Moderate, Thick, Very Thick
 | Krytox GPL 106 | [Squid Industries](https://www.squidindustries.co/products/krytox-106-lubricating-oil) | - | 
 | Gritomatic Gunny Glide | [Gritomatic](https://www.gritomatic.com/products/gunny-glide-graphene-lubricant) | - |
 
-## Community
 ---
+
+## Community
 
 | Product | Link | Description | Scents |
 |---|---|---|---|

@@ -3,6 +3,7 @@ layout: page
 title: Balisong Tricks
 nav_exclude: true
 ---
+
 # Fundamentals
 - Basic Opening/Closing: [Big Flips](https://www.youtube.com/watch?v=bqEsxxeZGMY&list=PLHiueU_hUKFwM6kV8WTVF9fBGpIeat8Ba)
 - Double Rollout: [Big Flips](https://www.youtube.com/watch?v=yLDm987WReU)

@@ -16,8 +16,10 @@ Two main parts on the balisong wear down: the stop system and pivot system, assu
 - TOC
 {:toc}
 
-## Hardware
 ---
+
+## Hardware
+
 There are quite a few places to get hardware:
 
 | Name / Link | Description | Unique Sells |
@@ -34,9 +36,10 @@ Most hardware you find has the Replicant-style pivot specifications.
 {: .note }
 > If you are looking for hardware specifications and can't find it on the website, check out [Ben Parli's Googlesheet](https://docs.google.com/spreadsheets/u/2/d/1cYnDv67BTD9H8wd7D-R_URGXYq3AGT3MotrVE4OX6Js/htmlview#gid=0).
 
+---
 
 ## Pivot System
----
+
 To stop the handles from directly rubbing against the blade when constructed, a <ins>pivot system</ins> is required. Visit the [lubricant]({% link pages/balisong/maintenance/lubricants.md %}) page for a list of lubricants to use for your pivot system.
 
 ### Washers only
@@ -69,6 +72,7 @@ The bushing itself maintains tolerances for a long ass time, you don't need to s
 - swap out the washers when tolerances are not satisfactory
 
 #### Tuning
+
 Your bushings are considered <ins>undersized</ins> if a full crank of your screws causes the motion of your balisong to seize, to any degree. To fix this, you need to tune a new set of bushings with the correct thickness. 
 
 {: .important }
@@ -88,8 +92,10 @@ This a barebone description of how you can tune bushings. If you want consistent
 - a measurement tool (e.g., micrometer) to dial in the exact thickness
 - a [bushing lap](https://usaknifemaker.com/pivot-lap-basic-knifedogs-5-bushing-model.html) or [bushing buddy](https://www.squidindustries.co/products/bushing-buddy) to sand your bushings parallel to your flat surface and perpendicular (thickness length is at a right angle to the width of circle)
 
-## Stop System
 ---
+
+## Stop System
+
 Your <ins>stop system</ins> prevents the handles and blade from slapping into each other; typically small, metal dowels are put into either the blade or handles to accomplish this.
 
 ### Zen pins
@@ -119,6 +125,7 @@ This system outperforms zen pins on longevity (on a single charge) when the pins
   - **Maintenance**: [Threadlocking]({% link pages/balisong/maintenance/threadlocker.md %}) is required. You will most likely buy these from the maker.
 
 ### Pinless
+
 When the handles and blade are designed to contact on the blade tang without pins, it is called a <ins>pinless</ins> system. 
 
 - **Maintenance**: There is typically no intermediate-part maintenance. But be wary as the blade contacting the handles will wear them down by the mismatch of HRC. You must replace either the handles or blade when the blade and handles start to slap.
