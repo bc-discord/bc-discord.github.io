@@ -1,10 +1,10 @@
 ---
 layout: default
 title: For the Buyer
-parent: Sales
+parent: Buying and Selling
 nav_order: 1
 ---
-# Anatomy of a Sale
+# Anatomy of a Sale, For the Buyer
 Here's a guide on how to navigate the balisong secondhand market with etiquette and safety tips.
 
 #### Table of contents

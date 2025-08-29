@@ -1,10 +1,10 @@
 ---
 layout: default
 title: For the Seller
-parent: Sales
+parent: Buying and Selling
 nav_order: 2
 ---
-# Anatomy of a Sale
+# Anatomy of a Sale, For the Buyer
 
 #### Table of contents
 {: .no_toc }

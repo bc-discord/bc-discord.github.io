@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Materials
-parent: Balisong
-nav_order: 4
+parent: Basics
+nav_order: 2
 ---
 
 # Materials
@@ -64,7 +64,7 @@ Blends of several titanium alloys together to get the damascus look.
 - [Damatanium](https://vegasforge.com/collections/damtanium) (Vegas Forge): Blend of Grade 2 and Grade 5 titanium.
 - [Timascus](https://www.alphaknifesupply.com/shop/timascus-for-sale) (Alpha Knife Supply): Blend of several titanum alloys.
 
-Some damascus makers also make [crystallized]({% link pages/balisong/surface_treatments/surface_treatments.md %}#titanium) variants of titanium damascus.
+Some damascus makers also make [crystallized]({% link pages/balisong/basics/surface_treatments/surface_treatments.md %}#titanium) variants of titanium damascus.
 
 - [Titanium Damascus](https://www.etsy.com/shop/twistishop) (TwisTi): Blends of titanium alloys, including crystallized variants.
 - [Crystallized Ti Damascus](https://www.instagram.com/tikron.by_michael/) (CrystalTi Lab): Blends of titanium that have a crystal pattern.

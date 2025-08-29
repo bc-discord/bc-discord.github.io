@@ -10,7 +10,7 @@ nav_order: 1
 # Frequently Asked Questions
 
 ### What
-- [What balisong should I buy for my budget?]({% link pages/balisong/recommendation.md %})
+- [What balisong should I buy for my budget?]({% link pages/balisong/recommendations/balisongs.md %})
 - [What do I buy to stop my screws from coming out after flipping?]({% link pages/balisong/maintenance/threadlocker.md %})
 - [What are replicant hardware specs?]({{ '/balisongs/brs/replicant.html' | relative_url }}#hardware-specification)
 - [What countries are safe to ship whole balisongs to?]({% link pages/sales/safety_guide/seller.md %}#international-shipping)

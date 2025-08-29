@@ -2,7 +2,7 @@
 layout: page
 title: Threadlocker
 parent: Maintenance
-nav_order: 1
+nav_order: 4
 ---
 # Threadlocker
 To fasten the screw to a sexbolt, you need a <ins>threadlocker</ins>.

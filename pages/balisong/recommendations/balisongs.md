@@ -1,11 +1,12 @@
 ---
 layout: page
-title: Recommendations
-parent: Balisong
-nav_order: 3
+title: Balisongs
+parent: Recommendations
+nav_order: 1
 ---
 
-# Price Recommendations
+# Balisong Budget Tiers
+
 These recommended balisongs have some of these qualities: 
 
 - good value - good material, construction, and feature (e.g., jimping) for the price; the most important factor for being on this list
@@ -15,6 +16,8 @@ These recommended balisongs have some of these qualities:
 - easy to service and find replacement hardware
 
 These recommendations are geared for the U.S. market; outside of the U.S., it's tough to recommended a balisong since the U.S. has the most buyers and makers in the community. All prices are in retail USD; you can expect these to be cheaper second-hand.
+
+---
 
 ## Live Blades
 ### < $50

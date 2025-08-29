@@ -2,12 +2,12 @@
 layout: page
 title: Parts Of
 nav_order: 1
-parent: Balisong
+parent: Basics
 ---
 
-![Breakdown of a Krake Raken by Squid Industries.](kraken_part.jpg)
+# Parts of a Balisong
 
-# Parts of Balisong
+{% include image_strip.html urls="kraken_part.jpg" description="Breakdown of the parts of a balisongs on a Squid Industries Kraken." class='full-width' %}
 
 ---
 

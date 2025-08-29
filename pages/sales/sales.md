@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Sales
-nav_order: 5
+title: Buying and Selling
+nav_order: 4
 has_children: true
 ---
 

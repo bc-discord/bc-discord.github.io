@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Surface Treatments
-parent: Balisong
-nav_order: 5
+parent: Basics
+nav_order: 3
 ---
 
 # Surface Treatments
@@ -20,13 +20,14 @@ A <ins>finish</ins> is a particular styling of the surface of a metal by removin
 - Blasting: A process of shooting highly-pressurized media at a metal part to texturize the surface. Degree of roughness depends on the media used. 
     - Examples: beadblasting, sandblasting, glassblasting, zirblasting (zirconia media)
 - Orange peel: 
+- Jeweling: 
 
 ### Steel
 - Blueing: Blue coloring of carbon steel with nitride salts.
 
 ### Titanium
 - Frost: On lower grade titanium, etching can cause a crystal-like pattern to appear. Not possible to achieve from the usual 6Al-4V titanium used by balisong makers.
-- Crystal: A pattern that comes from heating titanium in a vacuum to produce a crystal look; much stronger than a frost. For it's difficulty to produce, a few [titanium damascus]({% link pages/balisong/materials.md %}#titanium) makers sell billets of them.
+- Crystal: A pattern that comes from heating titanium in a vacuum to produce a crystal look; much stronger than a frost. For it's difficulty to produce, a few [titanium damascus]({% link pages/balisong/basics/materials.md %}#titanium) makers sell billets of them.
     - [CrystalTi Lab](https://www.instagram.com/tikron.by_michael/), [morphaholic](https://www.instagram.com/morphaholic/)
 
 ---
