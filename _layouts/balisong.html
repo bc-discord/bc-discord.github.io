@@ -155,6 +155,7 @@ layout: default
 {%- endcapture %}
 {{ table_md | markdownify }}
 
+{% if bali.handle.has_spacers %}
 ### Spacers
 
 {% if bali.spacer.images.urls %}
@@ -184,6 +185,8 @@ layout: default
 {% for para in bali.spacer.description %}
   {{ para }}
 {% endfor %}
+
+{% endif %}
 
 ---
 
