@@ -95,7 +95,7 @@ Your <ins>stop system</ins> prevents the handles and blade from slapping into ea
 ### Zen pins
 When the stop pins lie in the handles, that is a <ins>zen pin</ins> system. 
 
-{% include image_strip.html urls="kraken.jpg, telesto.jpg, ex.jpg" description="Example of different zen pin implementations. From left to right, a Squid Industries Kraken with pressed zen pins, a Henninger Designs Telesto with screwed zen pins, and a Geof Dumas EX." %}
+{% include image_strip.html urls="kraken.jpg, telesto.jpg, ex.jpg" description="Example of different zen pin implementations. From left to right, a Squid Industries Kraken with pressed zen pins, a Henninger Designs Telesto with screwed zen pins, and a Geof Dumas EX with hidden zen pins." %}
 
 The HRC of the zen pins should match with the blade's so they last long. There are 3 variants of them:
 - Pressed: When the pins are <ins>pressed</ins> into the handles with tooling. 

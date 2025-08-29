@@ -127,7 +127,7 @@
 .image-strip .strip {
   display: flex;
   justify-content: center;
-  gap: .6rem;
+  gap: .5rem;
   padding-bottom: .25rem;
   padding-top: .5rem;
 }
@@ -136,6 +136,8 @@
   object-fit: cover;
   width:100%;  max-width:150px; 
   aspect-ratio: 1 / 1;
+  min-width: 0;
+  flex: 1 1 0;
 }
 .image-strip figcaption {
   text-align: center;
