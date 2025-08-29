@@ -31,7 +31,7 @@ github_username:  bc-discord
 # Build settings
 # theme: just-the-docs
 plugins_dir: _plugins
-remote_theme: just-the-docs/just-the-docs
+remote_theme: just-the-docs/just-the-docs@v0.10.1
 
 plugins:
   - jekyll-feed
