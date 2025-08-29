@@ -40,8 +40,8 @@ There are a few aspects to the condition of a balisong to be aware of before pur
 
 - <ins>Dents</ins>: Any depressions or nicks in the blade or handles. _Sometimes_ these can be removed by a refinish from a modder.
 - <ins>Light marks</ins>: A blemish on the finish of the part. Sometimes called snail trails. _Most of the time_, these can be removed by a modder.
-- Bushing tune: Some makers and enthusiast owners are poor/lazy tuners. You may ask the seller to crank on the screws to get an assessment. But because of variability with hand cranking, your seller may not able to confirm if their balisong is truly binding. How bouncy a balisong is may help determine if a has undersized bushings; if they seem flat and weak in a video, they are probably undersized. Bushings can be bought from [TrueLink](https://thetruelink.com/collections/all/bushing-xp) or [USAKnifemaker](https://usaknifemaker.com/shop-categories/folding-knife-parts/washers-and-bushings.html).
-- Tolerances: Most sellers will not be able to ascertain how well surfaced the blade or handles are (unless they have calipers/micrometers), usually you can infer by who made it and during what time period.
+- Bushing tune: Some makers and enthusiast owners are poor/lazy tuners. You may ask the seller to crank on the screws to get an assessment. But because of variability with hand cranking, your seller may not able to confirm if their balisong is truly binding. How bouncy a balisong is may help determine if the bushings are undersized; if they seem flat and weak in a video, they are probably undersized. Bushings can be bought from [TrueLink](https://thetruelink.com/collections/all/bushing-xp) or [USAKnifemaker](https://usaknifemaker.com/shop-categories/folding-knife-parts/washers-and-bushings.html).
+- Tolerances: Most sellers cannot ascertain how well-surfaced the blade or handles are, unless they have a caliper/micrometer; usually you can infer tolerances by who made it and during what time period.
 
 ---
 
