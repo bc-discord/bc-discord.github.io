@@ -5,6 +5,8 @@ parent: Maintenance
 nav_order: 3
 ---
 
+{% include credits_header.html %}
+
 # Stop System Maintenance
 
 Your <ins>stop system</ins> prevents the handles and blade from slapping into each other; typically small, metal dowels are put into either the blade or handles to accomplish this.

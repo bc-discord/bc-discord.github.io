@@ -9,26 +9,23 @@
     <figcaption><span class="caption-title">Caption</span>:
       {{ include.description | markdownify | remove: "<p>" | remove: "</p>" }}
 
-      {% if include.credits %}
-        {% assign _credits = include.credits | split: ";;" %}
-        {% for c in _credits %}
-          {% assign _c = c | strip %}
-          {% if _c != "" %}
-            {%- capture _n0 -%}{% increment page_credit_counter %}{%- endcapture -%}
-            {% assign _n = _n0 | plus: 1 %}
-            <span class="credit-marker">[{{ _n }}]</span>
+      {% assign _credits = include.credits | split: ";;" %}
+{% for c in _credits %}
+  {% assign _c = c | strip %}
+  {% if _c != "" %}
+    {% assign page_credit_counter = page_credit_counter | plus: 1 %}
+    <span class="credit-marker">[{{ page_credit_counter }}]</span>
 
-            {%- comment -%} Append this credit text to a global collector {%- endcomment -%}
-            {% capture new_entry %}
-              <li>[{{ _n }}] {{ _c | markdownify | remove: "<p>" | remove: "</p>" }}</li>
-            {% endcapture %}
-            {% capture page_credits %}
-              {{ page_credits }}
-              {{ new_entry }}
-            {% endcapture %}
-          {% endif %}
-        {% endfor %}
-      {% endif %}
+    {% capture new_entry %}
+      <li>[{{ page_credit_counter }}] {{ _c | markdownify | remove: "<p>" | remove: "</p>" }}</li>
+    {% endcapture %}
+    {% capture page_credits %}
+      {{ page_credits }}
+      {{ new_entry }}
+    {% endcapture %}
+  {% endif %}
+{% endfor %}
+
     </figcaption>
   {% endif %}
 </figure>
