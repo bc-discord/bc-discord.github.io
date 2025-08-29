@@ -25,6 +25,30 @@ layout: default
 
 ## Blade
 
+{% if bali.blade.images.urls %}
+  {% assign urls = bali.blade.images.urls | split: "," %}
+  {% assign full_urls = "" %}
+
+  {% assign base = "/assets/images/balisongs/" | append: page.folder | append: "/" | append: page.key | append: "/" %}
+  {% assign full_urls = "" %}
+
+  {% for u in urls %}
+    {% assign u = u | strip %}
+    {% assign one = base | append: u %}
+    {% if full_urls == "" %}
+      {% assign full_urls = one %}
+    {% else %}
+      {% assign full_urls = full_urls | append: ", " | append: one %}
+    {% endif %}
+  {% endfor %}
+  
+  {% if urls.size == 1 %}
+  {% include image_strip.html urls=full_urls description=bali.blade.images.caption class="bigger-size" %}
+  {% else %}
+  {% include image_strip.html urls=full_urls description=bali.blade.images.caption %}
+  {% endif %}
+{% endif %}
+
 {% for para in bali.blade.description %}
   {{ para }}
 {% endfor %}
@@ -61,6 +85,30 @@ layout: default
 ---
 
 ## Handles
+
+{% if bali.handle.images.urls %}
+  {% assign urls = bali.handle.images.urls | split: "," %}
+  {% assign full_urls = "" %}
+
+  {% assign base = "/assets/images/balisongs/" | append: page.folder | append: "/" | append: page.key | append: "/" %}
+  {% assign full_urls = "" %}
+
+  {% for u in urls %}
+    {% assign u = u | strip %}
+    {% assign one = base | append: u %}
+    {% if full_urls == "" %}
+      {% assign full_urls = one %}
+    {% else %}
+      {% assign full_urls = full_urls | append: ", " | append: one %}
+    {% endif %}
+  {% endfor %}
+  
+  {% if urls.size == 1 %}
+  {% include image_strip.html urls=full_urls description=bali.handle.images.caption class="bigger-size" %}
+  {% else %}
+  {% include image_strip.html urls=full_urls description=bali.handle.images.caption %}
+  {% endif %}
+{% endif %}
 
 {% for para in bali.handle.description %}
   {{ para }}
@@ -106,6 +154,36 @@ layout: default
 {% endif -%}
 {%- endcapture %}
 {{ table_md | markdownify }}
+
+### Spacers
+
+{% if bali.spacer.images.urls %}
+  {% assign urls = bali.spacer.images.urls | split: "," %}
+  {% assign full_urls = "" %}
+
+  {% assign base = "/assets/images/balisongs/" | append: page.folder | append: "/" | append: page.key | append: "/" %}
+  {% assign full_urls = "" %}
+
+  {% for u in urls %}
+    {% assign u = u | strip %}
+    {% assign one = base | append: u %}
+    {% if full_urls == "" %}
+      {% assign full_urls = one %}
+    {% else %}
+      {% assign full_urls = full_urls | append: ", " | append: one %}
+    {% endif %}
+  {% endfor %}
+  
+  {% if urls.size == 1 %}
+  {% include image_strip.html urls=full_urls description=bali.spacer.images.caption class="bigger-size" %}
+  {% else %}
+  {% include image_strip.html urls=full_urls description=bali.spacer.images.caption %}
+  {% endif %}
+{% endif %}
+
+{% for para in bali.spacer.description %}
+  {{ para }}
+{% endfor %}
 
 ---
 

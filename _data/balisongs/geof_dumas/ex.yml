@@ -24,6 +24,7 @@ end_year: null                # Whole number
 availability: Available                 # Exact: 'Available', 'Discontinued', 'Hiatus'
 retail: 750                  # Whole number
 drop_schedule: Personal orders         # Short description
+model_card_image: ex10.jpg
 
 has_ring: false
 
@@ -33,7 +34,7 @@ overall:
   length: null                     # Decimal number
   description: null
   image:
-    path: null
+    url: null
     caption: null
 
 # Blade information
@@ -53,11 +54,11 @@ blade:
   edge:
     tang: None                  # Exact: 'Rounded', 'Chamfered', 'None'
     spine: None                # Exact: 'Rounded', 'Chamfered', 'None'
-  image:
-    path: null
-    caption: null
+  images:
+    urls: ex10_blade.jpg
+    caption: Example blades on EX handles. From left to right, EX10 (kukri).
   description:
-    - 'The numbering corresponds to the blade shape: EX09 (spearpoint), EX10 (kukri), and EX11 (tanto).'
+    - 'The numbering corresponds to the blade shape: EX09 (spearpoint), EX10 (kukri), and EX11 (tanto); EX10s being the most common model, while EX09 being the most elusive model.'
 
 # Handle information
 handle:
@@ -82,9 +83,9 @@ handle:
     weight: null                 # Decimal number
   has_weight_system: false        # Sexbolts and screws on the end of channel handles counts as a weight system, but not if required for spacers. Different materials for spacers do not count, must be independent from spacer. Exact: 'false', 'true'
   has_spacers: true             # Exact: 'false', 'true'
-  image:
-    path: null
-    caption: null
+  images:
+    urls: hole_handles.jpg,inlay_handles.jpg
+    caption: EX handles with the signature hole pattern. Middle is the inlay accepting variant of the handles.
   description: 
     - Very blocky.
 
@@ -92,9 +93,9 @@ spacer:
   material: Titanium                 
   thickness: null
   description: 
-    - Offers multiple options for spacer material; can be bought [here])(https://gdktllc.com/shop/spacers).
-  image:
-    path: null
+    - Offers multiple options for spacer material; can be bought [here](https://gdktllc.com/shop/spacers).
+  images: 
+    urls: null
     caption: null
 
 # Stop system

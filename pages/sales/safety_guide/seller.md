@@ -4,7 +4,7 @@ title: For the Seller
 parent: Buying and Selling
 nav_order: 2
 ---
-# Anatomy of a Sale, For the Buyer
+# Anatomy of a Sale, For the Seller
 
 #### Table of contents
 {: .no_toc }

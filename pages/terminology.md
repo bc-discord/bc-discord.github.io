@@ -33,3 +33,4 @@ nav_order: 6
 - Ring of Shame: Refers to an injury that occurs after a bite handle chaplin.
 - Kisses/Bites: Any cut from a balisong.
 - EDC: (every day carrry): a knife that is carried on a person whenever they leave the house.
+- HRC (Rockwell Scale): A measure of material hardness.

@@ -69,5 +69,5 @@ This is a barebones description of tuning your bushings. If you want consistent 
 - a [bushing lap](https://usaknifemaker.com/pivot-lap-basic-knifedogs-5-bushing-model.html) or [bushing buddy](https://www.squidindustries.co/products/bushing-buddy) to sand your bushings parallel to your flat surface and perpendicular (thickness length is at a right angle to the width of circle)
 
 There's a few tricks you can employ to get a tigher tune:
-- replacing steel washers with PB washers; softer metal washers will crimp more than steel
+- replacing steel washers with PB washers; softer-metal washers will crimp more than steel ones
 - replacing the pivot hardware with fine-pitch hardware; the denser threading gives a stronger clamping force
