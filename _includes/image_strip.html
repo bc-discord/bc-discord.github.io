@@ -5,9 +5,30 @@
       <img src="{{ u | strip }}" alt="{{ include.alt | default: "" }}">
     {% endfor %}
   </div>
-  {% if include.description %}
-    <figcaption><strong>Caption:</strong>
+  {% if include.description or include.credits %}
+    <figcaption><span class="caption-title">Caption</span>:
       {{ include.description | markdownify | remove: "<p>" | remove: "</p>" }}
+
+      {% if include.credits %}
+        {% assign _credits = include.credits | split: ";;" %}
+        {% for c in _credits %}
+          {% assign _c = c | strip %}
+          {% if _c != "" %}
+            {%- capture _n0 -%}{% increment page_credit_counter %}{%- endcapture -%}
+            {% assign _n = _n0 | plus: 1 %}
+            <span class="credit-marker">[{{ _n }}]</span>
+
+            {%- comment -%} Append this credit text to a global collector {%- endcomment -%}
+            {% capture new_entry %}
+              <li>[{{ _n }}] {{ _c | markdownify | remove: "<p>" | remove: "</p>" }}</li>
+            {% endcapture %}
+            {% capture page_credits %}
+              {{ page_credits }}
+              {{ new_entry }}
+            {% endcapture %}
+          {% endif %}
+        {% endfor %}
+      {% endif %}
     </figcaption>
   {% endif %}
 </figure>

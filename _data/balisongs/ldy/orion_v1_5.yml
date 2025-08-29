@@ -24,7 +24,8 @@ end_year: null                # Whole number
 availability: Available                 # Exact: 'Available', 'Discontinued', 'Hiatus'
 retail: 95                  # Whole number
 drop_schedule: null         # Short descrption
-model_card_image: model_card.jpg
+model_card_image: 
+  url: model_card.jpg
 
 has_ring: false
 
@@ -39,10 +40,10 @@ overall:
 
 # Blade information
 blade:
-  shape: null 
+  shape: Kukri 
   material: 440C
   surface:
-    finish: null       # Possible: 'Stonewashed', 'Tumbled', 'Blasted', 'Satin', 'Polished' 
+    finish: Polished       # Possible: 'Stonewashed', 'Tumbled', 'Blasted', 'Satin', 'Polished' 
     media: null               # Possible: 'Zirconia', 'Sand', 'Bead', 'Glass'
     coating: null              # Possible: 'DLC', 'PVD', 'Cerakote'
   measurement:
@@ -108,7 +109,7 @@ stop_system:
       - name: LDY
         url: https://ldybalisong.net/collections/%E5%85%B6%E4%BB%96%E5%95%86%E5%93%81/products/%E7%8C%8E%E6%88%B7%E5%BA%A7-v1-%E9%9B%B6%E4%BB%B6
   screw:
-    length: null
+    length: N/A
     links: null
 
 # Pivot system

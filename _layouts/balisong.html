@@ -43,9 +43,9 @@ layout: default
   {% endfor %}
   
   {% if urls.size == 1 %}
-  {% include image_strip.html urls=full_urls description=bali.blade.images.caption class="bigger-size" %}
+  {% include image_strip.html urls=full_urls description=bali.blade.images.caption class="bigger-size" credits=bali.blade.images.credits %}
   {% else %}
-  {% include image_strip.html urls=full_urls description=bali.blade.images.caption %}
+  {% include image_strip.html urls=full_urls description=bali.blade.images.caption credits=bali.blade.images.credits %}
   {% endif %}
 {% endif %}
 
@@ -104,9 +104,9 @@ layout: default
   {% endfor %}
   
   {% if urls.size == 1 %}
-  {% include image_strip.html urls=full_urls description=bali.handle.images.caption class="bigger-size" %}
+  {% include image_strip.html urls=full_urls description=bali.handle.images.caption class="bigger-size" credits=bali.handle.images.credits %}
   {% else %}
-  {% include image_strip.html urls=full_urls description=bali.handle.images.caption %}
+  {% include image_strip.html urls=full_urls description=bali.handle.images.caption credits=bali.handle.images.credits %}
   {% endif %}
 {% endif %}
 
@@ -241,6 +241,10 @@ layout: default
   - {{ quirk }}
   {% endfor %}
 {% endif %}
+
+---
+
+{% include credits_page.html %}
 
 {% endcapture %}
 {{ md | markdownify }}

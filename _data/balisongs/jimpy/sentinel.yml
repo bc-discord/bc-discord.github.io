@@ -24,7 +24,8 @@ end_year: 2023                # Whole number
 availability: Discontinued                 # Exact: 'Available', 'Discontinued', 'Hiatus'
 retail: 450                  # Whole number
 drop_schedule: Every week         # Short descrption
-model_card_image: sentinel_m_c.jpg
+model_card_image: 
+  url: sentinel_m_c.jpg
 
 has_ring: false
 
@@ -148,7 +149,7 @@ body:
     links: null
 
 # Variants
-variant_1:
-  name: null
-  links: null
-  differences: null
+variants:
+  - name: Zentinel
+    link: /jimpy/zentinel.html
+    description: The Zentinel is a variant of the Sentinel that switches out the pressed tang pins for hidden zen pins that house the zen pins and is locked by the pivot screws.

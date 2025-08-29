@@ -24,7 +24,9 @@ end_year: null                # Whole number
 availability: Available                 # Exact: 'Available', 'Discontinued', 'Hiatus'
 retail: 750                  # Whole number
 drop_schedule: Personal orders         # Short description
-model_card_image: ex10.jpg
+model_card_image: 
+  url: ex10.jpg
+  credit: Geof Dumas Knife and Tool, https://www.instagram.com/p/CoIDOQZOQ5C/?img_index=3
 
 has_ring: false
 
@@ -56,6 +58,7 @@ blade:
     spine: None                # Exact: 'Rounded', 'Chamfered', 'None'
   images:
     urls: ex10_blade.jpg
+    credits: Geof Dumas Tool and Knife, https://www.instagram.com/p/CqQGsdhuqQQ/?img_index=2
     caption: Example blades on EX handles. From left to right, EX10 (kukri).
   description:
     - 'The numbering corresponds to the blade shape: EX09 (spearpoint), EX10 (kukri), and EX11 (tanto); EX10s being the most common model, while EX09 being the most elusive model.'
@@ -85,6 +88,7 @@ handle:
   has_spacers: true             # Exact: 'false', 'true'
   images:
     urls: hole_handles.jpg,inlay_handles.jpg
+    credits: Geof Dumas Tool and Knife, https://www.instagram.com/p/CoIDOQZOQ5C/?img_index=4;;Geof Dumas Tool and Knife, https://www.instagram.com/p/ClR6nQ9Lham/
     caption: EX handles with the signature hole pattern. Middle is the inlay accepting variant of the handles.
   description: 
     - Very blocky.
@@ -161,9 +165,3 @@ body:
 hardware_quirks:
   - 'Washers: .020 is the thickness for older models; .025 is for the newer models.'
   - 'Body screws: The spacers screws screw into the spacer.'
-
-# Variants
-variant_1:
-  name: null
-  links: null
-  differences: null

@@ -14,7 +14,7 @@ Your <ins>stop system</ins> prevents the handles and blade from slapping into ea
 ## Zen Zins
 When the stop pins lie in the handles, that is a <ins>zen pin</ins> system. 
 
-{% include image_strip.html urls="kraken.jpg, telesto.jpg, ex.jpg" description="Example of different zen pin implementations. From left to right, a Squid Industries Kraken with pressed zen pins, a Henninger Designs Telesto with screwed zen pins, and a Geof Dumas EX with hidden zen pins." %}
+{% include image_strip.html urls="kraken.jpg, telesto.jpg, ex.jpg" description="Example of different zen pin implementations. From left to right, a Squid Industries Kraken with pressed zen pins, a Henninger Designs Telesto with screwed zen pins, and a Geof Dumas EX with hidden zen pins." credits="Squid Industries, https://www.squidindustries.co/;;Forrest Henninger, https://www.instagram.com/p/Ca7Pqlgr4Kl/?img_index=2;;Geof Dumas Tool and Knife, https://www.instagram.com/p/CnmSYSWu3-n/?img_index=4" %}
 
 The HRC of the zen pins should match with the blade's so they last long. There are 3 variants of them:
 - Pressed: When the pins are <ins>pressed</ins> into the handles with tooling. 
@@ -30,7 +30,7 @@ The HRC of the zen pins should match with the blade's so they last long. There a
 
 When the stop pins lie in the blade, that is a <ins>tang pin</ins> system. 
 
-{% include image_strip.html urls="tang_pins.jpg" description="Example of pressed tang pins on a Jimpy Sentinel." %}
+{% include image_strip.html urls="tang_pins.jpg" description="Example of pressed tang pins on a Jimpy Sentinel." credits="Jimpy Designs, https://www.jimpydesigns.com/shop/p/jimpy-sentinel" %}
 
 This system outperforms zen pins on longevity (on a single charge) when the pins match the HRC of the handles; soft-on-soft interaction wears down the least material compared to hard-on-hard interaction. Two variants exist for tang pins:
 
@@ -49,4 +49,8 @@ When the handles and blade are designed to contact on the blade tang without pin
 
 There are some pinless designs that replace the contact point on the handles with a replacable part. By construction, it is still pinless as the part is not a pin, but it detracts from the hardware-less essence of a pinless design, as an intermediate part exists now, a proprietary part even harder to replace than a simple metal pin.
 
-{% include image_strip.html urls="fioreknives_pinless_open.jpg, fioreknives_pinless_closed.jpg" description="Example of a pinless system on titanium + zirconium damascus handles with a titanium replacable part by [Fiore Knives](https://www.instagram.com/fioreknives/p/CW6Mom-sdQI/?img_index=2)." %}
+{% include image_strip.html urls="fioreknives_pinless_open.jpg, fioreknives_pinless_closed.jpg" description="Example of a pinless system on titanium + zirconium damascus handles with a titanium replacable part by Fiore Knives." credits="Fiore Knives, https://www.instagram.com/fioreknives/p/CW6Mom-sdQI/" %}
+
+---
+
+{% include credits_page.html %}

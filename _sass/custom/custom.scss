@@ -122,7 +122,7 @@
 }
 
 .image-strip { 
-  margin: 1rem 0; 
+  margin: 1rem 0;
 }
 .image-strip .strip {
   display: flex;
@@ -138,11 +138,21 @@
   aspect-ratio: 1 / 1;
   min-width: 0;
   flex: 1 1 0;
+  border-radius: 2px;
 }
 .image-strip figcaption {
   text-align: center;
   font-size: .85rem;
   margin-top: .5rem;
+  
+  background: #fafafa;
+  border-top: 1px solid #eee;
+  padding: 0.25rem 0.5rem;
+  border-radius: 0 0 6px 6px;
+}
+
+.image-strip figcaption .caption-title {
+  font-weight: 600;
 }
 
 .image-strip.full-width .strip img {
@@ -150,4 +160,12 @@
   aspect-ratio: auto;
   max-width:100%;
   object-fit: contain;
+}
+
+.image-strip.bigger-size .strip img {
+  max-width:200px;
+}
+
+.credits-list {
+  font-size: .7rem;
 }
