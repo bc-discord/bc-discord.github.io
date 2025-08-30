@@ -11,28 +11,28 @@
 # Possible means you can write alternative answers.
 # Exact means only these options, exactly as written.
 
-name: Orion V1.5
+name: Sirius V4.5 (Tanto)
 maker: LDY
 amount_made: null       #  Estimate acceptable. Whole number
 production: CNC           # Possible: 'CNC', 'Midtech', 'Handmade'
 units: metric     # Exact: 'imperial', 'metric'
 links: 
   - name: LDY
-    url: https://ldybalisong.net/products/orion-v1-5
+    url: https://ldybalisong.net/collections/frontpage/products/sirius-v4-5
 start_year: null              # Whole number
 end_year: null                # Whole number
 availability: Available                 # Exact: 'Available', 'Discontinued', 'Hiatus'
 retail: 95                  # Whole number
 drop_schedule: null         # Short descrption
 model_card_image: 
-  url: model_card.jpg
+  url: null
 
 has_ring: false
 
 # Overall
 overall:
-  weight: 105.7                   # Decimal number
-  length: 254.40                     # Decimal number
+  weight: 110.6                    # Decimal number
+  length: 256.3                 # Decimal number
   description: null
   image:
     path: null
@@ -40,15 +40,15 @@ overall:
 
 # Blade information
 blade:
-  shape: Kukri 
+  shape: Tanto 
   material: 440C
   surface:
-    finish: Polished       # Possible: 'Stonewashed', 'Tumbled', 'Blasted', 'Satin', 'Polished' 
+    finish: null       # Possible: 'Stonewashed', 'Tumbled', 'Blasted', 'Satin', 'Polished' 
     media: null               # Possible: 'Zirconia', 'Sand', 'Bead', 'Glass'
     coating: null              # Possible: 'DLC', 'PVD', 'Cerakote'
   measurement:
-    length: 131.21           # Decimal number
-    thickness: 3.0     # Decimal number
+    length: 128.5            # Decimal number
+    thickness: null     # Decimal number
     weight: null            # Decimal number
   has_trainer: true          # Exact: 'true', 'false'
   is_trainer: false
@@ -63,11 +63,11 @@ blade:
 # Handle information
 handle:
   construction:
-    type: Sandwich     # Exact: 'Liners and Scales', 'Sandwich', 'Channel', 'Chanwich'
+    type: Channel     # Exact: 'Liners and Scales', 'Sandwich', 'Channel', 'Chanwich'
     face: Flat
     edge_break: Chamfered    # Exact: 'Rounded', 'Chamfered', 'Rounded and Chamfered'
     taper:
-      height: false          # Exact: 'false', 'true'
+      height: null          # Exact: 'false', 'true'
       width: true              # Exact: 'false', 'true'
   material:
       frame: 7075 Aluminum      # Possible: 'Titanium', 'Aluminum', 'CF', 'G10'
@@ -78,21 +78,21 @@ handle:
     media: null                   # See blade equivalent.
     coating: Ceramic Coating                       # See blade equivalent.
   measurement:
-    thickness: 12.6          # Decimal number 
-    width: 14.0
-    taper_width: 10.0
-    length: 140.0                 # Decimal number
+    thickness: null          # Decimal number 
+    width: null
+    taper_width: null
+    length: 142.0                # Decimal number
     weight: null                 # Decimal number
   has_weight_system: false        # Sexbolts and screws on the end of channel handles counts as a weight system, but not if required for spacers. Exact: 'false', 'true'
-  has_spacers: true             # Exact: 'false', 'true'
+  has_spacers: false             # Exact: 'false', 'true'
   image:
     path: null
     caption: null
   description: null
 
 spacer:
-  material: 7075 Aluminum                 
-  thickness: 4.0
+  material: null         
+  thickness: null
   description: null
   image:
     path: null
@@ -100,14 +100,12 @@ spacer:
 
 # Stop system
 stop_system: 
-  type: Hidden Zen Pins         # Exact: 'Screwed Zen Pins', 'Pressed Zen Pins', 'Hidden Zen Pins', 'Pressed Tang Pins', 'Screwed Tang Pins'
+  type: Pressed Zen Pins         # Exact: 'Screwed Zen Pins', 'Pressed Zen Pins', 'Hidden Zen Pins', 'Pressed Tang Pins', 'Screwed Tang Pins'
   threading: N/A       # Must use slash, not dash. Example: 5/32.
   sexbolt: 
-    length: null
-    thickness: null
-    links: 
-      - name: LDY
-        url: https://ldybalisong.net/collections/%E5%85%B6%E4%BB%96%E5%95%86%E5%93%81/products/%E7%8C%8E%E6%88%B7%E5%BA%A7-v1-%E9%9B%B6%E4%BB%B6
+    length: 13.00
+    thickness: 3.5
+    links: null
   screw:
     length: N/A
     links: null
@@ -118,47 +116,45 @@ pivot_system:
   washer:
     OD: 10.0
     ID: 5.05
-    thickness: .8
+    thickness: 1.0
     links: 
       - name: LDY
-        url: https://ldybalisong.net/collections/%E5%85%B6%E4%BB%96%E5%95%86%E5%93%81/products/%E7%8C%8E%E6%88%B7%E5%BA%A7-v1-%E9%9B%B6%E4%BB%B6
+        url: https://ldybalisong.net/collections/%E5%85%B6%E4%BB%96%E5%95%86%E5%93%81/products/sirius-v4-hardware
   bushing:
-    OD: 7.5
+    OD: 7.0
     ID: 5.0
-    thickness: 3.04
+    thickness: 3.44
     links: 
       - name: LDY
-        url: https://ldybalisong.net/collections/%E5%85%B6%E4%BB%96%E5%95%86%E5%93%81/products/%E7%8C%8E%E6%88%B7%E5%BA%A7-v1-%E9%9B%B6%E4%BB%B6
+        url: https://ldybalisong.net/collections/%E5%85%B6%E4%BB%96%E5%95%86%E5%93%81/products/sirius-v4-hardware
   bearing:
     name: N/A
     links: null
 
 pivot:
-  threading: M4.0
+  threading: M4
   sexbolt:
-    length: 6.5
+    length: 6.3
     diameter: 5.0
     links: 
       - name: LDY
-        url: https://ldybalisong.net/collections/%E5%85%B6%E4%BB%96%E5%95%86%E5%93%81/products/%E7%8C%8E%E6%88%B7%E5%BA%A7-v1-%E9%9B%B6%E4%BB%B6
+        url: https://ldybalisong.net/collections/%E5%85%B6%E4%BB%96%E5%95%86%E5%93%81/products/sirius-v4-hardware
   screw:
-    length: 6.0
-    links: null
+    length: 6.5
+    links: 
+      - name: LDY
+        url: https://ldybalisong.net/collections/%E5%85%B6%E4%BB%96%E5%95%86%E5%93%81/products/sirius-v4-hardware
 
 # Body specs
 body:
-  threading: M4.0
+  threading: N/A
   sexbolt:
-    length: 6.5
-    diameter: 5.0
-    links: 
-      - name: LDY
-        url: https://ldybalisong.net/collections/%E5%85%B6%E4%BB%96%E5%95%86%E5%93%81/products/%E7%8C%8E%E6%88%B7%E5%BA%A7-v1-%E9%9B%B6%E4%BB%B6
+    length: N/A
+    diameter: N/A
+    links: null
   screw:
-    length: 6.0
-    links: 
-      - name: LDY
-        url: https://ldybalisong.net/collections/%E5%85%B6%E4%BB%96%E5%95%86%E5%93%81/products/%E7%8C%8E%E6%88%B7%E5%BA%A7-v1-%E9%9B%B6%E4%BB%B6
+    length: N/A
+    links: N/A
 
 # Variants
 variant_1:

@@ -48,7 +48,7 @@ Makers that CNC machine both blades and handles, typically finishes their parts 
 
 [LDY Balisong](https://ldybalisong.net/)
 {% assign ldy_path = '/balisongs/ldy/' %}
-- Kite, Orion [V1.5]({{ ldy_path | append: 'orion_v1_5.html' | relative_link }}), Corvus, Sirius, Frank, Cygnus, Vixen
+- Kite, Orion [V1.5]({{ ldy_path | append: 'orion_v1_5.html' | relative_link }}), Corvus, Sirius [V4.5]({{ ldy_path | append: 'sirius_v4_5.html' | relative_link }}), Frank, Cygnus, Vixen
 
 [MachineWise](https://machinewise.com/)
 {% assign mw_path = '/balisongs/machinewise/' %}
