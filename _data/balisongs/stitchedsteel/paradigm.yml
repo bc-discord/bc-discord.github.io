@@ -13,7 +13,7 @@
 
 name: Paradigm
 maker: Stitched Steel
-amount_made: 70s       #  Estimate acceptable. Whole number
+amount_made: 67       #  Estimate acceptable. Whole number
 production: Handmade           # Possible: 'CNC', 'Midtech', 'Handmade'
 units: imperial     # Exact: 'imperial', 'metric'
 links: null
@@ -23,12 +23,15 @@ availability: Available                 # Exact: 'Available', 'Discontinued', 'H
 retail: 1000                  # Whole number
 drop_schedule: Every few months         # Short descrption
 
+model_card_image:
+  url:
+
 has_ring: false
 
 # Overall
 overall:
   weight: 4.6                   # Decimal number
-  length: null                     # Decimal number
+  length: 9.875                     # Decimal number
   description: null
   image:
     path: null
@@ -43,8 +46,8 @@ blade:
     media: null               # Possible: 'Zirconia', 'Sand', 'Bead', 'Glass'
     coating: null              # Possible: 'DLC', 'PVD', 'Cerakote'
   measurement:
-    length: null           # Decimal number
-    thickness: null     # Decimal number
+    length: 5.125           # Decimal number
+    thickness: .136     # Decimal number
     weight: null            # Decimal number
   has_trainer: false          # Exact: 'true', 'false'
   is_trainer: false
@@ -54,7 +57,8 @@ blade:
   image:
     path: null
     caption: null
-  description: null
+  description: 
+    - 'Measurements are taken from Paradigm #47.'
 
 # Handle information
 handle:
@@ -74,15 +78,19 @@ handle:
     media: null                   # See blade equivalent.
     coating: null                  # See blade equivalent.
   measurement:
-    thickness: null          # Decimal number 
-    length: null                 # Decimal number
+    thickness: .514          # Decimal number 
+    taper_thickness: .508
+    width: .5
+    taper_width: .395
+    length: 5.3125                 # Decimal number
     weight: null                 # Decimal number
   has_weight_system: false        # Sexbolts and screws on the end of channel handles counts as a weight system, but not if required for spacers. Exact: 'false', 'true'
   has_spacers: true             # Exact: 'false', 'true'
   image:
     path: null
     caption: null
-  description: null
+  description: 
+    - 'Measurements are taken from Paradigm #47.'
 
 spacer:
   material: 6Al-4V Titanium                 
@@ -97,8 +105,8 @@ stop_system:
   type: Pressed Tang Pins         # Exact: 'Screwed Zen Pins', 'Pressed Zen Pins', 'Hidden Zen Pins', 'Pressed Tang Pins', 'Screwed Tang Pins'
   threading: N/A       # Must use slash, not dash. Example: 5/32.
   sexbolt: 
-    length: null
-    thickness: null
+    length: .480
+    thickness: .125
     links: null
   screw:
     length: null

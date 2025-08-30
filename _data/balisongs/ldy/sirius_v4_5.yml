@@ -48,7 +48,7 @@ blade:
     coating: null              # Possible: 'DLC', 'PVD', 'Cerakote'
   measurement:
     length: 128.5            # Decimal number
-    thickness: null     # Decimal number
+    thickness: 3.4     # Decimal number
     weight: null            # Decimal number
   has_trainer: true          # Exact: 'true', 'false'
   is_trainer: false
@@ -78,9 +78,10 @@ handle:
     media: null                   # See blade equivalent.
     coating: Ceramic Coating                       # See blade equivalent.
   measurement:
-    thickness: null          # Decimal number 
-    width: null
-    taper_width: null
+    thickness: 13.0          # Decimal number 
+    taper_thickness: 13.25
+    width: 13.85
+    taper_width: 10.17
     length: 142.0                # Decimal number
     weight: null                 # Decimal number
   has_weight_system: false        # Sexbolts and screws on the end of channel handles counts as a weight system, but not if required for spacers. Exact: 'false', 'true'
