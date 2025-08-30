@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Terminology
-nav_order: 6
+parent: Balisong
+nav_order: 1
 ---
 
 # Terminology
