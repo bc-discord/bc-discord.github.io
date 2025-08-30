@@ -143,15 +143,13 @@ layout: default
  <!-- End -->
 
 {% capture table_md -%}
-|Component | Spec | Details | Additional |
-| -- | -- | -- | -- |
-| Handles | Construction | {{ bali.handle.construction.type }} | Face: {{ bali.handle.construction.face}} <br> Edge break: {{ bali.handle.construction.edge_break }} <br> Width taper: {{ bali.handle.construction.taper.width }} <br> Height taper: {{ bali.handle.construction.taper.height }} |
-| | Material | Frame: {{ bali.handle.material.frame }} <br> Liner: {{ bali.handle.material.liner }} <br> Scale: {{ bali.handle.material.scale }} | {{ finish_str }} |
-| |Measurements | Thickness: {{ h_m.thickness | format_measure: 2, unit }} <br> Width: {{ h_m.width | format_measure: 2, unit }} <br> Length: {{ h_m.length | format_measure: 2, unit }} | Tapered thickness: {{ h_m.taper_thickness | format_measure: 2, unit }} <br> Tapered width: {{ h_m.taper_width | format_measure: 2, unit }} |
-| | Has weight system? | {{ bali.handle.has_weight_system }} |
+| Spec | Details | Additional |
+| -- | -- | -- |
+ | Construction | {{ bali.handle.construction.type }} | Face: {{ bali.handle.construction.face}} <br> Edge break: {{ bali.handle.construction.edge_break }} <br> Width taper: {{ bali.handle.construction.taper.width }} <br> Height taper: {{ bali.handle.construction.taper.height }} |
+| Material | Frame: {{ bali.handle.material.frame }} <br> Liner: {{ bali.handle.material.liner }} <br> Scale: {{ bali.handle.material.scale }} | {{ finish_str }} |
+|Measurements | Thickness: {{ h_m.thickness | format_measure: 2, unit }} <br> Width: {{ h_m.width | format_measure: 2, unit }} <br> Length: {{ h_m.length | format_measure: 2, unit }} | Tapered thickness: {{ h_m.taper_thickness | format_measure: 2, unit }} <br> Tapered width: {{ h_m.taper_width | format_measure: 2, unit }} |
+| Has weight system? | {{ bali.handle.has_weight_system }} |
 {% if bali.handle.has_spacers -%}
-| Spacer | Material |{{ bali.spacer.material }} |  |
-|  | Measurements | Thickness: {{ bali.spacer.thickness | format_measure: 3, unit }} | |
 {% endif -%}
 {%- endcapture %}
 {{ table_md | markdownify }}
@@ -186,6 +184,11 @@ layout: default
 {% for para in bali.spacer.description %}
   {{ para }}
 {% endfor %}
+
+| Spec | Details | Additional |
+| -- | -- | -- |
+| Material |{{ bali.spacer.material }} |  |
+| Measurements | Thickness: {{ bali.spacer.thickness | format_measure: 3, unit }} | |
 
 {% endif %}
 
