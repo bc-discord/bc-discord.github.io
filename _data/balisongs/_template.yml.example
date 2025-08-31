@@ -23,7 +23,8 @@ availability: null                 # Exact: 'Available', 'Discontinued', 'Hiatus
 retail: null                  # Whole number
 drop_schedule: null         # Short descrption
 
-model_card_image: null
+model_card_image: 
+  url: null
 
 has_ring: null
 

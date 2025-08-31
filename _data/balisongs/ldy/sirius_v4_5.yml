@@ -22,7 +22,7 @@ links:
 start_year: null              # Whole number
 end_year: null                # Whole number
 availability: Available                 # Exact: 'Available', 'Discontinued', 'Hiatus'
-retail: 95                  # Whole number
+retail: 156                  # Whole number
 drop_schedule: null         # Short descrption
 model_card_image: 
   url: null
@@ -49,7 +49,7 @@ blade:
   measurement:
     length: 128.5            # Decimal number
     thickness: 3.4     # Decimal number
-    weight: null            # Decimal number
+    weight: 34            # Decimal number
   has_trainer: true          # Exact: 'true', 'false'
   is_trainer: false
   edge:
@@ -83,7 +83,7 @@ handle:
     width: 13.85
     taper_width: 10.17
     length: 142.0                # Decimal number
-    weight: null                 # Decimal number
+    weight: 35                 # Decimal number
   has_weight_system: false        # Sexbolts and screws on the end of channel handles counts as a weight system, but not if required for spacers. Exact: 'false', 'true'
   has_spacers: false             # Exact: 'false', 'true'
   image:

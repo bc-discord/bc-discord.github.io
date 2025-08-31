@@ -56,7 +56,7 @@ Makers that CNC machine both blades and handles, typically finishes their parts 
 
 [Squid Industries](https://www.squidindustries.co/)
 {% assign si_path = '/balisongs/squid_industries/' %}
-- Squiddy, Mako, Triton, Nautilus [V2]({{ si_path | append: 'nautilus_v2.html' | relative_link }}), Swordfish, Squidtrainer, Kraken, Madko, Hydro, Tsunami ([live]({{ si_path | append: 'tsunami.html' | relative_link }}), trainer)
+- Squiddy, Mako, Triton, Nautilus [V2]({{ si_path | append: 'nautilus_v2.html' | relative_link }}), Swordfish, Squidtrainer, Kraken, Madko, Hydro, Tsunami ([live]({{ si_path | append: 'tsunami.html' | relative_link }}), [trainer]({{ si_path | append: 'tsunami_trainer.html' | relative_link }}))
 
 ### Smaller
 

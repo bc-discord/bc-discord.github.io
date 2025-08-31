@@ -23,7 +23,7 @@ links:
 start_year: 2022              # Whole number
 end_year: null                # Whole number
 availability: Available                # Exact: 'Available', 'Discontinued', 'Hiatus'
-retail: 650                  # Whole number
+retail: 700                  # Whole number
 drop_schedule: Few times a month         # Short descrption
 
 has_ring: false
