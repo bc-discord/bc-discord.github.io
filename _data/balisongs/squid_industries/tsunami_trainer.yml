@@ -23,8 +23,7 @@ end_year: null                # Whole number
 availability: Available              # Exact: 'Available', 'Discontinued', 'Hiatus'
 retail: 475                  # Whole number
 drop_schedule: At knife conventions (in-person), few drops a year (online) # Short descrption
-model_card_image: 
-  url: model_card.jpg
+model_card_image: null
 
 has_ring: false
 

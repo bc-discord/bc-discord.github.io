@@ -1,0 +1,37 @@
+---
+layout: null
+permalink: /balisongs.json
+---
+[
+{%- assign first = true -%}
+{%- for maker_pair in site.data.balisongs -%}
+  {%- assign maker = maker_pair[0] -%}
+  {%- assign files_hash = maker_pair[1] -%}
+  {%- if files_hash -%}
+    {%- for file_pair in files_hash -%}
+      {%- assign balisong_key = file_pair[0] -%}
+      {%- assign item = file_pair[1] -%}
+
+      {%- if item.name -%}
+        {% assign path = "/balisongs/" | append: maker | append: "/" | append: balisong_key | append: ".html" %}
+
+        {%- assign material_str = "" -%}
+        {%- for pair in item.handle.material -%}
+          {%- assign value = pair[1] -%}
+          {%- unless value == "N/A" or value == "" or value == nil -%}
+            {%- if material_str != "" -%}
+              {%- assign material_str = material_str | append: "||" -%}
+            {%- endif -%}
+            {%- assign material_str = material_str | append: value -%}
+          {%- endunless -%}
+        {%- endfor -%}
+        {%- assign materials = material_str | split: "||" -%}
+
+        {%- if item.units == 'metric' -%}
+          {% assign weight = item.overall.weight | divided_by: 28.35 | round: 2 %}
+        {%- else -%}
+          {% assign weight = item.overall.weight %}
+        {%- endif -%}{% unless first %},{% endunless %}
+{"name": {{ item.name | jsonify }},"maker": {{ item.maker | jsonify }},"status": {{ item.availability | jsonify }},"retail": {{ item.retail | jsonify }},"weight": {{ weight | jsonify }},"handle_materials": {{ item.handle.material | jsonify }},
+"handle_construction": {{ item.handle.construction.type | jsonify }},"stop_system": {{ item.stop_system.type | jsonify }},"url": {{ path | relative_url | jsonify }}}
+{% assign first = false %}{%- endif -%}{%- endfor -%}{%- endif -%}{%- endfor -%}]
