@@ -110,7 +110,7 @@
         }
 
         const into_info_parts = [
-          Number.isFinite(it.retail)  && it.retail != 0 ? `$${it.retail}` : '',
+          Number.isFinite(it.retail) && it.retail != 0 ? `$${it.retail}` : '',
           Number.isFinite(it.weight) && it.weight != 0 ? `${it.weight} oz` : '',
         ].filter(Boolean);
 

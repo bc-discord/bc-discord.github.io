@@ -18,8 +18,8 @@ units: imperial
 links:
   - name: MachineWise
     url: https://machinewise.store/products/serif-1
-  - name: MachineWise
-    url: https://machinewise.store/products/serif-1
+  - name: 'MachineWise: Custom'
+    url: https://machinewise.store/products/custom-serif?variant=42195942735931
 start_year: 2022              # Whole number
 end_year: null                # Whole number
 availability: Available                # Exact: 'Available', 'Discontinued', 'Hiatus'
@@ -39,7 +39,7 @@ overall:
 
 # Blade information
 blade:
-  shape: Bowie 
+  shape: Drop Point 
   material: S35VN
   surface:
     finish: Stonewashed       # Possible: 'Stonewashed', 'Tumbled', 'Blasted', 'Satin', 'Polished' 
