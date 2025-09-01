@@ -60,14 +60,16 @@ To tune your bushings, you need
 
 1. Lay some sandpaper onto the flat surface.
 2. Pick one side of the bushing to work on. **Be consistent**.
-3. Lay the bushing onto the sandpaper and move in a circle to remove material. **Do not press down hard**; if you hand or bushing is slipping off the sandpaper, press softer.
-4. Constantly check if you have removed too much material by assembling your balisong. You must use fresh washers everytime as the bushings will crimp the washers a different way on every assemble.
+3. Lay the bushing onto the sandpaper and move in a circle to remove material.  
+    - **Do not press down hard**; if you hand or bushing is slipping off the sandpaper, press softer.
+4. Constantly check your tune if you have removed too much material by assembling your balisong. 
+    - When assembling, you must torque the pivot screws as hard as you can; do the same for screwed zen pins (becareful not to break the head off). You must use fresh washers everytime as the bushings will crimp the washers a different way on every assemble.
 
 This is a barebones description of tuning your bushings. If you want consistent and accurate bushing tunes, get 
 - several sheets of sandpaper at different grit levels (e.g., 200, 500, and 1000); as you get closer to blade thickness, increase the grit level for some breathing room
 - a measurement tool (e.g., micrometer) to dial in the exact thickness and to save on washers when reassembling
 - a [bushing lap](https://usaknifemaker.com/pivot-lap-basic-knifedogs-5-bushing-model.html) or [bushing buddy](https://www.squidindustries.co/products/bushing-buddy) to sand your bushings parallel to your flat surface and perpendicular (thickness length is at a right angle to the width of circle)
 
-There's a few tricks you can employ to get a tigher tune:
+There's a few tricks you can employ to get a tighter tune:
 - replacing steel washers with PB washers; softer-metal washers will crimp more than steel ones
 - replacing the pivot hardware with fine-pitch hardware; the denser threading gives a stronger clamping force
