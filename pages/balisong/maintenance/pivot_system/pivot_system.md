@@ -61,9 +61,9 @@ To tune your bushings, you need
 1. Lay some sandpaper onto the flat surface.
 2. Pick one side of the bushing to work on. **Be consistent**.
 3. Lay the bushing onto the sandpaper and move in a circle to remove material.  
-    - **Do not press down hard**; if you hand or bushing is slipping off the sandpaper, press softer.
+    - **Do not press down hard**; if your hand or bushing is slipping off the sandpaper, press softer.
 4. Constantly check your tune if you have removed too much material by assembling your balisong. 
-    - When assembling, you must torque the pivot screws as hard as you can; do the same for screwed zen pins (becareful not to break the head off). You must use fresh washers everytime as the bushings will crimp the washers a different way on every assemble.
+    - When assembling, you must torque the pivot screws as hard as you can; do the same for screwed zen pins (be careful not to break the head off). You must use fresh washers everytime as the bushings will crimp the washers a different way on every assemble.
 
 This is a barebones description of tuning your bushings. If you want consistent and accurate bushing tunes, get 
 - several sheets of sandpaper at different grit levels (e.g., 200, 500, and 1000); as you get closer to blade thickness, increase the grit level for some breathing room
