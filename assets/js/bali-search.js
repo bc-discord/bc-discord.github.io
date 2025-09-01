@@ -163,7 +163,7 @@
     const material = String(els.material.value || '').toLowerCase();
 
     const out = DATA.filter((it) => {
-      if (status && it._status !== status) return false;
+      if (status && it._status.replace(' ', '-') !== status) return false;
 
       if (hasMinPrice && it._retail < min_price) return false;
       if (hasMaxPrice && it._retail > max_price) return false;
