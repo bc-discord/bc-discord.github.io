@@ -27,8 +27,11 @@
 
   async function loadDataOnce() {
     if (DATA) return;
+
     const res = await fetch(dataUrl, { credentials: 'same-origin' });
+
     if (!res.ok) throw new Error('Failed to load data');
+
     const raw = await res.json();
     DATA = raw.map((d) => {
       const retailNum = Number(d.retail);
@@ -101,7 +104,7 @@
         const item_info = liNode.querySelector('.item-info');
 
         if (it.status != "") {
-          status_label.classList.add(it._status)
+          status_label.classList.add(it._status.replace(' ', '-'))
           status_label.textContent = it.status
         }
         else {

@@ -39,9 +39,10 @@ You can use this page to filter for balisongs with specific qualities. Only the 
     <label>
       <select id="status">
         <option value="">Any</option>
-        <option>Available</option>
-        <option>Discontinued</option>
-        <option>Hiatus</option>
+        <option value='available'>Available</option>
+        <option value='in-production'>In Production</option>
+        <option value='discontinued'>Discontinued</option>
+        <option value='hiatus'>Hiatus</option>
       </select>
     </label>
   </fieldset>

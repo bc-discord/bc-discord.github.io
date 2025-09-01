@@ -21,7 +21,7 @@ links:
     link: https://www.bladerunnerssystems.com/collections/alpha-beast-1/products/alpha-beast?variant=35065373327511
 start_year: null              # Whole number
 end_year: null                # Whole number
-availability: Available                 # Exact: 'Available', 'Discontinued', 'Hiatus'
+availability: In Production                 # Exact: 'Available', 'Discontinued', 'Hiatus'
 retail: 410                  # Whole number
 drop_schedule: Few times a year         # Short descrption
 

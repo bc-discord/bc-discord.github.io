@@ -21,7 +21,7 @@ links:
     url: https://gdktllc.com/
 start_year: 2013              # Whole number
 end_year: null                # Whole number
-availability: Available                 # Exact: 'Available', 'Discontinued', 'Hiatus'
+availability: In Production                 # Exact: 'Available', 'Discontinued', 'Hiatus'
 retail: 750                  # Whole number
 drop_schedule: Personal orders         # Short description
 model_card_image: 

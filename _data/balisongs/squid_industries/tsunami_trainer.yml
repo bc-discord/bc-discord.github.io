@@ -20,7 +20,7 @@ links:
     url: https://squidindustriesknives.co/products/zirblast-tsunami
 start_year: 2021              # Whole number
 end_year: null                # Whole number
-availability: Available              # Exact: 'Available', 'Discontinued', 'Hiatus'
+availability: In Production              # Exact: 'Available', 'Discontinued', 'Hiatus'
 retail: 475                  # Whole number
 drop_schedule: At knife conventions (in-person), few drops a year (online) # Short descrption
 model_card_image: null

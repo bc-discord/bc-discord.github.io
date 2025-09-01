@@ -6,32 +6,34 @@
 # (Example)
 # links:
 #   - name: TRUELINK: 
-#     link: https://thetruelink.com/products/250-od-x-188-id-bushing-xp
+#     url: https://thetruelink.com/products/250-od-x-188-id-bushing-xp
 
 # Possible means you can write alternative answers.
 # Exact means only these options, exactly as written.
 
-name: Paradigm
-maker: Stitched Steel
-amount_made: 67       #  Estimate acceptable. Whole number
-production: Handmade           # Possible: 'CNC', 'Midtech', 'Handmade'
+name: Hydro Trainer
+maker: Squid Industries
+amount_made: null       #  Estimate acceptable. Whole number
+production: CNC           # Possible: 'CNC', 'Midtech', 'Handmade'
 units: imperial     # Exact: 'imperial', 'metric'
-links: null
-start_year: 2021              # Whole number
+links: 
+  - name: Squid Industries
+    url: https://www.squidindustries.co/products/hydro-trainer
+start_year: null              # Whole number
 end_year: null                # Whole number
 availability: In Production                 # Exact: 'Available', 'Discontinued', 'Hiatus'
-retail: 1000                  # Whole number
-drop_schedule: Every few months         # Short descrption
+retail: 340                  # Whole number
+drop_schedule: null         # Short descrption
 
-model_card_image:
-  url:
+model_card_image: 
+  url: null
 
 has_ring: false
 
 # Overall
 overall:
-  weight: 4.6                   # Decimal number
-  length: 9.875                     # Decimal number
+  weight: 4.04                   # Decimal number
+  length: 9.95                     # Decimal number
   description: null
   image:
     path: null
@@ -40,60 +42,58 @@ overall:
 # Blade information
 blade:
   shape: Tanto 
-  material: S35VN
+  material: 14C28N
   surface:
-    finish: Satin       # Possible: 'Stonewashed', 'Tumbled', 'Blasted', 'Satin', 'Polished' 
+    finish: Stonewashed       # Possible: 'Stonewashed', 'Tumbled', 'Blasted', 'Satin', 'Polished' 
     media: null               # Possible: 'Zirconia', 'Sand', 'Bead', 'Glass'
     coating: null              # Possible: 'DLC', 'PVD', 'Cerakote'
   measurement:
-    length: 5.125           # Decimal number
-    thickness: .136     # Decimal number
+    length: 4.500           # Decimal number
+    thickness: null     # Decimal number
     weight: null            # Decimal number
   has_trainer: false          # Exact: 'true', 'false'
-  is_trainer: false
+  is_trainer: true
   edge:
     tang: Chamfered                  # Exact: 'Rounded', 'Chamfered', 'None'
-    spine: Rounded                # Exact: 'Rounded', 'Chamfered', 'None'
+    spine: Chamfered                # Exact: 'Rounded', 'Chamfered', 'None'
   image:
     path: null
     caption: null
-  description: 
-    - 'Measurements are taken from Paradigm #47.'
+  description: null
 
 # Handle information
 handle:
   construction:
     type: Sandwich     # Exact: 'Liners and Scales', 'Sandwich', 'Channel', 'Chanwich'
     face: Flat
-    edge_break: Rounded    # Exact: 'Rounded', 'Chamfered', 'Rounded and Chamfered'
+    edge_break: Double Chamfered    # Exact: 'Rounded', 'Chamfered', 'Rounded and Chamfered'
     taper:
-      height: true          # Exact: 'false', 'true'
+      height: false          # Exact: 'false', 'true'
       width: true              # Exact: 'false', 'true'
   material:
-      frame: 6Al-4V Titanium      # Possible: 'Titanium', 'Aluminum', 'CF', 'G10'
+      frame: 6AL-4V Titanium      # Possible: 'Titanium', 'Aluminum', 'CF', 'G10'
       liner: N/A       # Leave null if not applicable.
       scale: N/A         # Leave null if not applicable.
   surface: 
-    finish: Satin                # See blade equivalent.
+    finish: Stonewashed                # See blade equivalent.
     media: null                   # See blade equivalent.
     coating: null                  # See blade equivalent.
   measurement:
-    thickness: .514          # Decimal number 
-    taper_thickness: .508
-    width: .5
-    taper_width: .395
-    length: 5.3125                 # Decimal number
+    thickness: .475          # Decimal number 
+    taper_thickness: null
+    width: null
+    taper_width: null
+    length: 5.450                 # Decimal number
     weight: null                 # Decimal number
   has_weight_system: false        # Sexbolts and screws on the end of channel handles counts as a weight system, but not if required for spacers. Exact: 'false', 'true'
   has_spacers: true             # Exact: 'false', 'true'
   image:
     path: null
     caption: null
-  description: 
-    - 'Measurements are taken from Paradigm #47.'
+  description: null
 
 spacer:
-  material: 6Al-4V Titanium                 
+  material: G-10                 
   thickness: null
   description: null
   image:
@@ -102,14 +102,14 @@ spacer:
 
 # Stop system
 stop_system: 
-  type: Pressed Tang Pins         # Exact: 'Screwed Zen Pins', 'Pressed Zen Pins', 'Hidden Zen Pins', 'Pressed Tang Pins', 'Screwed Tang Pins'
+  type: Hidden Zen Pins         # Exact: 'Screwed Zen Pins', 'Pressed Zen Pins', 'Hidden Zen Pins', 'Pressed Tang Pins', 'Screwed Tang Pins'
   threading: N/A       # Must use slash, not dash. Example: 5/32.
   sexbolt: 
-    length: .480
-    thickness: .125
+    length: null
+    thickness: null
     links: null
   screw:
-    length: null
+    length: N/A 
     links: null
 
 # Pivot system
@@ -121,32 +121,33 @@ pivot_system:
     thickness: null
     links: null
   bushing:
-    OD: .375 
-    ID: .1875
+    OD: null
+    ID: null
     thickness: null
     links: null
   bearing:
-    name: N/A
+    name: null
     links: null
 
 pivot:
-  threading: 6-32
+  threading: null
   sexbolt:
-    length: .320
-    diameter: .1875
+    length: null
+    diameter: null
     links: null
   screw:
-    length: .25
+    length: null
     links: null
 
 # Body specs
 body:
-  threading: 2-56
+  threading: null
   sexbolt:
     length: null
+    diameter: null
     links: null
   screw:
-    length: .250
+    length: null
     links: null
 
 # Variants

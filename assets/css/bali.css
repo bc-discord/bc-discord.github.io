@@ -25,9 +25,10 @@ label {
   border-radius:.5rem; 
   font-size:.8rem;
 }
-.status.available{background:#28a745; color:#fff;}
+.status.in-production{background:#28a745; color:#fff;}
 .status.discontinued{background:#6c757d; color:#fff;}
 .status.hiatus{background:#fd7e14; color:#fff;}
+.status.one-off {background:#6f42c1; /* purple = special/unique */color:#fff;}
 
 .input-frame {
   display: inline-block; 

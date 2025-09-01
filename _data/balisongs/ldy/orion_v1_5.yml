@@ -21,7 +21,7 @@ links:
     url: https://ldybalisong.net/products/orion-v1-5
 start_year: null              # Whole number
 end_year: null                # Whole number
-availability: Available                 # Exact: 'Available', 'Discontinued', 'Hiatus'
+availability: In Production                 # Exact: 'Available', 'Discontinued', 'Hiatus'
 retail: 95                  # Whole number
 drop_schedule: null         # Short descrption
 model_card_image: 

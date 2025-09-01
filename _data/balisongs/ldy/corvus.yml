@@ -11,26 +11,29 @@
 # Possible means you can write alternative answers.
 # Exact means only these options, exactly as written.
 
-name: Chioni
-maker: NoloBuilds
-amount_made: null       #  Estimate acceptable. Whole number
+name: Corvus (live)
+maker: LDY
+amount_made: 280       #  Estimate acceptable. Whole number
 production: CNC           # Possible: 'CNC', 'Midtech', 'Handmade'
-units: imperial     # Exact: 'imperial', 'metric'
+units: metric     # Exact: 'imperial', 'metric'
 links: 
-  - name: NoloBuilds
-    url: https://nolobuilds.com/products/chioni
-start_year: 2018              # Whole number
+  - name: LDY
+    url: https://ldybalisong.net/products/%E4%B9%8C%E9%B8%A6%E5%BA%A7
+start_year: null              # Whole number
 end_year: null                # Whole number
-availability: In Production                 # Exact: 'Available', 'Discontinued', 'Hiatus'
-retail: 295                  # Whole number
-drop_schedule: Few times a year         # Short descrption
+availability: Discontinued               # Exact: 'In Production', 'Discontinued', 'Hiatus', 'One Off'
+retail: null                  # Whole number
+drop_schedule: null         # Short descrption
+
+model_card_image: 
+  url: null
 
 has_ring: false
 
 # Overall
 overall:
-  weight: 4.545                   # Decimal number
-  length: 9.92                     # Decimal number
+  weight: 117                   # Decimal number
+  length: 254.39                     # Decimal number
   description: null
   image:
     path: null
@@ -41,15 +44,15 @@ blade:
   shape: null 
   material: 440C
   surface:
-    finish: Satin       # Possible: 'Stonewashed', 'Tumbled', 'Blasted', 'Satin', 'Polished' 
+    finish: Plated Titanium       # Possible: 'Stonewashed', 'Tumbled', 'Blasted', 'Satin', 'Polished' 
     media: null               # Possible: 'Zirconia', 'Sand', 'Bead', 'Glass'
     coating: null              # Possible: 'DLC', 'PVD', 'Cerakote'
   measurement:
-    length: null           # Decimal number
+    length: 129.02           # Decimal number
     thickness: null     # Decimal number
     weight: null            # Decimal number
-  has_trainer: null          # Exact: 'true', 'false'
-  is_trainer: true
+  has_trainer: true          # Exact: 'true', 'false'
+  is_trainer: false
   edge:
     tang: null                  # Exact: 'Rounded', 'Chamfered', 'None'
     spine: null                # Exact: 'Rounded', 'Chamfered', 'None'
@@ -62,22 +65,25 @@ blade:
 handle:
   construction:
     type: Channel     # Exact: 'Liners and Scales', 'Sandwich', 'Channel', 'Chanwich'
-    face: Rounded
-    edge_break: None    # Exact: 'Rounded', 'Chamfered', 'Rounded and Chamfered'
+    face: Flat
+    edge_break: null    # Exact: 'Rounded', 'Chamfered', 'Rounded and Chamfered'
     taper:
-      height: false          # Exact: 'false', 'true'
-      width: true              # Exact: 'false', 'true'
+      height: null          # Exact: 'false', 'true'
+      width: null              # Exact: 'false', 'true'
   material:
-      frame: 6Al-4V Titanium      # Possible: 'Titanium', 'Aluminum', 'CF', 'G10'
+      frame: 7075 Aluminum      # Possible: 'Titanium', 'Aluminum', 'CF', 'G10'
       liner: N/A       # Leave null if not applicable.
       scale: N/A         # Leave null if not applicable.
   surface: 
-    finish: Satin                # See blade equivalent.
+    finish: null                # See blade equivalent.
     media: null                   # See blade equivalent.
     coating: null                  # See blade equivalent.
   measurement:
     thickness: null          # Decimal number 
-    length: null                 # Decimal number
+    taper_thickness: null
+    width: null
+    taper_width: null
+    length: 140                 # Decimal number
     weight: null                 # Decimal number
   has_weight_system: false        # Sexbolts and screws on the end of channel handles counts as a weight system, but not if required for spacers. Exact: 'false', 'true'
   has_spacers: false             # Exact: 'false', 'true'
@@ -87,7 +93,7 @@ handle:
   description: null
 
 spacer:
-  material: null
+  material: null                 
   thickness: null
   description: null
   image:
@@ -96,41 +102,41 @@ spacer:
 
 # Stop system
 stop_system: 
-  type: Pinless         # Exact: 'Screwed Zen Pins', 'Pressed Zen Pins', 'Hidden Zen Pins', 'Pressed Tang Pins', 'Screwed Tang Pins'
+  type: Pressed Zen Pins         # Exact: 'Screwed Zen Pins', 'Pressed Zen Pins', 'Hidden Zen Pins', 'Pressed Tang Pins', 'Screwed Tang Pins'
   threading: N/A       # Must use slash, not dash. Example: 5/32.
   sexbolt: 
-    length: null
-    thickness: null
+    length: 13.0
+    thickness: 3.5
     links: null
   screw:
-    length: null
+    length: N/A 
     links: null
 
 # Pivot system
 pivot_system: 
   type: Bushings               # Exact: 'Washers', 'Bearings', 'Bushings'
   washer:
-    OD: null
-    ID: null
-    thickness: null
+    OD: 10
+    ID: 5.25
+    thickness: 1.0
     links: null
   bushing:
-    OD: null
-    ID: null
-    thickness: null
+    OD: 7.0
+    ID: 5.20
+    thickness: 3.55
     links: null
   bearing:
     name: null
     links: null
 
 pivot:
-  threading: null
+  threading: M4
   sexbolt:
-    length: null
-    diameter: null
+    length: 6.5
+    diameter: 5.2
     links: null
   screw:
-    length: null
+    length: 6.2
     links: null
 
 # Body specs

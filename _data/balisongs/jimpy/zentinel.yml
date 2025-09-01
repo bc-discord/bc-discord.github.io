@@ -21,7 +21,7 @@ links:
     url: https://www.jimpydesigns.com/shop/p/jimpy-sentinel-nn8cn
 start_year: 2023              # Whole number
 end_year: null                # Whole number
-availability: Available                 # Exact: 'Available', 'Discontinued', 'Hiatus'
+availability: In Production                 # Exact: 'Available', 'Discontinued', 'Hiatus'
 retail: 450                  # Whole number
 drop_schedule: Few times a month         # Short descrption
 

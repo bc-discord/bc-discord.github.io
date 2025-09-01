@@ -20,7 +20,7 @@ links:
     url: https://www.squidindustries.co/products/nautilus-v2
 start_year: 2022              # Whole number
 end_year: null                # Whole number
-availability: Available              # Exact: 'Available', 'Discontinued', 'Hiatus'
+availability: In Production              # Exact: 'Available', 'Discontinued', 'Hiatus'
 retail: 215                  # Whole number
 drop_schedule: Every week         # Short descrption
 

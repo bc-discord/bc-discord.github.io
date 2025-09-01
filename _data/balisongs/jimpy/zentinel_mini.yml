@@ -11,27 +11,26 @@
 # Possible means you can write alternative answers.
 # Exact means only these options, exactly as written.
 
-name: Paradigm
-maker: Stitched Steel
-amount_made: 67       #  Estimate acceptable. Whole number
-production: Handmade           # Possible: 'CNC', 'Midtech', 'Handmade'
+name: Zentinel Mini
+maker: Jimpy Designs
+amount_made: Few tens       #  Estimate acceptable. Whole number
+production: CNC           # Possible: 'CNC', 'Midtech', 'Handmade'
 units: imperial     # Exact: 'imperial', 'metric'
-links: null
-start_year: 2021              # Whole number
+links: 
+  - name: Jimpy Designs
+    url: https://www.jimpydesigns.com/shop/p/jimpy-sentinel-nn8cn
+start_year: 2024              # Whole number
 end_year: null                # Whole number
 availability: In Production                 # Exact: 'Available', 'Discontinued', 'Hiatus'
-retail: 1000                  # Whole number
-drop_schedule: Every few months         # Short descrption
-
-model_card_image:
-  url:
+retail: 405                  # Whole number
+drop_schedule: Every few weeks         # Short descrption
 
 has_ring: false
 
 # Overall
 overall:
-  weight: 4.6                   # Decimal number
-  length: 9.875                     # Decimal number
+  weight: 3.4                   # Decimal number
+  length: 7.875                     # Decimal number
   description: null
   image:
     path: null
@@ -39,35 +38,34 @@ overall:
 
 # Blade information
 blade:
-  shape: Tanto 
-  material: S35VN
+  shape: Spearpoint 
+  material: MagnaCut
   surface:
     finish: Satin       # Possible: 'Stonewashed', 'Tumbled', 'Blasted', 'Satin', 'Polished' 
     media: null               # Possible: 'Zirconia', 'Sand', 'Bead', 'Glass'
     coating: null              # Possible: 'DLC', 'PVD', 'Cerakote'
   measurement:
-    length: 5.125           # Decimal number
-    thickness: .136     # Decimal number
+    length: null           # Decimal number
+    thickness: null     # Decimal number
     weight: null            # Decimal number
   has_trainer: false          # Exact: 'true', 'false'
   is_trainer: false
   edge:
     tang: Chamfered                  # Exact: 'Rounded', 'Chamfered', 'None'
-    spine: Rounded                # Exact: 'Rounded', 'Chamfered', 'None'
+    spine: Chamfered                # Exact: 'Rounded', 'Chamfered', 'None'
   image:
     path: null
     caption: null
-  description: 
-    - 'Measurements are taken from Paradigm #47.'
+  description: null
 
 # Handle information
 handle:
   construction:
-    type: Sandwich     # Exact: 'Liners and Scales', 'Sandwich', 'Channel', 'Chanwich'
-    face: Flat
-    edge_break: Rounded    # Exact: 'Rounded', 'Chamfered', 'Rounded and Chamfered'
+    type: Channel     # Exact: 'Liners and Scales', 'Sandwich', 'Channel', 'Chanwich'
+    face: Rounded
+    edge_break: None    # Exact: 'Rounded', 'Chamfered', 'Rounded and Chamfered'
     taper:
-      height: true          # Exact: 'false', 'true'
+      height: false          # Exact: 'false', 'true'
       width: true              # Exact: 'false', 'true'
   material:
       frame: 6Al-4V Titanium      # Possible: 'Titanium', 'Aluminum', 'CF', 'G10'
@@ -78,35 +76,32 @@ handle:
     media: null                   # See blade equivalent.
     coating: null                  # See blade equivalent.
   measurement:
-    thickness: .514          # Decimal number 
-    taper_thickness: .508
-    width: .5
-    taper_width: .395
-    length: 5.3125                 # Decimal number
+    thickness: null          # Decimal number 
+    length: 4.4375                 # Decimal number
     weight: null                 # Decimal number
   has_weight_system: false        # Sexbolts and screws on the end of channel handles counts as a weight system, but not if required for spacers. Exact: 'false', 'true'
-  has_spacers: true             # Exact: 'false', 'true'
+  has_spacers: false             # Exact: 'false', 'true'
   image:
     path: null
     caption: null
   description: 
-    - 'Measurements are taken from Paradigm #47.'
+    - Very narrow (low width) handles; cross-section is more rectangular on the ends. 
 
 spacer:
-  material: 6Al-4V Titanium                 
+  material: null                 
   thickness: null
   description: null
   image:
     path: null
-    caption: null
+    caption: ...
 
 # Stop system
 stop_system: 
-  type: Pressed Tang Pins         # Exact: 'Screwed Zen Pins', 'Pressed Zen Pins', 'Hidden Zen Pins', 'Pressed Tang Pins', 'Screwed Tang Pins'
-  threading: N/A       # Must use slash, not dash. Example: 5/32.
+  type: Screwed Zen Pins         # Exact: 'Screwed Zen Pins', 'Pressed Zen Pins', 'Hidden Zen Pins', 'Pressed Tang Pins', 'Screwed Tang Pins'
+  threading: 2-56       # Must use dash. Example: 5-32.
   sexbolt: 
-    length: .480
-    thickness: .125
+    length: .394
+    thickness: 0.125
     links: null
   screw:
     length: null
@@ -116,14 +111,14 @@ stop_system:
 pivot_system: 
   type: Bushings               # Exact: 'Washers', 'Bearings', 'Bushings'
   washer:
-    OD: null
-    ID: null
-    thickness: null
+    OD: 0.375
+    ID: 0.1875
+    thickness: 0.02
     links: null
   bushing:
-    OD: .375 
+    OD: .25
     ID: .1875
-    thickness: null
+    thickness: 0.1413
     links: null
   bearing:
     name: N/A
@@ -132,21 +127,23 @@ pivot_system:
 pivot:
   threading: 6-32
   sexbolt:
-    length: .320
-    diameter: .1875
+    length: 0.395
+    diameter: 0.1875
     links: null
   screw:
-    length: .25
-    links: null
+    length: null
+    links: 
+      - name: Jimpy Designs
+        url: https://www.jimpydesigns.com/shop/p/t10flat-head-screws
 
 # Body specs
 body:
-  threading: 2-56
+  threading: N/A
   sexbolt:
     length: null
     links: null
   screw:
-    length: .250
+    length: null
     links: null
 
 # Variants

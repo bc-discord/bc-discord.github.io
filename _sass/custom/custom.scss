@@ -73,9 +73,10 @@
           border-radius:.5rem; 
           font-size:.8rem;
         }
-        .mc-status-value.available{background:#28a745; color:#fff;}
+        .mc-status-value.in-production{background:#28a745; color:#fff;}
         .mc-status-value.discontinued{background:#6c757d; color:#fff;}
         .mc-status-value.hiatus{background:#fd7e14; color:#fff;}
+        .mc-status-value.one-off {background:#6f42c1; color:#fff;}
       .mc-ds {margin: 0; font-size:.9rem;}
         .mc-ds-text {color: var(--muted);}
         .mc-ds-value {font-weight: 400;}
