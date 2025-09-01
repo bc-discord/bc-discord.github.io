@@ -23,15 +23,15 @@ These recommendations are geared for the U.S. market; outside of the U.S., it's 
 ### < $50
 
 ### $51 - $100
-- **LDY**: Orion V1.5 · $95 · Available · ✦✦✦✦✧
+- **LDY**: Orion V1.5 · $95 · In Production · ✦✦✦✦✧
     - Pretty good flipper. Not a good beater because of Al sandwich construction.
 
 ### $101 - $200
-- **LDY**: Sirius V4.5 · $155 · Available · ✦✦✦✦✧
+- **LDY**: Sirius V4.5 · $155 · In Production · ✦✦✦✦✧
     - Al channel handles. Good value for the handle construction. Only pain point is pressed pins.
 
 ### $201 - $350
-- **Squid Industries**: Kraken · $265 · Available · ✦✦✦✦✧
+- **Squid Industries**: Kraken · $265 · In Production · ✦✦✦✦✧
     - Al channel handles. Consistent flipper, commonly used during live competitions. Pins wear down quickly if you flip often.
 - **FLS Balisong**: Liminal · $275 · Discontinued · ✦✦✧✧✧
     - Early issues with cracked tang; if you don't beat your balisong, pretty good value with Ti channel handles. Might be hard to find secondhand, but you can find these stupid cheap for 100 something secondhand. Bottom weights are not easily replacable. 
@@ -39,12 +39,12 @@ These recommendations are geared for the U.S. market; outside of the U.S., it's 
 ### $351 - $600
 - **MachineWise**: SlifT V2 · $365 · Discontinued · ✦✦✦✦✧
     - Titanium channel handles on bushings. Pretty good value. Discontinued, but won't be difficult to find. If you want something more handle bias, find the V1. Easy to service besides the pressed pins.
-- **Squid Industries**: Hydro · $395 · Available · ✦✦✦✧✧
+- **Squid Industries**: Hydro · $395 · In Production · ✦✦✦✧✧
     - Little too blade bias, closer to neutral with carbon fiber spacers. Also on the shorter side to the modern balisong length. Pretty good value secondhand in the 200s.
 
 ### $601 - $800
-- **MachineWise**: Serif · $700 · Available · ✦✦✦✦✦
-- **Squid Industries**: Tsunami · $750 · Available · ✦✦✦✦✦
+- **MachineWise**: Serif · $700 · In Production · ✦✦✦✦✦
+- **Squid Industries**: Tsunami · $750 · In Production · ✦✦✦✦✦
     - Very comfortable rounded handles with chamfering. 
 
 ### $801+
@@ -55,26 +55,26 @@ This is where quality levels off. At this juncture, you're buying into variety o
 ## Trainers
 
 ### < $50
-- **Nabalis**: Impulse · $45 · Available · ✦✦✦✦✧
+- **Nabalis**: Impulse · $45 · In Production · ✦✦✦✦✧
     - Pins fall out, like most cheaper Nabalis balisongs.
 
 ### $51 - $100
-- **Thomas Balisong**: Refault · $70 · Available · ✦✦✦✦✧
+- **Thomas Balisong**: Refault · $70 · In Production · ✦✦✦✦✧
 
 ### $101 - $200
 - **Machinewise**: Prysma v1/v2/Pro · $130/150/180 · Discontinued · ✦✦✦✦✧
     - Best value is the v1 with 6061 Al handles. Upgrade to the Pro for rounded handles with 7075 Al. Easy to self-service besides pressed pins.
-- **Thomas Balisong**: Baikal · $150 · Available · ✦✦✦✦✧
+- **Thomas Balisong**: Baikal · $150 · In Production · ✦✦✦✦✧
     - A more modern recommendation. Al channel handles on bushings.
-- **Squid Industries**: Squidtrainer V4 · $160 · Available · ✦✦✦✦✧
+- **Squid Industries**: Squidtrainer V4 · $160 · In Production · ✦✦✦✦✧
     - 6061 Al handles with bushings (starting V4). Harder to service with pressed pins.
 
 ### $201 - $300
-- **Squid Industries**: Nautilus V2 · $216 · Available · ✦✦✦✧✧
+- **Squid Industries**: Nautilus V2 · $216 · In Production · ✦✦✦✧✧
     - Pretty handle bias but favored for tech flipping. Al channel with CF/G10 scales makes it a subpar beater. Harder to service with pressed pins.
 
 ### $301 - $500
-- **Squid Industries**: Tsunami Trainer · $475 · Available · ✦✦✦✧✧
+- **Squid Industries**: Tsunami Trainer · $475 · In Production · ✦✦✦✧✧
     - Pretty much all the good things of the Tsunami but with a few quirks. More blade bias than live counterpart. The blade is not hardened; not a good beater.
 
 ### $501+
