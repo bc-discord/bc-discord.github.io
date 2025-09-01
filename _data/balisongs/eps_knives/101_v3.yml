@@ -1,0 +1,157 @@
+# Balisong Template
+
+# You fill in the null values. If you are not sure, leave it null.
+
+# Links: If no links are available, just set it as null. Must be done as list if links exist. Just one entry is acceptable.
+# (Example)
+# links:
+#   - name: TRUELINK: 
+#     url: https://thetruelink.com/products/250-od-x-188-id-bushing-xp
+
+# Possible means you can write alternative answers.
+# Exact means only these options, exactly as written.
+
+name: 101 V3
+maker: EPS Knives
+amount_made: null       #  Estimate acceptable. Whole number
+production: CNC           # Possible: 'CNC', 'Midtech', 'Handmade'
+units: imperial     # Exact: 'imperial', 'metric'
+links: 
+  - name: EPS Knives
+    url: https://epsknives.com/products/101-v3
+start_year: null              # Whole number
+end_year: null                # Whole number
+availability: In Production                 # Exact: 'Available', 'Discontinued', 'Hiatus'
+retail: 245                  # Whole number
+drop_schedule: Every few months         # Short descrption
+
+model_card_image: 
+  url: null
+
+has_ring: false
+
+# Overall
+overall:
+  weight: 4.05                   # Decimal number
+  length: 10                     # Decimal number
+  description: null
+  image:
+    path: null
+    caption: null
+
+# Blade information
+blade:
+  shape: Weehawk  
+  material: D2 
+  surface:
+    finish: Satin       # Possible: 'Stonewashed', 'Tumbled', 'Blasted', 'Satin', 'Polished' 
+    media: null               # Possible: 'Zirconia', 'Sand', 'Bead', 'Glass'
+    coating: null              # Possible: 'DLC', 'PVD', 'Cerakote'
+  measurement:
+    length: 4.6           # Decimal number
+    thickness: 0.125     # Decimal number
+    weight: null            # Decimal number
+  has_trainer: false          # Exact: 'true', 'false'
+  is_trainer: false
+  edge:
+    tang: Chamfered                  # Exact: 'Rounded', 'Chamfered', 'None'
+    spine: null                # Exact: 'Rounded', 'Chamfered', 'None'
+  image:
+    path: null
+    caption: null
+  description: null
+
+# Handle information
+handle:
+  construction:
+    type: Channel     # Exact: 'Liners and Scales', 'Sandwich', 'Channel', 'Chanwich'
+    face: Flat
+    edge_break: Rounded    # Exact: 'Rounded', 'Chamfered', 'Rounded and Chamfered'
+    taper:
+      height: null          # Exact: 'false', 'true'
+      width: null              # Exact: 'false', 'true'
+  material:
+      frame: 7075 Aluminum                # Possible: 'Titanium', 'Aluminum', 'CF', 'G10'
+      liner: N/A       # Leave null if not applicable.
+      scale: N/A         # Leave null if not applicable.
+  surface: 
+    finish: Satin                # See blade equivalent.
+    media: null                   # See blade equivalent.
+    coating: null                  # See blade equivalent.
+  measurement:
+    thickness: 0.525         # Decimal number 
+    taper_thickness: null
+    width: null
+    taper_width: null
+    length: 5.5                 # Decimal number
+    weight: null                 # Decimal number
+  has_weight_system: false        # Sexbolts and screws on the end of channel handles counts as a weight system, but not if required for spacers. Exact: 'false', 'true'
+  has_spacers: true             # Exact: 'false', 'true'
+  image:
+    path: null
+    caption: null
+  description: null
+
+spacer:
+  material: null                 
+  thickness: null
+  description: null
+  image:
+    path: null
+    caption: null
+
+# Stop system
+stop_system: 
+  type: Screwed Zen Pins         # Exact: 'Screwed Zen Pins', 'Pressed Zen Pins', 'Hidden Zen Pins', 'Pressed Tang Pins', 'Screwed Tang Pins'
+  threading: null       # Must use slash, not dash. Example: 5/32.
+  sexbolt: 
+    length: null
+    thickness: null
+    links: null
+  screw:
+    length: null
+    links: null
+
+# Pivot system
+pivot_system: 
+  type: Bushings               # Exact: 'Washers', 'Bearings', 'Bushings'
+  washer:
+    OD: null
+    ID: null
+    thickness: null
+    links: null
+  bushing:
+    OD: null
+    ID: null
+    thickness: null
+    links: null
+  bearing:
+    name: null
+    links: null
+
+pivot:
+  threading: null
+  sexbolt:
+    length: null
+    diameter: null
+    links: null
+  screw:
+    length: null
+    links: null
+
+# Body specs
+body:
+  threading: null
+  sexbolt:
+    length: null
+    diameter: null
+    links: null
+  screw:
+    length: null
+    links: null
+
+# Variants
+variant_1:
+  name: null
+  links: null
+  differences: null
