@@ -19,7 +19,7 @@ units: null     # Exact: 'imperial', 'metric'
 links: null
 start_year: null              # Whole number
 end_year: null                # Whole number
-availability: null                 # Exact: 'Available', 'Discontinued', 'Hiatus'
+availability: null                 # Exact: 'In Production', 'Discontinued', 'Hiatus'
 retail: null                  # Whole number
 drop_schedule: null         # Short descrption
 
@@ -42,8 +42,7 @@ blade:
   shape: null 
   material: null
   surface:
-    finish: null       # Possible: 'Stonewashed', 'Tumbled', 'Blasted', 'Satin', 'Polished' 
-    media: null               # Possible: 'Zirconia', 'Sand', 'Bead', 'Glass'
+    finish: null       # Possible: 'Stonewashed', 'Tumbled', 'Blasted', 'Satin', 'Polished'
     coating: null              # Possible: 'DLC', 'PVD', 'Cerakote'
   measurement:
     length: null           # Decimal number
@@ -62,7 +61,8 @@ blade:
 # Handle information
 handle:
   construction:
-    type: null     # Exact: 'Liners and Scales', 'Sandwich', 'Channel', 'Chanwich'
+    type: null     
+    # Exact: 'Sandwich: Liners and Scales', 'Sandwich: Slabs', 'Channel', 'Channel w/ Scales', 'Chanwich', 'Chanwich w/ Scales'
     face: null
     edge_break: null    # Exact: 'Rounded', 'Chamfered', 'Rounded and Chamfered'
     taper:

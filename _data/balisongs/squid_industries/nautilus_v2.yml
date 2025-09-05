@@ -62,7 +62,7 @@ blade:
 # Handle information
 handle:
   construction:
-    type: Channel and Scales     # Exact: 'Liners and Scales', 'Sandwich', 'Channel', 'Chanwich'
+    type: Channel w/ Scales     # Exact: 'Liners and Scales', 'Sandwich', 'Channel', 'Chanwich'
     face: Flat
     edge_break: Rounded    # Exact: 'Rounded', 'Chamfered', 'Rounded and Chamfered'
     taper:

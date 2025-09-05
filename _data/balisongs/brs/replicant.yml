@@ -51,7 +51,7 @@ blade:
 # Handle information
 handle:
   construction:
-    type: Liners and Scales
+    type: 'Sandwich: Liners and Scales'
     face: Flat
     edge_break: Rounded
     taper:

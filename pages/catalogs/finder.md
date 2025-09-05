@@ -84,11 +84,11 @@ You can use this page to filter for balisongs with specific qualities. Only the 
       <label for="handleConstruction">Construction</label>
       <select id="handleConstruction">
         <option value="">Any</option>
-        <option value="channel">Channel</option>
-        <option value="channel;scales">Channel and Scales</option>
-        <option value="sandwich">Sandwich</option>
-        <option value="liner;scale">Liners and Scales</option>
+        <option value="slab">Sandwich: Slabs</option>
+        <option value="liner;scale">Sandwich: Liners and Scales</option>
         <option value="chanwich">Chanwich</option>
+        <option value="channel">Channel</option>
+        <option value="channel;scale">Channel w/ Scales</option>
       </select>
     </div>
     <div>
