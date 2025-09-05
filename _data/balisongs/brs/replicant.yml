@@ -81,7 +81,7 @@ handle:
 
 spacer:
   material: Titanium
-  thickness: null
+  thickness: .157
   description: null
   image:
     path: null
