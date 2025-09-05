@@ -6,7 +6,7 @@ nav_order: 2
 ---
 
 # Lubricant
-A <ins>lubricant</ins> is generally oil or material that sits in your pivot system to enable smooth action and minimizes wear-and-tear. Some lubricants use extra ingredents (i.e., <ins>additives</ins>) to further reduces friction for the pivot system.
+A <ins>lubricant</ins> is generally oil or material that sits in your pivot system to enable smooth action and minimizes wear-and-tear. Some lubricants use extra ingredients (i.e., <ins>additives</ins>) to further reduce friction for the pivot system.
 
 {: .warning }
 > - Do not use WD-40 or organic oils (e.g., olive oil).
