@@ -23,7 +23,7 @@ Washers are thin, circular, small pieces of metal with a hole that sits between 
 ### Tuning
 Tuning a washers-only balisong is simple.
 
-1. Apply thread locking.
+1. Apply threadlocking.
 2. Crank the screws right before the balisong motion seizes. 
 
 {: .important }
@@ -38,7 +38,7 @@ Tuning a washers-only balisong is simple.
 
 ## Bushings
 
-<ins>Bushings</ins> are metal cylinders that sit within the blade pivot blades and are sandwich between the washers then the handles. Bushings minimize damage to the handles and blade by acting as a intermediate between the washer and the blade; they also keep a tight tune by being much stronger than the washer material.
+<ins>Bushings</ins> are metal cylinders that sit within the blade pivot blades and are sandwich between the washers then the handles. Bushings maintain a tight tune by keeping a fixed distance between the washer and the blade.
 
 The bushing itself maintains tolerances for a long ass time; you don't need to swap these out unless the initial tune is bad. The only thing you need to do is
 
