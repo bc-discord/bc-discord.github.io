@@ -12,6 +12,8 @@ Anyone that makes offers modifications to baliongs, that is not their own produc
 {: .note }
 > Even if the modder does not actively offer modwork anymore, they might still be active online to learn from.
 
+For services, they may be capable of a particular modwork, but may not offer it publicly.
+
 ---
 
 ## U.S.
@@ -28,8 +30,6 @@ Anyone that makes offers modifications to baliongs, that is not their own produc
 | [Turbojackelope](https://www.instagram.com/turbojackelope/) | Inactive | Rehandles |
 | [was.knives](https://www.instagram.com/was.knives/?hl=en) | Inactive | Titanium anodization, surface finishing, blackening |
 | [XKKnives](https://www.instagram.com/xkknives/?hl=en) | ??? | Titanium anodization, surface finishing, custom spacers |
-
-For services, they may be capable of a particular modwork, but may not offer it publicly.
 
 ---
 
