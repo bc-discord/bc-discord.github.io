@@ -7,16 +7,33 @@ nav_order: 2
 
 # Materials
 
-## Blade
+---
 
-This [BladeHQ interactive page](https://www.bladehq.com/blog/knife-steel-guide) provides a good breakdown of different properties of steel. We won't reiterate on knowledge from better sources, so we focus on what is important for a balisong.
+## Basic
+
+### Blade
+
+This [Blade HQ interactive page](https://www.bladehq.com/blog/knife-steel-guide) provides a good breakdown of different properties of steel. We won't reiterate on knowledge from better sources, so we focus on what is important for a balisong.
 
 Blade material largely does not matter for flipping, but will matter when beating. The main distinction to watch for is, carbon steel, semi-stainless steel, and stainless steel. <ins>Carbon steel</ins> needs to be oiled to prevent oxidation for their higher carbon content. <ins>Stainless steel</ins> does not require blade oiling under normal usage. <ins>Semi-stainless steel</ins> sits in the middle; for less humid climates, blade oiling may not be needed.
 
 A majority of modern balisongs are stainless steel; a few are commonly used for balisongs:
 - AEB-L/440C, 154CM, CPM-154, S35VN
 
-### Exotic Material
+### Handles
+ For modern balisongs, a few materials are used for balisong handles:
+ - Carbon Fiber: A composite laminate where fibers and resin are layered. This case, the fiber being carbon strands. Typically used as scale material.
+ - G-10: Another composite laminate, but the fiber is glass. Typically used as scale material as well.
+ - Aluminum: Very lightweight metal commonly used on cheaper balisongs. Two most common grades are 6061 or 7075; the lighter is 6061, while being weaker than 7075.
+ - Titanium: The most commonly used metal for high-end balisongs. Lightweight for it's given structural properties. The most used grade is 6Al-4V (grade 5) while the chinese competitor is TC4. More expensive than Aluminum and harder to machine because of the 'spongey' properties of Titanium compared to other metals.
+
+---
+
+## Exotic
+
+Exotic materials are expensive materials that are rare and/or expensive. Many of these exotic materials have 'layered' look to them, inspired by damascus steel.
+
+### Blade
 
 #### Damascus
 <ins>Damascus</ins> is considered a laminate of two or more steels that is manipulated to produce a pattern during the fabrication process. As with regular steel, they come in carbon steel or stainless steel.
@@ -37,16 +54,7 @@ Some steels are made by a <ins>san mai</ins> process, a combining of two steels 
 - [Damacore](https://damasteel.se/steel-and-patterns/damacore) (Damasteel)
 - [CopperMai](https://www.bakerforge.com/productionsteel) (Baker Forge & Tool): Inclusion of copper into the damascus or the lamination line.
 
----
-
-## Handles
- For modern balisongs, a few materials are used for balisong handles:
- - Carbon Fiber: A composite laminate where fibers and resin are layered. This case, the fiber being carbon strands. Typically used as scale material.
- - G-10: Another composite laminate, but the fiber is glass. Typically used as scale material as well.
- - Aluminum: Very lightweight metal commonly used on cheaper balisongs. Comes in two grades of 6061 or 7075; the lighter of the two is 6061, while also being weaker than 7075.
- - Titanium: The most commonly used metal for high-end balisongs. Lightweight for it's given structural properties. The most used grade is 6Al-4V (grade 5). More expensive than Aluminum and harder to machine because of the 'spongey' properties of Titanium compared to other metals.
-
-### Exotic Material
+### Handle
 
 #### Carbon Fiber
 Layering of several colors of carbon fiber, similar layered look to damascus.
